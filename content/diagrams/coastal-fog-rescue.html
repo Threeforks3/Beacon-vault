@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Coastal Fog Rescue — SAR Signal Chain</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .leader { stroke: var(--text-tertiary); stroke-width: 0.5px; stroke-dasharray: 4 3; fill: none; }
+
+  /* Color ramps — light mode */
+  .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #FAECE7; stroke: #993C1D; }
+  .c-coral > .th, .c-coral > text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral > text.ts { fill: #993C1D; }
+  .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #FAEEDA; stroke: #854F0B; }
+  .c-amber > .th, .c-amber > text.th { fill: #633806; }
+  .c-amber > .ts, .c-amber > text.ts { fill: #854F0B; }
+  .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #E6F1FB; stroke: #185FA5; }
+  .c-blue > .th, .c-blue > text.th { fill: #0C447C; }
+  .c-blue > .ts, .c-blue > text.ts { fill: #185FA5; }
+  .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #E1F5EE; stroke: #0F6E56; }
+  .c-teal > .th, .c-teal > text.th { fill: #085041; }
+  .c-teal > .ts, .c-teal > text.ts { fill: #0F6E56; }
+  .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #F1EFE8; stroke: #5F5E5A; }
+  .c-gray > .th, .c-gray > text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray > text.ts { fill: #5F5E5A; }
+  .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #FCEBEB; stroke: #A32D2D; }
+  .c-red > .th, .c-red > text.th { fill: #791F1F; }
+  .c-red > .ts, .c-red > text.ts { fill: #A32D2D; }
+
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th, .c-coral > text.th { fill: #F5C4B3; }
+    .c-coral > .ts, .c-coral > text.ts { fill: #F0997B; }
+    .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #633806; stroke: #EF9F27; }
+    .c-amber > .th, .c-amber > text.th { fill: #FAC775; }
+    .c-amber > .ts, .c-amber > text.ts { fill: #EF9F27; }
+    .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th, .c-blue > text.th { fill: #B5D4F4; }
+    .c-blue > .ts, .c-blue > text.ts { fill: #85B7EB; }
+    .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th, .c-teal > text.th { fill: #9FE1CB; }
+    .c-teal > .ts, .c-teal > text.ts { fill: #5DCAA5; }
+    .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th, .c-gray > text.th { fill: #D3D1C7; }
+    .c-gray > .ts, .c-gray > text.ts { fill: #B4B2A9; }
+    .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #791F1F; stroke: #F09595; }
+    .c-red > .th, .c-red > text.th { fill: #F7C1C1; }
+    .c-red > .ts, .c-red > text.ts { fill: #F09595; }
+  }
+
+  /* Physical shapes */
+  .water { fill: none; stroke: #378ADD; stroke-width: 1.5px; stroke-linecap: round; }
+  .signal-wave { fill: none; stroke: #EF9F27; stroke-width: 1px; stroke-dasharray: 3 3; }
+  .heli-body { fill: var(--bg-secondary); stroke: #185FA5; stroke-width: 1px; }
+  .rotor-disc { fill: none; stroke: #85B7EB; stroke-width: 0.5px; stroke-dasharray: 2 2; }
+  .timeline-bar { fill: none; stroke: var(--border); stroke-width: 1px; }
+  .timeline-dot { fill: var(--bg-primary); stroke: var(--text-secondary); stroke-width: 1px; }
+  .fog { fill: #d0cec4; opacity: 0.35; }
+  .fog-edge { fill: none; stroke: #b5b2a8; stroke-width: 0.5px; stroke-dasharray: 2 3; opacity: 0.4; }
+  .strobe-glow { fill: none; stroke: #EF9F27; stroke-width: 0.8px; stroke-dasharray: 2 2; }
+  .strobe-core { fill: #FFF3C4; stroke: #EF9F27; stroke-width: 1px; }
+  .ir-beam { fill: none; stroke: #CC3333; stroke-width: 1.2px; stroke-dasharray: 5 3; }
+  .nvg-bracket { fill: none; stroke: #185FA5; stroke-width: 0.8px; }
+  .radar-arc { fill: none; stroke: #5DCAA5; stroke-width: 0.8px; stroke-dasharray: 3 2; }
+
+  @media (prefers-color-scheme: dark) {
+    .water { stroke: #85B7EB; }
+    .signal-wave { stroke: #EF9F27; }
+    .heli-body { fill: var(--bg-tertiary); stroke: #85B7EB; }
+    .rotor-disc { stroke: #B5D4F4; }
+    .fog { fill: #5a5a52; opacity: 0.25; }
+    .fog-edge { stroke: #88877f; }
+    .strobe-core { fill: #633806; }
+    .ir-beam { stroke: #F09595; }
+    .nvg-bracket { stroke: #85B7EB; }
+    .radar-arc { stroke: #5DCAA5; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Coastal fog rescue signal chain</h1>
+  <p class="subtitle">From invisible in fog to acquired through IR — penetrating the gray</p>
+  <svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+
+    <!-- === SCENE: Water surface across bottom of regions === -->
+    <path class="water" d="M 20 185 Q 60 175 100 185 Q 140 195 180 185 Q 220 175 260 185 Q 300 195 340 185 Q 380 175 420 185 Q 460 195 500 185 Q 540 175 580 185 Q 620 195 660 185"/>
+
+    <!-- === FOG BANK (gray overlay across distress & signal regions) === -->
+    <path class="fog" d="M 15 25 L 290 25 Q 300 45 310 70 Q 320 100 305 130 Q 295 160 290 190 L 15 190 Z"/>
+    <path class="fog-edge" d="M 290 25 Q 300 45 310 70 Q 320 100 305 130 Q 295 160 290 190"/>
+
+    <!-- === REGION 1: Distress (x=20–120) === -->
+    <g class="c-coral">
+      <rect x="20" y="30" width="100" height="150" rx="12" stroke-width="0.5"/>
+      <text class="th" x="70" y="50" text-anchor="middle">Distress</text>
+    </g>
+    <!-- Vessel silhouette half-visible in fog -->
+    <path d="M 50 176 L 60 162 L 80 162 L 90 176 Z" fill="none" stroke="#993C1D" stroke-width="1"/>
+    <rect x="63" y="150" width="14" height="12" rx="2" fill="none" stroke="#993C1D" stroke-width="0.8"/>
+    <line x1="70" y1="150" x2="70" y2="140" stroke="#993C1D" stroke-width="0.8"/>
+    <!-- Hazard indicator — rocks/grounding -->
+    <path d="M 38 178 L 42 168 L 46 178" fill="none" stroke="#993C1D" stroke-width="0.6"/>
+    <path d="M 44 180 L 48 170 L 52 180" fill="none" stroke="#993C1D" stroke-width="0.6"/>
+    <text class="ts" x="70" y="70" text-anchor="middle">Fog &lt;100 m vis</text>
+    <text class="ts" x="70" y="84" text-anchor="middle">Unknown position</text>
+    <text class="ts" x="70" y="98" text-anchor="middle">Collision risk</text>
+    <text class="ts" x="70" y="200" text-anchor="middle">Zero visibility</text>
+
+    <!-- === REGION 2: Signal emission (x=140–270) === -->
+    <g class="c-amber">
+      <rect x="140" y="30" width="130" height="150" rx="12" stroke-width="0.5"/>
+      <text class="th" x="205" y="50" text-anchor="middle">Signal emission</text>
+    </g>
+    <!-- Vessel with strobe -->
+    <path d="M 180 176 L 190 162 L 210 162 L 220 176 Z" fill="none" stroke="#854F0B" stroke-width="1"/>
+    <rect x="192" y="152" width="16" height="10" rx="2" fill="none" stroke="#854F0B" stroke-width="0.8"/>
+    <!-- Strobe device on cabin top -->
+    <rect x="197" y="142" width="6" height="10" rx="1" class="strobe-core"/>
+    <!-- Strobe glow radiating through fog — concentric arcs -->
+    <circle cx="200" cy="132" r="12" class="strobe-glow"/>
+    <circle cx="200" cy="132" r="22" class="strobe-glow"/>
+    <circle cx="200" cy="132" r="34" class="strobe-glow"/>
+    <circle cx="200" cy="132" r="48" class="strobe-glow" stroke-width="0.5"/>
+    <!-- White light label -->
+    <text class="ts" x="200" y="72" text-anchor="middle">White strobe ON</text>
+    <text class="ts" x="200" y="86" text-anchor="middle">Light penetrates fog</text>
+    <text class="ts" x="200" y="100" text-anchor="middle">(shorter scatter path)</text>
+    <!-- IR label -->
+    <text class="ts" x="275" y="115" text-anchor="end" fill="#CC3333">IR 850 nm</text>
+    <text class="ts" x="275" y="129" text-anchor="end" fill="#CC3333">penetrates deeper</text>
+    <text class="ts" x="200" y="200" text-anchor="middle">Strobe + IR active</text>
+
+    <!-- IR beam from strobe toward detection region -->
+    <path class="ir-beam" d="M 235 125 Q 290 90 340 105"/>
+
+    <!-- === REGION 3: Detection (x=290–420) === -->
+    <g class="c-blue">
+      <rect x="290" y="30" width="130" height="150" rx="12" stroke-width="0.5"/>
+      <text class="th" x="355" y="50" text-anchor="middle">Detection</text>
+    </g>
+    <!-- Helicopter with NVG overhead -->
+    <ellipse class="rotor-disc" cx="355" cy="72" rx="38" ry="6"/>
+    <rect x="350" y="69" width="10" height="6" rx="2" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+    <path class="heli-body" d="M 325 82 L 335 72 L 375 72 L 385 82 L 375 92 L 335 92 Z"/>
+    <text class="ts" x="355" y="87" text-anchor="middle" dominant-baseline="central">MH-60T</text>
+    <line x1="385" y1="82" x2="405" y2="77" stroke="#185FA5" stroke-width="1"/>
+    <!-- NVG symbol on helicopter -->
+    <ellipse cx="340" cy="79" rx="6" ry="4" class="nvg-bracket"/>
+    <circle cx="340" cy="79" r="2" fill="none" stroke="#185FA5" stroke-width="0.6"/>
+    <text class="ts" x="340" y="70" text-anchor="middle">NVG</text>
+    <!-- USCG vessel on water detecting -->
+    <rect x="330" y="130" width="50" height="20" rx="4" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <line x1="355" y1="130" x2="355" y2="115" stroke="#185FA5" stroke-width="0.8"/>
+    <circle cx="355" cy="112" r="3" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <text class="ts" x="355" y="155" text-anchor="middle">Radar contact</text>
+    <text class="ts" x="355" y="169" text-anchor="middle">NVG + IR acquisition</text>
+    <text class="ts" x="355" y="200" text-anchor="middle">Visual through fog</text>
+
+    <!-- === REGION 4: Response (x=440–570) === -->
+    <g class="c-blue">
+      <rect x="440" y="30" width="130" height="150" rx="12" stroke-width="0.5"/>
+      <text class="th" x="505" y="50" text-anchor="middle">Response</text>
+    </g>
+    <!-- USCG cutter approaching -->
+    <path d="M 470 176 L 480 156 L 520 156 L 530 176 Z" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <rect x="488" y="142" width="24" height="14" rx="3" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <!-- Wheelhouse windows -->
+    <rect x="492" y="145" width="6" height="6" rx="1" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+    <rect x="502" y="145" width="6" height="6" rx="1" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+    <!-- Radar mast -->
+    <line x1="500" y1="142" x2="500" y2="118" stroke="#185FA5" stroke-width="0.8"/>
+    <circle cx="500" cy="115" r="3" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <!-- Navigation spotlight beam -->
+    <path class="signal-wave" d="M 488 150 Q 460 145 445 155"/>
+    <text class="ts" x="505" y="70" text-anchor="middle">Navigate to strobe</text>
+    <text class="ts" x="505" y="84" text-anchor="middle">Radar confirmation</text>
+    <text class="ts" x="505" y="98" text-anchor="middle">Radio contact</text>
+    <text class="ts" x="505" y="200" text-anchor="middle">Surface approach</text>
+
+    <!-- === REGION 5: Recovery (x=590–670) === -->
+    <g class="c-teal">
+      <rect x="590" y="30" width="80" height="150" rx="12" stroke-width="0.5"/>
+      <text class="th" x="630" y="50" text-anchor="middle">Recovery</text>
+    </g>
+    <!-- Towing/escorting — two vessels close together -->
+    <path d="M 605 174 L 612 162 L 624 162 L 631 174 Z" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <path d="M 623 174 L 630 162 L 642 162 L 649 174 Z" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <!-- Tow line -->
+    <line x1="624" y1="170" x2="630" y2="170" stroke="#0F6E56" stroke-width="0.6" stroke-dasharray="2 2"/>
+    <!-- Checkmark / success indicator -->
+    <circle cx="630" cy="135" r="10" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <text class="th" x="630" y="139" text-anchor="middle" dominant-baseline="central" fill="#0F6E56">✓</text>
+    <text class="ts" x="630" y="160" text-anchor="middle">Located</text>
+    <text class="ts" x="630" y="200" text-anchor="middle">Escorted to safety</text>
+
+    <!-- === ARROWS connecting regions === -->
+    <line x1="120" y1="105" x2="134" y2="105" class="arr" marker-end="url(#arrow)"/>
+    <line x1="270" y1="105" x2="284" y2="105" class="arr" marker-end="url(#arrow)"/>
+    <line x1="420" y1="105" x2="434" y2="105" class="arr" marker-end="url(#arrow)"/>
+    <line x1="570" y1="105" x2="584" y2="105" class="arr" marker-end="url(#arrow)"/>
+
+    <!-- === TIMELINE === -->
+    <text class="th" x="340" y="260" text-anchor="middle">Elapsed time from fog descent</text>
+    <g>
+      <line x1="40" y1="290" x2="640" y2="290" class="timeline-bar"/>
+      <!-- T+0 — Distress -->
+      <circle cx="70" cy="290" r="5" class="timeline-dot"/>
+      <text class="ts" x="70" y="310" text-anchor="middle">T+0</text>
+      <text class="ts" x="70" y="324" text-anchor="middle">Fog descends</text>
+      <text class="ts" x="70" y="338" text-anchor="middle">Vessel distress</text>
+      <!-- T+1 — Signal -->
+      <circle cx="205" cy="290" r="5" class="timeline-dot"/>
+      <text class="ts" x="205" y="310" text-anchor="middle">T+1</text>
+      <text class="ts" x="205" y="324" text-anchor="middle">Strobe ON</text>
+      <!-- T+10 — Detection -->
+      <circle cx="355" cy="290" r="5" class="timeline-dot"/>
+      <text class="ts" x="355" y="310" text-anchor="middle">T+10</text>
+      <text class="ts" x="355" y="324" text-anchor="middle">USCG alerted</text>
+      <!-- T+25 — Response -->
+      <circle cx="505" cy="290" r="5" class="timeline-dot"/>
+      <text class="ts" x="505" y="310" text-anchor="middle">T+25</text>
+      <text class="ts" x="505" y="324" text-anchor="middle">Helicopter</text>
+      <text class="ts" x="505" y="338" text-anchor="middle">on scene</text>
+      <!-- T+45 — Recovery -->
+      <circle cx="630" cy="290" r="5" class="timeline-dot"/>
+      <text class="ts" x="630" y="310" text-anchor="middle">T+45</text>
+      <text class="ts" x="630" y="324" text-anchor="middle">Surface vessel</text>
+      <text class="ts" x="630" y="338" text-anchor="middle">reaches distress</text>
+    </g>
+
+    <!-- === KEY INSIGHT === -->
+    <g class="c-amber">
+      <rect x="70" y="360" width="540" height="44" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="376" text-anchor="middle" dominant-baseline="central">Fog reduces visual search to near zero.</text>
+      <text class="ts" x="340" y="392" text-anchor="middle" dominant-baseline="central">IR strobe cuts through — NVG-equipped aircraft can acquire signal at ranges where visible search is impossible.</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aircraft Ditching Rescue — SAR Signal Chain</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .leader { stroke: var(--text-tertiary); stroke-width: 0.5px; stroke-dasharray: 4 3; fill: none; }
+
+  /* Color ramps — light mode */
+  .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #FAECE7; stroke: #993C1D; }
+  .c-coral > .th, .c-coral > text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral > text.ts { fill: #993C1D; }
+  .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #FAEEDA; stroke: #854F0B; }
+  .c-amber > .th, .c-amber > text.th { fill: #633806; }
+  .c-amber > .ts, .c-amber > text.ts { fill: #854F0B; }
+  .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #E6F1FB; stroke: #185FA5; }
+  .c-blue > .th, .c-blue > text.th { fill: #0C447C; }
+  .c-blue > .ts, .c-blue > text.ts { fill: #185FA5; }
+  .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #E1F5EE; stroke: #0F6E56; }
+  .c-teal > .th, .c-teal > text.th { fill: #085041; }
+  .c-teal > .ts, .c-teal > text.ts { fill: #0F6E56; }
+  .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #F1EFE8; stroke: #5F5E5A; }
+  .c-gray > .th, .c-gray > text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray > text.ts { fill: #5F5E5A; }
+  .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #FCEBEB; stroke: #A32D2D; }
+  .c-red > .th, .c-red > text.th { fill: #791F1F; }
+  .c-red > .ts, .c-red > text.ts { fill: #A32D2D; }
+
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th, .c-coral > text.th { fill: #F5C4B3; }
+    .c-coral > .ts, .c-coral > text.ts { fill: #F0997B; }
+    .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #633806; stroke: #EF9F27; }
+    .c-amber > .th, .c-amber > text.th { fill: #FAC775; }
+    .c-amber > .ts, .c-amber > text.ts { fill: #EF9F27; }
+    .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th, .c-blue > text.th { fill: #B5D4F4; }
+    .c-blue > .ts, .c-blue > text.ts { fill: #85B7EB; }
+    .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th, .c-teal > text.th { fill: #9FE1CB; }
+    .c-teal > .ts, .c-teal > text.ts { fill: #5DCAA5; }
+    .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th, .c-gray > text.th { fill: #D3D1C7; }
+    .c-gray > .ts, .c-gray > text.ts { fill: #B4B2A9; }
+    .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #791F1F; stroke: #F09595; }
+    .c-red > .th, .c-red > text.th { fill: #F7C1C1; }
+    .c-red > .ts, .c-red > text.ts { fill: #F09595; }
+  }
+
+  /* Physical shapes */
+  .water { fill: none; stroke: #378ADD; stroke-width: 1.5px; stroke-linecap: round; }
+  .signal-wave { fill: none; stroke: #EF9F27; stroke-width: 1px; stroke-dasharray: 3 3; }
+  .heli-body { fill: var(--bg-secondary); stroke: #185FA5; stroke-width: 1px; }
+  .rotor-disc { fill: none; stroke: #85B7EB; stroke-width: 0.5px; stroke-dasharray: 2 2; }
+  .timeline-bar { fill: none; stroke: var(--border); stroke-width: 1px; }
+  .timeline-dot { fill: var(--bg-primary); stroke: var(--text-secondary); stroke-width: 1px; }
+  .rf-wave { fill: none; stroke: #185FA5; stroke-width: 1px; stroke-dasharray: 3 3; }
+  .strobe-beam { fill: none; stroke: #EF9F27; stroke-width: 1px; }
+  .aircraft-body { fill: var(--bg-secondary); stroke: #993C1D; stroke-width: 1px; }
+  .raft-body { fill: var(--bg-secondary); stroke: #854F0B; stroke-width: 1px; }
+  .raft-canopy { fill: none; stroke: #854F0B; stroke-width: 1px; }
+  @media (prefers-color-scheme: dark) {
+    .water { stroke: #85B7EB; }
+    .signal-wave { stroke: #EF9F27; }
+    .heli-body { fill: var(--bg-tertiary); stroke: #85B7EB; }
+    .rotor-disc { stroke: #B5D4F4; }
+    .rf-wave { stroke: #85B7EB; }
+    .strobe-beam { stroke: #EF9F27; }
+    .aircraft-body { fill: var(--bg-tertiary); stroke: #F0997B; }
+    .raft-body { fill: var(--bg-tertiary); stroke: #EF9F27; }
+    .raft-canopy { stroke: #EF9F27; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Aircraft ditching rescue signal chain</h1>
+  <p class="subtitle">From water landing to recovery — strobe as terminal homing beacon</p>
+  <svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+
+    <!-- === SCENE: Water surface === -->
+    <path class="water" d="M 30 180 Q 70 170 110 180 Q 150 190 190 180 Q 230 170 270 180 Q 310 190 350 180 Q 390 170 430 180 Q 470 190 510 180 Q 550 170 590 180 Q 630 190 650 180"/>
+
+    <!-- === REGION 1: Distress (x=20–135, coral) === -->
+    <g class="c-coral">
+      <rect x="20" y="30" width="115" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="77" y="50" text-anchor="middle">Distress</text>
+    </g>
+    <!-- Sinking aircraft silhouette (side view, nose down) -->
+    <g class="aircraft-body">
+      <!-- Fuselage -->
+      <ellipse cx="72" cy="158" rx="18" ry="5"/>
+      <!-- Wing -->
+      <path d="M 65 155 L 55 147 L 60 145 L 72 153"/>
+      <!-- Tail -->
+      <path d="M 88 156 L 95 148 L 97 148"/>
+      <!-- Horizontal stab -->
+      <line x1="88" y1="153" x2="97" y2="150" stroke-width="0.8"/>
+    </g>
+    <!-- Waterline through aircraft -->
+    <text class="ts" x="77" y="138" text-anchor="middle">Ditching</text>
+    <!-- Person in water -->
+    <circle cx="70" cy="171" r="6" fill="none" stroke="#993C1D" stroke-width="1.2"/>
+    <path d="M 64 177 Q 70 188 76 177" fill="none" stroke="#993C1D" stroke-width="0.8"/>
+    <!-- Second person -->
+    <circle cx="90" cy="173" r="5" fill="none" stroke="#993C1D" stroke-width="1"/>
+    <text class="ts" x="77" y="195" text-anchor="middle">Occupants in water</text>
+
+    <!-- === REGION 2: Signal emission (x=160–305, amber) === -->
+    <g class="c-amber">
+      <rect x="160" y="30" width="145" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="232" y="50" text-anchor="middle">Signal emission</text>
+    </g>
+    <!-- Life raft with canopy -->
+    <g class="raft-body">
+      <!-- Raft base -->
+      <rect x="212" y="152" width="42" height="18" rx="4"/>
+    </g>
+    <!-- Canopy -->
+    <path class="raft-canopy" d="M 216 152 Q 233 132 250 152"/>
+    <!-- Strobe on top of canopy -->
+    <circle cx="233" cy="134" r="5" fill="#EF9F27" stroke="#854F0B" stroke-width="1"/>
+    <!-- Strobe rays -->
+    <path class="strobe-beam" d="M 233 124 L 233 120"/>
+    <path class="strobe-beam" d="M 233 144 L 233 148"/>
+    <path class="strobe-beam" d="M 223 134 L 219 134"/>
+    <path class="strobe-beam" d="M 243 134 L 247 134"/>
+    <path class="strobe-beam" d="M 226 127 L 223 124"/>
+    <path class="strobe-beam" d="M 240 127 L 243 124"/>
+    <path class="strobe-beam" d="M 226 141 L 223 144"/>
+    <path class="strobe-beam" d="M 240 141 L 243 144"/>
+    <!-- SOS label near strobe -->
+    <text class="ts" x="233" y="117" text-anchor="middle">SOS pattern</text>
+    <!-- IR label -->
+    <text class="ts" x="233" y="102" text-anchor="middle">IR for NVG crews</text>
+    <!-- Signal waves radiating -->
+    <path class="signal-wave" d="M 185 145 Q 175 130 185 115"/>
+    <path class="signal-wave" d="M 280 145 Q 290 130 280 115"/>
+    <path class="signal-wave" d="M 175 110 Q 165 95 175 80"/>
+    <path class="signal-wave" d="M 290 110 Q 300 95 290 80"/>
+    <text class="ts" x="232" y="195" text-anchor="middle">Strobe visible 3+ mi</text>
+
+    <!-- === REGION 3: Detection (x=330–475, blue) === -->
+    <g class="c-blue">
+      <rect x="330" y="30" width="145" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="402" y="50" text-anchor="middle">Detection</text>
+    </g>
+    <!-- COSPAS-SARSAT antenna/tower -->
+    <line x1="380" y1="130" x2="380" y2="110" stroke="#185FA5" stroke-width="1"/>
+    <circle cx="380" cy="107" r="3" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <!-- Alert text -->
+    <text class="ts" x="380" y="146" text-anchor="middle">COSPAS-SARSAT</text>
+    <text class="ts" x="380" y="160" text-anchor="middle">ELT/PLB alert</text>
+    <!-- Search aircraft (fixed wing, looking down) -->
+    <g>
+      <ellipse class="aircraft-body" cx="425" cy="75" rx="18" ry="4"/>
+      <path class="aircraft-body" d="M 415 73 L 408 68 L 410 66 L 418 72"/>
+      <path class="aircraft-body" d="M 432 73 L 440 68 L 438 66 L 428 72"/>
+      <!-- Tail -->
+      <path d="M 442 75 L 447 70 L 447 68" stroke="#185FA5" stroke-width="1" fill="none"/>
+      <text class="ts" x="425" y="63" text-anchor="middle">SAR aircraft</text>
+    </g>
+    <!-- Grid search pattern annotation -->
+    <path d="M 398 160 L 398 170" stroke="#185FA5" stroke-width="0.5" stroke-dasharray="2 2"/>
+    <path d="M 410 162 L 410 170" stroke="#185FA5" stroke-width="0.5" stroke-dasharray="2 2"/>
+    <text class="ts" x="402" y="195" text-anchor="middle">Grid search, spots strobe</text>
+
+    <!-- === REGION 4: Response (x=475–595, blue) === -->
+    <g class="c-blue">
+      <rect x="475" y="30" width="120" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="535" y="50" text-anchor="middle">Response</text>
+    </g>
+    <!-- Helicopter -->
+    <ellipse class="rotor-disc" cx="535" cy="82" rx="30" ry="5"/>
+    <rect x="530" y="79" width="10" height="6" rx="2" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+    <path class="heli-body" d="M 512 92 L 520 82 L 550 82 L 558 92 L 550 100 L 520 100 Z"/>
+    <text class="ts" x="535" y="97" text-anchor="middle" dominant-baseline="central">Helo en route</text>
+    <!-- Tail -->
+    <line x1="558" y1="92" x2="575" y2="87" stroke="#185FA5" stroke-width="1"/>
+    <!-- Strobe homing indication -->
+    <path class="signal-wave" d="M 500 120 Q 490 110 500 100"/>
+    <path class="signal-wave" d="M 570 120 Q 580 110 570 100"/>
+    <text class="ts" x="535" y="122" text-anchor="middle">Strobe homing</text>
+    <text class="ts" x="535" y="195" text-anchor="middle">Terminal guidance</text>
+
+    <!-- === REGION 5: Recovery (x=575–660, teal) === -->
+    <g class="c-teal">
+      <rect x="575" y="30" width="85" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="617" y="50" text-anchor="middle">Recovery</text>
+    </g>
+    <!-- Hoist cable -->
+    <line x1="617" y1="82" x2="617" y2="145" stroke="#0F6E56" stroke-width="1"/>
+    <!-- Person being hoisted -->
+    <circle cx="617" cy="145" r="7" fill="none" stroke="#0F6E56" stroke-width="1.5"/>
+    <path d="M 611 150 Q 617 162 623 150" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <!-- Hoist basket/swimmer -->
+    <rect x="607" y="152" width="20" height="8" rx="3" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <text class="ts" x="617" y="195" text-anchor="middle">Hoist complete</text>
+
+    <!-- === ARROWS connecting regions === -->
+    <line x1="135" y1="100" x2="160" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="305" y1="100" x2="330" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="475" y1="100" x2="500" y2="100" class="arr" marker-end="url(#arrow)"/>
+
+    <!-- === TIMELINE === -->
+    <text class="th" x="340" y="272" text-anchor="middle">Elapsed time from ditching</text>
+    <g>
+      <line x1="40" y1="302" x2="640" y2="302" class="timeline-bar"/>
+      <!-- T+0: Ditching -->
+      <circle cx="77" cy="302" r="5" class="timeline-dot"/>
+      <text class="ts" x="77" y="322" text-anchor="middle">T+0</text>
+      <text class="ts" x="77" y="336" text-anchor="middle">Ditching</text>
+      <!-- T+2: Raft deployed, strobe on -->
+      <circle cx="232" cy="302" r="5" class="timeline-dot"/>
+      <text class="ts" x="232" y="322" text-anchor="middle">T+2</text>
+      <text class="ts" x="232" y="336" text-anchor="middle">Raft + strobe</text>
+      <!-- T+8: COSPAS-SARSAT alert -->
+      <circle cx="402" cy="302" r="5" class="timeline-dot"/>
+      <text class="ts" x="402" y="322" text-anchor="middle">T+8</text>
+      <text class="ts" x="402" y="336" text-anchor="middle">SARSAT alert</text>
+      <!-- T+30: SAR spots strobe -->
+      <circle cx="535" cy="302" r="5" class="timeline-dot"/>
+      <text class="ts" x="535" y="322" text-anchor="middle">T+30</text>
+      <text class="ts" x="535" y="336" text-anchor="middle">Strobe spotted</text>
+      <!-- T+60: Recovery complete -->
+      <circle cx="617" cy="302" r="5" class="timeline-dot"/>
+      <text class="ts" x="617" y="322" text-anchor="middle">T+60</text>
+      <text class="ts" x="617" y="336" text-anchor="middle">Recovered</text>
+    </g>
+
+    <!-- === KEY INSIGHT === -->
+    <g class="c-amber">
+      <rect x="105" y="362" width="470" height="44" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="378" text-anchor="middle" dominant-baseline="central">A life raft at sea level is invisible beyond 1 mile.</text>
+      <text class="ts" x="340" y="394" text-anchor="middle" dominant-baseline="central">A strobe on the raft canopy is visible for 3+ miles — and IR strobe guides NVG-equipped crews directly to the raft.</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>

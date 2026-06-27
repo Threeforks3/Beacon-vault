@@ -1,5 +1,7 @@
 # Beacon SAR Knowledge Base
 
+> **Beacon** is a portable emergency signaling device — a compact, waterproof strobe that runs 26+ hours on a single battery. It emits white light visible for 2-3+ nautical miles and infrared visible through night vision. It attaches to PFDs, packs, or any surface via a bar-based architecture with zero moving parts. Search crews can see it. That's the point.
+
 A coalition knowledge base for search and rescue signaling. Every scenario page maps current technologies, identifies gaps, and shows how Beacon closes them. Contributions are attributed to their source organizations as footnotes — each partner's voice preserved verbatim.
 
 ## Find Your Scenario
@@ -25,8 +27,8 @@ A coalition knowledge base for search and rescue signaling. Every scenario page 
 
 ## Coalition Resources
 
-- [[Partner Resources]] — Organizations, protocols, and standards
-- [[Equipment Considerations]] — Design decisions and tradeoffs
+- [[Emergency Responders]] — Organizations, protocols, and standards
+- [[Beacon]] — Design decisions and tradeoffs
 - [[Regulatory]] — FCC, USCG, UL, and international compliance
 - [[Kickstarter]] — Public-facing campaign materials
 

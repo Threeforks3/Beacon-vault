@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Power Outage Rescue — SAR Signal Chain</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .leader { stroke: var(--text-tertiary); stroke-width: 0.5px; stroke-dasharray: 4 3; fill: none; }
+
+  /* Color ramps — light mode */
+  .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #FAECE7; stroke: #993C1D; }
+  .c-coral > .th, .c-coral > text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral > text.ts { fill: #993C1D; }
+  .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #FAEEDA; stroke: #854F0B; }
+  .c-amber > .th, .c-amber > text.th { fill: #633806; }
+  .c-amber > .ts, .c-amber > text.ts { fill: #854F0B; }
+  .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #E6F1FB; stroke: #185FA5; }
+  .c-blue > .th, .c-blue > text.th { fill: #0C447C; }
+  .c-blue > .ts, .c-blue > text.ts { fill: #185FA5; }
+  .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #E1F5EE; stroke: #0F6E56; }
+  .c-teal > .th, .c-teal > text.th { fill: #085041; }
+  .c-teal > .ts, .c-teal > text.ts { fill: #0F6E56; }
+  .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #F1EFE8; stroke: #5F5E5A; }
+  .c-gray > .th, .c-gray > text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray > text.ts { fill: #5F5E5A; }
+  .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #FCEBEB; stroke: #A32D2D; }
+  .c-red > .th, .c-red > text.th { fill: #791F1F; }
+  .c-red > .ts, .c-red > text.ts { fill: #A32D2D; }
+
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th, .c-coral > text.th { fill: #F5C4B3; }
+    .c-coral > .ts, .c-coral > text.ts { fill: #F0997B; }
+    .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #633806; stroke: #EF9F27; }
+    .c-amber > .th, .c-amber > text.th { fill: #FAC775; }
+    .c-amber > .ts, .c-amber > text.ts { fill: #EF9F27; }
+    .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th, .c-blue > text.th { fill: #B5D4F4; }
+    .c-blue > .ts, .c-blue > text.ts { fill: #85B7EB; }
+    .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th, .c-teal > text.th { fill: #9FE1CB; }
+    .c-teal > .ts, .c-teal > text.ts { fill: #5DCAA5; }
+    .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th, .c-gray > text.th { fill: #D3D1C7; }
+    .c-gray > .ts, .c-gray > text.ts { fill: #B4B2A9; }
+    .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #791F1F; stroke: #F09595; }
+    .c-red > .th, .c-red > text.th { fill: #F7C1C1; }
+    .c-red > .ts, .c-red > text.ts { fill: #F09595; }
+  }
+
+  /* Physical shapes */
+  .building-wall { fill: var(--bg-secondary); stroke: var(--text-tertiary); stroke-width: 0.8px; }
+  .window-dark { fill: #3a3a38; stroke: #5f5e5a; stroke-width: 0.4px; }
+  .window-glow { fill: #EF9F27; stroke: #FAC775; stroke-width: 0.6px; }
+  .strobe-ray { fill: none; stroke: #EF9F27; stroke-width: 0.8px; stroke-dasharray: 3 3; }
+  .strobe-glow { fill: none; stroke: #EF9F27; stroke-width: 0.5px; opacity: 0.6; }
+  .spotlight-beam { fill: none; stroke: #EF9F27; stroke-width: 1px; opacity: 0.5; stroke-dasharray: 6 4; }
+  .truck-body { fill: var(--bg-secondary); stroke: #185FA5; stroke-width: 0.8px; }
+  .ladder { fill: none; stroke: #185FA5; stroke-width: 1px; }
+  .timeline-bar { fill: none; stroke: var(--border); stroke-width: 1px; }
+  .timeline-dot { fill: var(--bg-primary); stroke: var(--text-secondary); stroke-width: 1px; }
+  @media (prefers-color-scheme: dark) {
+    .window-dark { fill: #1a1a18; stroke: #888780; stroke-width: 0.4px; }
+    .window-glow { fill: #EF9F27; stroke: #FAC775; stroke-width: 0.6px; }
+    .spotlight-beam { stroke: #FAC775; }
+    .truck-body { fill: var(--bg-tertiary); stroke: #85B7EB; }
+    .ladder { stroke: #85B7EB; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Power outage high-rise rescue signal chain</h1>
+  <p class="subtitle">From trapped in the dark to identified — one lit window among hundreds</p>
+  <svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+
+    <!-- === REGION 1: Distress (x=15-140) === -->
+    <g class="c-coral">
+      <rect x="15" y="30" width="125" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="77" y="48" text-anchor="middle">Distress</text>
+    </g>
+
+    <!-- High-rise building silhouette -->
+    <rect class="building-wall" x="40" y="58" width="70" height="100" rx="2"/>
+    <!-- Roof line -->
+    <line x1="38" y1="60" x2="112" y2="60" stroke="var(--text-tertiary)" stroke-width="0.8"/>
+    <!-- Floor dividers -->
+    <line x1="42" y1="80" x2="108" y2="80" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <line x1="42" y1="100" x2="108" y2="100" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <line x1="42" y1="120" x2="108" y2="120" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <line x1="42" y1="140" x2="108" y2="140" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <!-- Dark windows (no power) -->
+    <!-- Floor 1 -->
+    <rect class="window-dark" x="48" y="63" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="90" y="63" width="12" height="11" rx="1"/>
+    <!-- Floor 2 -->
+    <rect class="window-dark" x="48" y="83" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="90" y="83" width="12" height="11" rx="1"/>
+    <!-- Floor 3 -->
+    <rect class="window-dark" x="48" y="103" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="90" y="103" width="12" height="11" rx="1"/>
+    <!-- Floor 4 -->
+    <rect class="window-dark" x="48" y="123" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="90" y="123" width="12" height="11" rx="1"/>
+    <!-- Floor 5 -->
+    <rect class="window-dark" x="48" y="143" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="90" y="143" width="12" height="11" rx="1"/>
+
+    <!-- Person silhouette trapped at top floor window -->
+    <circle cx="96" cy="68" r="4" fill="none" stroke="#993C1D" stroke-width="0.8"/>
+    <path d="M 92 72 Q 96 78 100 72" fill="none" stroke="#993C1D" stroke-width="0.8"/>
+
+    <!-- Power-out symbol (lightning bolt in circle) -->
+    <circle cx="77" cy="170" r="6" fill="none" stroke="#993C1D" stroke-width="0.7"/>
+    <line x1="76" y1="166" x2="73" y2="171" stroke="#993C1D" stroke-width="1" stroke-linecap="round"/>
+    <line x1="73" y1="171" x2="77" y2="171" stroke="#993C1D" stroke-width="1" stroke-linecap="round"/>
+    <line x1="77" y1="171" x2="80" y2="166" stroke="#993C1D" stroke-width="1" stroke-linecap="round"/>
+    <text class="ts" x="77" y="192" text-anchor="middle">Trapped on</text>
+    <text class="ts" x="77" y="204" text-anchor="middle">upper floors</text>
+
+    <!-- === REGION 2: Signal emission (x=145-290) === -->
+    <g class="c-amber">
+      <rect x="145" y="30" width="145" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="217" y="48" text-anchor="middle">Signal emission</text>
+    </g>
+
+    <!-- Building wall segment -->
+    <rect class="building-wall" x="170" y="58" width="70" height="100" rx="2"/>
+    <!-- Floor dividers -->
+    <line x1="172" y1="80" x2="238" y2="80" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <line x1="172" y1="100" x2="238" y2="100" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <line x1="172" y1="120" x2="238" y2="120" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <line x1="172" y1="140" x2="238" y2="140" stroke="var(--text-tertiary)" stroke-width="0.5"/>
+    <!-- Dark windows -->
+    <rect class="window-dark" x="178" y="63" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="220" y="63" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="178" y="83" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="220" y="83" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="178" y="103" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="178" y="123" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="220" y="123" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="178" y="143" width="12" height="11" rx="1"/>
+    <rect class="window-dark" x="220" y="143" width="12" height="11" rx="1"/>
+
+    <!-- Glowing strobe window (right window, floor 3) -->
+    <rect class="window-glow" x="220" y="103" width="12" height="11" rx="1"/>
+    <!-- Strobe glow circles -->
+    <circle cx="226" cy="108" r="18" class="strobe-glow"/>
+    <circle cx="226" cy="108" r="28" class="strobe-glow"/>
+    <!-- Strobe radiating rays -->
+    <line x1="226" y1="108" x2="226" y2="75" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="226" y2="141" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="200" y2="80" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="252" y2="80" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="200" y2="108" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="252" y2="108" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="200" y2="136" class="strobe-ray"/>
+    <line x1="226" y1="108" x2="252" y2="136" class="strobe-ray"/>
+
+    <!-- SOS pattern label -->
+    <text class="t" x="217" y="175" text-anchor="middle">Strobe in window</text>
+    <text class="ts" x="217" y="190" text-anchor="middle">SOS pattern / 26h runtime</text>
+
+    <!-- === REGION 3: Detection (x=295-435) === -->
+    <g class="c-blue">
+      <rect x="295" y="30" width="140" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="365" y="48" text-anchor="middle">Detection</text>
+    </g>
+
+    <!-- Fire truck body -->
+    <rect class="truck-body" x="330" y="130" width="55" height="22" rx="3"/>
+    <rect class="truck-body" x="325" y="134" width="10" height="14" rx="2"/>
+    <!-- Cab window -->
+    <rect x="328" y="136" width="6" height="6" rx="1" fill="none" stroke="#85B7EB" stroke-width="0.5"/>
+    <!-- Wheels -->
+    <circle cx="342" cy="152" r="6" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <circle cx="342" cy="152" r="3" fill="none" stroke="#185FA5" stroke-width="0.4"/>
+    <circle cx="375" cy="152" r="6" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <circle cx="375" cy="152" r="3" fill="none" stroke="#185FA5" stroke-width="0.4"/>
+
+    <!-- Aerial ladder extending toward building -->
+    <line x1="340" y1="130" x2="308" y2="80" class="ladder"/>
+    <line x1="344" y1="128" x2="311" y2="78" class="ladder"/>
+    <!-- Ladder rungs -->
+    <line x1="340" y1="130" x2="344" y2="128" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="336" y1="123" x2="340" y2="121" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="332" y1="116" x2="336" y2="114" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="328" y1="109" x2="332" y2="107" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="324" y1="102" x2="328" y2="100" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="320" y1="95" x2="324" y2="93" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="316" y1="88" x2="320" y2="86" stroke="#185FA5" stroke-width="0.5"/>
+    <line x1="312" y1="81" x2="316" y2="79" stroke="#185FA5" stroke-width="0.5"/>
+
+    <!-- Spotlight at top of ladder -->
+    <circle cx="309" cy="78" r="4" fill="none" stroke="#EF9F27" stroke-width="0.8"/>
+    <!-- Scanning beam toward building -->
+    <line x1="309" y1="78" x2="260" y2="60" class="spotlight-beam"/>
+    <line x1="309" y1="78" x2="255" y2="70" class="spotlight-beam"/>
+    <line x1="309" y1="78" x2="258" y2="85" class="spotlight-beam"/>
+
+    <!-- Firefighter with binoculars -->
+    <circle cx="352" cy="120" r="6" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <path d="M 348 126 Q 352 132 356 126" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <!-- Binoculars -->
+    <circle cx="349" cy="118" r="2" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+    <circle cx="355" cy="118" r="2" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+
+    <text class="ts" x="365" y="178" text-anchor="middle">Night scan — FD / Guard</text>
+    <text class="ts" x="365" y="192" text-anchor="middle">spots glowing window</text>
+
+    <!-- === REGION 4: Response (x=440-575) === -->
+    <g class="c-blue">
+      <rect x="440" y="30" width="135" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="507" y="48" text-anchor="middle">Response</text>
+    </g>
+
+    <!-- Building entrance (doorway arch) -->
+    <path d="M 477 165 L 477 147 Q 487 137 497 147 L 497 165" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+
+    <!-- Rescue team entering -->
+    <!-- Firefighter 1 (front) -->
+    <circle cx="482" cy="146" r="5" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <path d="M 478 151 Q 482 156 486 151" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <!-- Helmet/gear -->
+    <rect x="479" y="142" width="6" height="4" rx="1" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+
+    <!-- Firefighter 2 (behind) -->
+    <circle cx="494" cy="150" r="5" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <path d="M 490 155 Q 494 160 498 155" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <rect x="491" y="146" width="6" height="4" rx="1" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+
+    <!-- Resident being assisted -->
+    <circle cx="470" cy="148" r="5" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <path d="M 466 153 Q 470 158 474 153" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+
+    <text class="ts" x="507" y="178" text-anchor="middle">Team dispatched to</text>
+    <text class="ts" x="507" y="192" text-anchor="middle">specific floor &amp; unit</text>
+
+    <!-- === REGION 5: Recovery (x=580-670) === -->
+    <g class="c-teal">
+      <rect x="580" y="30" width="90" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="625" y="48" text-anchor="middle">Recovery</text>
+    </g>
+
+    <!-- Evacuated person -->
+    <circle cx="625" cy="138" r="7" fill="none" stroke="#0F6E56" stroke-width="1.2"/>
+    <path d="M 618 145 Q 625 154 632 145" fill="none" stroke="#0F6E56" stroke-width="1"/>
+
+    <!-- Helping hand / supporter -->
+    <line x1="632" y1="142" x2="645" y2="145" stroke="#0F6E56" stroke-width="1" stroke-linecap="round"/>
+    <line x1="632" y1="148" x2="645" y2="150" stroke="#0F6E56" stroke-width="1" stroke-linecap="round"/>
+
+    <!-- Medical cross -->
+    <rect x="618" y="155" width="14" height="14" rx="2" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <line x1="625" y1="156" x2="625" y2="168" stroke="#0F6E56" stroke-width="0.8"/>
+    <line x1="619" y1="162" x2="631" y2="162" stroke="#0F6E56" stroke-width="0.8"/>
+
+    <text class="ts" x="625" y="195" text-anchor="middle">Evacuation +</text>
+    <text class="ts" x="625" y="207" text-anchor="middle">medical aid</text>
+
+    <!-- === ARROWS connecting regions === -->
+    <line x1="140" y1="100" x2="199" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="290" y1="100" x2="349" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="435" y1="100" x2="494" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="575" y1="100" x2="634" y2="100" class="arr" marker-end="url(#arrow)"/>
+
+    <!-- === TIMELINE === -->
+    <text class="th" x="340" y="270" text-anchor="middle">Elapsed time (hours from power outage)</text>
+    <g>
+      <line x1="40" y1="300" x2="640" y2="300" class="timeline-bar"/>
+      <!-- T+0 -->
+      <circle cx="70" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="70" y="320" text-anchor="middle">T+0</text>
+      <text class="ts" x="70" y="334" text-anchor="middle">Power out</text>
+      <!-- T+1 -->
+      <circle cx="210" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="210" y="320" text-anchor="middle">T+1</text>
+      <text class="ts" x="210" y="334" text-anchor="middle">Strobe activated</text>
+      <!-- T+6 -->
+      <circle cx="340" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="340" y="320" text-anchor="middle">T+6</text>
+      <text class="ts" x="340" y="334" text-anchor="middle">Night falls — strobe visible</text>
+      <!-- T+8 -->
+      <circle cx="480" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="480" y="320" text-anchor="middle">T+8</text>
+      <text class="ts" x="480" y="334" text-anchor="middle">Fire dept spots strobe</text>
+      <!-- T+10 -->
+      <circle cx="610" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="610" y="320" text-anchor="middle">T+10</text>
+      <text class="ts" x="610" y="334" text-anchor="middle">Evacuation</text>
+    </g>
+
+    <!-- === KEY INSIGHT === -->
+    <g class="c-amber">
+      <rect x="100" y="360" width="480" height="44" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="376" text-anchor="middle" dominant-baseline="central">Checking 200 units with flashlights takes hours.</text>
+      <text class="ts" x="340" y="392" text-anchor="middle" dominant-baseline="central">A strobe in one window announces the occupied unit instantly — triage at a glance.</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>
