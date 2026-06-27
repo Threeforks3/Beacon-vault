@@ -1,0 +1,4625 @@
+# BOAT CREW HANDBOOK - First Aid.pdf
+# Pages: 97
+# Source: USCG Sea School training materials
+
+--- PAGE 1 ---
+BOAT CREW HANDBOOK –
+First Aid
+The Overland Expedition
+BCH 16114.5
+December 2017
+Revenue Cutter Bear
+Relief Party Sighted Whaling Vessels
+2d LT Bertholf; Dr. Call; 1st LT Jarvis
+
+--- PAGE 2 ---
+The Overland Expedition
+In 1897 an early Arctic winter stranded 300 whalers in eight ships stuck in ice without supplies north of 
+the Arctic Circle at Point Barrow. The men faced starvation. President McKinley instructed the Treasury 
+Department to entrust a rescue attempt to the Revenue Cutter Service. An urgent letter, dated November 
+15, 1897, from the Secretary of the Treasury to Captain Francis Tuttle, skipper of the BEAR, outlined the 
+emergency.
+Sending a ship into the Arctic in winter conditions was unheard of, but the BEAR was a “sailing battering 
+ram” (Kroll), made of thick oak planks and iron. It was provisioned with one year’s rations for the crew 
+plus 12,000 rations for the whalers. In three short weeks the BEAR sailed out of Seattle headed north.
+Arctic ice would stop the cutter near Nome at Cape Vancouver. Reindeer herds had to be driven 1600
+miles by dogsled in the Arctic winter to feed the starving whalers, who were suffering from scurvy.
+In command of the BEAR was the brilliant, soft-spoken First Lieutenant David H. Jarvis. Second 
+Lieutenant E. P. “Bully” Bertholf, later Commandant of the Coast Guard, was named as assistant to 
+Jarvis. The third member of the BEAR’s landing party was Dr. Samuel J. Call, an experienced ship’s 
+physician. 
+During the next hundred days Jarvis, Bertholf and Call endured Arctic temperatures of -40 F by day. They
+relied on native guides and villages to replenish their dogs and herd reindeer. On March 26, 1898, a 
+beautiful clear day, the relief party sighted the most westerly of the icebound whaling vessels. On the 29th
+Jarvis and Call arrived at Point Barrow, followed by 400 reindeer. Dr. Call handled scurvy, frostbite and 
+amputations.  Bertholf remained at Point Hope until the ice melted and the BEAR could reach the 
+whalers. He enforced the law in the area, destroying stills and investigating crimes.
+When the cutter BEAR broke through to Point Barrow on July 28, Captain Tuttle was greatly relieved to 
+find that the Overland Expedition had been a glorious success and that all but a few of the whaling men 
+had survived. Laden with survivors, the BEAR arrived at Seattle on September 13, 1898, almost ten 
+months after its feverish departure the previous December.
+Jarvis, Bertholf, and Call were recommended by President McKinley for decoration. Gold medals voted 
+by Congress were presented to them in 1902 with expressions of thanks.
+https://www.uscg.mil/history/articles/johnson_overland_expedition.asp
+Douglas Kroll, Commodore Ellsworth Bertholf (Naval Institute Press, 2002)
+United States Treasury Department. Report of the Cruise of the U.S. Revenue Cutter Bear and the 
+Overland Expedition for the Relief of the Whalers in the Arctic Ocean, from Nov 27, 1897 to Sep 13, 
+1898. Washington: GPO, 1899.
+(Primary source of information; by participants of the expedition. 
+Contains Jarvis' journal entries.)
+
+--- PAGE 3 ---
+                   
+BOAT CREW HANDBOOK – FIRST AID – BCH16114.5
+Subj:
+BOAT CREW HANDBOOK – FIRST AID
+Ref:
+a.
+Coast Guard Medical Manual, COMDTINST M6000.1 (Series)
+1. PURPOSE. This Handbook describes accepted first aid practices that, along with practical 
+training in their performance, will aid boat crews in delivering effective medical care that 
+preserves life, prevents a victim's condition from worsening, and promotes their speedy 
+recovery. The major topic within this handbook is basic First Aid.
+2. DIRECTIVES AFFECTED. The Boat Crew Seamanship Manual, COMDTINST 
+M16114.5C, is canceled.
+3. DISCUSSION. This Handbook provides guidance on the application of first aid in maritime 
+environments and situations.
+4.
+MAJOR CHANGES. First issue.  
+5. DISCLAIMER. This guidance is not a substitute for applicable legal requirements, nor is it 
+itself a rule. It is intended to provide operational guidance for Coast Guard personnel and is 
+not intended to nor does it impose legally-binding requirements on any party outside the 
+Coast Guard.
+6. IMPACT ASSESSMENT. No impact assessment warranted.
+Commandant
+United States Coast Guard
+US Coast Guard Stop 7324
+2703 Martin Luther King Jr Ave SE
+Washington DC 20593-7324
+Staff Symbol: CG-731
+Phone: (202) 372-2515
+BCH 16114.5
+DEC 13, 2017
+
+--- PAGE 4 ---
+BCH 16114.5
+2
+7. ENVIRONMENTAL ASPECT AND IMPACT CONSIDERATIONS.
+a.   The development of this Handbook and the general guidance contained within it have 
+been thoroughly reviewed by the originating office in conjunction with the Office of 
+Environmental Management, and are categorically excluded (CE) under current USCG 
+CE #33 from further environmental analysis, in accordance with Section 2.B.2. and 
+Figure 2-1 of the National Environmental Policy Act Implementing Procedures and 
+Policy for Considering Environmental Impacts, COMDTINST M16475.1 (series). 
+Because this Handbook contains guidance documents that implement, without 
+substantive change, the applicable Commandant Instruction and other guidance 
+documents, Coast Guard categorical exclusion #33 is appropriate.
+b.   This Handbook will not have any of the following: significant cumulative impacts on the 
+human environment; substantial controversy or substantial change to existing 
+environmental conditions; or inconsistencies with any Federal, State, or local laws or 
+administrative determinations relating to the environment. All future specific actions 
+resulting from the general guidance in this Handbook shall be individually evaluated for 
+compliance with the National Environmental Policy Act (NEPA), Department of 
+Homeland Security (DHS) and Coast Guard NEPA policy, and compliance with all 
+other environmental mandates.
+7. DISTRIBUTION.  No paper distribution will be made of this Handbook.  An electronic 
+version will be located on the Office of Boat Forces (CG-731) Portal site: 
+https://cg.portal.uscg.mil/units/cg731/SitePages/Manuals.aspx.
+8. FORMS/ REPORTS.  None
+9. REQUESTS FOR CHANGES.  To recommend edits and changes to this Handbook, please 
+submit a formal request at the following link: 
+https://cg.portal.uscg.mil/communities/bfco/doctrine/SitePages/Home.aspx.
+J. BRIAN RUSH
+U.S. Coast Guard
+Chief, Office of Boat Forces
+
+--- PAGE 5 ---
+Boat Crew Handbook – First Aid 
+i
+Table of Contents
+CHAPTER 1 INTRODUCTION ............................................................................................................................. 1-1
+SECTION A. 
+PURPOSE OF THIS HANDBOOK ............................................................................................................... 1-1
+SECTION B. 
+HOW TO USE THIS HANDBOOK .............................................................................................................. 1-2
+CHAPTER 2 FIRST AID ...................................................................................................................................... 2-1
+SECTION A. 
+CREWMEMBERS’ ROLES ....................................................................................................................... 2-2
+A.1. Responsibilities.......................................................................................................................................................... 2-2
+A.2. Handling and Transporting of Injured ....................................................................................................................... 2-4
+SECTION B. 
+MOTION SICKNESS .............................................................................................................................. 2-6
+B.1. Causes of Motion Sickness......................................................................................................................................... 2-6
+B.2. Symptoms .................................................................................................................................................................. 2-6
+B.3. Risk Management ...................................................................................................................................................... 2-7
+B.4. Prescription Medication Restrictions......................................................................................................................... 2-7
+SECTION C. 
+TREATMENT FOR SHOCK ....................................................................................................................... 2-8
+Shock .................................................................................................................................................................. 2-8
+C.1. Description ................................................................................................................................................................ 2-8
+C.2. Causes ........................................................................................................................................................................ 2-8
+C.3. Symptoms vs. Signs .................................................................................................................................................... 2-9
+C.4. Shock Symptoms ........................................................................................................................................................ 2-9
+C.5. Shock Signs ................................................................................................................................................................ 2-9
+C.6. Assessment .............................................................................................................................................................. 2-10
+C.7. Treatment ................................................................................................................................................................ 2-10
+Anaphylactic Shock .......................................................................................................................................... 2-12
+C.8. Description .............................................................................................................................................................. 2-12
+C.9. Causes ...................................................................................................................................................................... 2-12
+C.10. Symptoms .............................................................................................................................................................. 2-12
+C.11. Assessment ............................................................................................................................................................ 2-13
+C.12. Treatment .............................................................................................................................................................. 2-14
+SECTION D. 
+RESUSCITATION METHODS AND EMERGENCIES ....................................................................................... 2-15
+Resuscitation Procedures ................................................................................................................................. 2-16
+D.1. Description .............................................................................................................................................................. 2-16
+D.2. Artificial Respiration ................................................................................................................................................ 2-16
+D.3. Cardiac Compression ............................................................................................................................................... 2-16
+D.4. CPR .......................................................................................................................................................................... 2-16
+Heart Attack..................................................................................................................................................... 2-18
+D.5. Description .............................................................................................................................................................. 2-18
+D.6. Symptoms ................................................................................................................................................................ 2-18
+D.7. Treatment ............................................................................................................................................................... 2-18
+Stroke ............................................................................................................................................................... 2-19
+D.8. Description .............................................................................................................................................................. 2-19
+D.9. Symptoms ................................................................................................................................................................ 2-19
+D.10. Memory Aid........................................................................................................................................................... 2-19
+D.11. Treatment ............................................................................................................................................................. 2-20
+Scuba Incidents ................................................................................................................................................ 2-20
+D.12. Types of Scuba Incidents ....................................................................................................................................... 2-20
+D.13. Responder Action .................................................................................................................................................. 2-21
+D.14. Treating Scuba Incidents ....................................................................................................................................... 2-21
+D.15. Equipment Availability .......................................................................................................................................... 2-21
+SECTION E. 
+TREATMENT FOR WOUNDS, FRACTURES, AND BURNS .............................................................................. 2-22
+Bandages ......................................................................................................................................................... 2-23
+
+--- PAGE 6 ---
+Boat Crew Handbook – First Aid
+ii
+E.1. Types of Bandages ................................................................................................................................................... 2-23
+E.2. Bandage Application................................................................................................................................................ 2-23
+E.3. Circulation ................................................................................................................................................................ 2-24
+Bleeding ........................................................................................................................................................... 2-24
+E.4. Types of Bleeding ..................................................................................................................................................... 2-24
+E.5. Prevention of Bloodborne Pathogens ...................................................................................................................... 2-24
+E.6. Universal Medical Precaution .................................................................................................................................. 2-25
+E.7. Control of Bleeding.................................................................................................................................................. 2-25
+Fractures (Broken Bones) ................................................................................................................................. 2-28
+E.9. Types of Fractures .................................................................................................................................................... 2-28
+E.10. Symptoms .............................................................................................................................................................. 2-28
+E.11. Handling a Fracture................................................................................................................................................2-29
+E.12. Treatment of Specific Bones .................................................................................................................................. 2-30
+Burns................................................................................................................................................................ 2-36
+E.13. Causes of Burns ...................................................................................................................................................... 2-36
+E.14. Burn Classification ................................................................................................................................................. 2-37
+E.15. Burn First Aid ......................................................................................................................................................... 2-39
+E.16. Chemical Burns ...................................................................................................................................................... 2-40
+SECTION F.
+COLD-RELATED FACTORS.................................................................................................................... 2-41
+Effects of Cold Weather ................................................................................................................................... 2-41
+F.1. Operating in a Cold Climate ..................................................................................................................................... 2-41
+F.2. Wind......................................................................................................................................................................... 2-41
+F.3. Crew Fatigue ............................................................................................................................................................ 2-41
+Hypothermia .................................................................................................................................................... 2-42
+F.4. Loss of Body Heat ..................................................................................................................................................... 2-42
+F.5. Survivability .............................................................................................................................................................. 2-42
+F.6. Signs ......................................................................................................................................................................... 2-42
+F.7. Rescue Precautions .................................................................................................................................................. 2-43
+F.8. Basic Treatment ....................................................................................................................................................... 2-43
+Frostbite ........................................................................................................................................................... 2-46
+F.10. Development Factors ............................................................................................................................................. 2-46
+F.11. Symptoms .............................................................................................................................................................. 2-46
+F.12. Prevention ............................................................................................................................................................. 2-47
+Layering Clothing ............................................................................................................................................. 2-47
+F.13. First Layer - Wicking ............................................................................................................................................... 2-47
+F.14. Second Layer - Insulation ....................................................................................................................................... 2-47
+F.15. Third Layer - Moisture Barrier ................................................................................................................................ 2-47
+F.16. Extremities ............................................................................................................................................................. 2-47
+SECTION G.
+SUN AND HEAT-RELATED FACTORS ....................................................................................................... 2-48
+Sunburn ............................................................................................................................................................ 2-48
+G.1. Description .............................................................................................................................................................. 2-48
+G.2. Symptoms ............................................................................................................................................................... 2-48
+G.3. Prevention............................................................................................................................................................... 2-48
+G.4. Treatment ............................................................................................................................................................... 2-49
+Dehydration ..................................................................................................................................................... 2-49
+G.5. Description .............................................................................................................................................................. 2-49
+G.6. Symptoms ............................................................................................................................................................... 2-50
+G.7. Prevention............................................................................................................................................................... 2-50
+G.8. Treatment ............................................................................................................................................................... 2-50
+Heat Rash (Prickly Heat) .................................................................................................................................. 2-51
+G.9. Description .............................................................................................................................................................. 2-51
+G.10. Symptoms ............................................................................................................................................................. 2-51
+G.11. Prevention ............................................................................................................................................................. 2-51
+G.12. Treatment ............................................................................................................................................................. 2-51
+Heat Cramps .................................................................................................................................................... 2-51
+G.13. Description ............................................................................................................................................................ 2-51
+
+--- PAGE 7 ---
+Boat Crew Handbook – First Aid 
+iii
+G.14. Symptoms ............................................................................................................................................................. 2-52
+G.15. Prevention ............................................................................................................................................................. 2-52
+G.16. Treatment ............................................................................................................................................................. 2-52
+Heat Exhaustion............................................................................................................................................... 2-52
+G.17. Description ............................................................................................................................................................ 2-52
+G.18. Symptoms ............................................................................................................................................................. 2-52
+G.19. Prevention............................................................................................................................................................. 2-52
+G.20. Treatment ............................................................................................................................................................. 2-52
+Heat Stroke ...................................................................................................................................................... 2-53
+G.21. Description............................................................................................................................................................ 2-53
+G.22. Symptoms ............................................................................................................................................................. 2-53
+G.23. Prevention ............................................................................................................................................................. 2-53
+G.24. Treatment ............................................................................................................................................................. 2-53
+Susceptibility to Heat Problems ....................................................................................................................... 2-53
+G.25. Description ............................................................................................................................................................ 2-53
+G.26. Clothing and Equipment ........................................................................................................................................ 2-54
+G.27. Fever ..................................................................................................................................................................... 2-54
+G.28. Fatigue ................................................................................................................................................................... 2-54
+G.29. Prior Heat Illnesses ................................................................................................................................................ 2-54
+SECTION H. 
+MISCELLANEOUS EMERGENCIES ........................................................................................................... 2-55
+Hazardous Gases and Vapors .......................................................................................................................... 2-55
+H.1. Introduction ............................................................................................................................................................ 2-55
+H.2. Conditions Where CO May Be Present .................................................................................................................... 2-55
+H.3. Fires ......................................................................................................................................................................... 2-56
+H.4. Symptoms................................................................................................................................................................ 2-57
+H.5. Prevention ............................................................................................................................................................... 2-57
+H.6. Response to Victims ................................................................................................................................................ 2-58
+H.7. Additional Threats ................................................................................................................................................... 2-58
+Poisoning by Mouth ......................................................................................................................................... 2-58
+H.8. Description .............................................................................................................................................................. 2-58
+H.9. Seeking Advice ........................................................................................................................................................ 2-58
+H.10. Medical Assistance Not Available .......................................................................................................................... 2-59
+H.11. Treatment ............................................................................................................................................................. 2-59
+Eye Injuries ....................................................................................................................................................... 2-59
+H.12. Description ............................................................................................................................................................ 2-59
+H.13. Blindness ............................................................................................................................................................... 2-59
+H.14. Types of Eye Injuries .............................................................................................................................................. 2-59
+H.15. Symptoms and Treatments ................................................................................................................................... 2-60
+Fish Bites and Stings ........................................................................................................................................ 2-61
+H.16. Types of Bites and Stings ....................................................................................................................................... 2-61
+H.17. Effects and Treatment ........................................................................................................................................... 2-62
+Near-Drowning ................................................................................................................................................ 2-64
+H.18. Mammalian Diving Reflex...................................................................................................................................... 2-64
+H.19. Treatment ............................................................................................................................................................. 2-64
+APPENDIX A GLOSSARY ................................................................................................................................... A-1
+APPENDIX B LIST OF ACRONYMS ..................................................................................................................... B-1
+
+--- PAGE 8 ---
+Boat Crew Handbook – First Aid
+iv
+Table of Figures
+FIGURE 2-1 TYPES OF BLEEDING...................................................................................................................................... 2-24
+FIGURE 2-2 PRESSURE BANDAGE..................................................................................................................................... 2-25
+FIGURE 2-3 BROKEN FOREARM ....................................................................................................................................... 2-31
+FIGURE 2-4 SPLINTING FRACTURE OF MIDDLE UPPER ARM .................................................................................................. 2-32
+FIGURE 2-5 SPLINTING FRACTURE OF ARM NEAR ELBOW .................................................................................................... 2-32
+FIGURE 2-6 BROKEN THIGH ........................................................................................................................................... 2-33
+FIGURE 2-7 BROKEN LOWER LEG .................................................................................................................................... 2-34
+FIGURE 2-8 BROKEN COLLARBONE.................................................................................................................................. 2-35
+FIGURE 2-9 BASIC HYPOTHERMIA PROTOCOL .................................................................................................................... 2-44
+Table of Tables
+TABLE 2-1 OBSTRUCTED AIRWAY PROCEDURES .................................................................................................................. 2-17
+
+--- PAGE 9 ---
+Boat Crew Handbook – First Aid 
+1-1
+CHAPTER 1
+Introduction
+Section A.
+Purpose of this Handbook
+Introduction
+This Handbook describes accepted first aid practices that, along with 
+practical training in their performance, will aid boat crews in delivering 
+effective medical care that preserves life, prevents a victim's condition 
+from worsening, and promotes their speedy recovery. The major topic 
+within this handbook is basic First Aid.
+The capability to sustain the life of those who have been rescued is just 
+as important as searching for and rescuing survivors. Vessels at sea are 
+often far removed from advanced medical care and are reliant on the 
+Coast Guard and other professional maritime responders to provide first 
+aid for those suffering a sudden illness or injury. This aid includes both 
+initial interventions and transport to higher levels of care for serious 
+conditions, such as performing cardiopulmonary resuscitation
+(CPR)
+while making way toward a waiting ambulance on shore, and complete 
+treatment of minor conditions, such as applying a dressing to a wound.
+Certain skills are considered essential to providing this initial level of 
+care, particularly those related to the "CAB's" or compressions, airway,
+and breathing, which focus on critical life saving interventions that must 
+be rendered before treatment of less serious injuries. 
+In this Section
+This Section contains the following information:
+Title
+See Page
+Procedures
+1-1
+Procedures
+This Handbook is not intended to cover every contingency that may be 
+encountered during mission execution or training.  Successful operations 
+require the exercise of good safety practices, sound judgment and 
+common sense at all levels of command.
+
+--- PAGE 10 ---
+Boat Crew Handbook – First Aid
+Chapter 1 – Introduction
+1-2
+Section B.
+How to Use this Handbook
+Introduction
+Each Part of this handbook includes its own table of contents and is divided 
+into chapters.  
+In this Section
+This Section contains the following information:
+Title
+See 
+Page
+Part Layout
+1-2
+Warnings, Cautions, and Notes
+1-2
+Part Layout
+The first page of each Part includes an Introduction, and an In this Part
+(which lists each chapter title).
+The first page of each chapter includes an Introduction, an In this Chapter,
+and References for this Chapter, as applicable.
+The first page of each section includes an Introduction, an In this Section,
+and References for this Section, as applicable.
+In the left column of each page is the block title, which provides a descriptive 
+word or phrase for the corresponding block of text across from it.
+Warnings, 
+Cautions, and 
+Notes
+The following definitions apply to “Warnings, Cautions, and Notes” found 
+throughout the Handbook.
+WARNING
+Operating procedures or techniques that must be carefully followed to avoid personal injury or 
+loss of life.
+CAUTION!
+Operating procedures or techniques that must be carefully followed to avoid equipment damage.
+NOTE  
+An operating procedure or technique that is essential to emphasize.
+
+--- PAGE 11 ---
+Boat Crew Handbook – First Aid 
+2-1
+CHAPTER 2
+First Aid
+Introduction
+This Chapter provides basic first aid information for injuries encountered in 
+the marine environment.  First aid is doing what must be done before 
+advanced treatment is available.  It may include:
+(01) Providing immediate temporary assistance,
+(02) Saving life,
+(03) Preventing further injury or unfavorable progression,
+(04) Preserving vitality and resistance to infection,
+(05) Transporting the victim to a higher level of care if necessary.
+In this Chapter
+This Chapter contains the following sections:
+Section
+Title
+See Page
+A
+Crewmembers’ Roles
+2-2
+B
+Motion Sickness
+2-6
+C
+Treatment for Shock
+2-8
+D
+Resuscitation Methods and Emergencies
+2-15
+E
+Treatment for Wounds, Fractures, and Burns
+2-22
+F
+Cold-Related Factors
+2-41
+G
+Sun and Heat-Related Factors
+2-48
+H
+Miscellaneous Emergencies
+2-55
+
+--- PAGE 12 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-2
+Section A.
+Crewmembers’ Roles
+Introduction
+Proper knowledge and skill in first aid is essential for boat crewmembers.  A 
+well-trained crew that responds effectively and professionally to an 
+emergency situation may be the difference between life and death or 
+temporary injury and disability of the victim.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Responsibilities
+2-2
+Handling and Transporting of Injured
+2-4
+A.1.
+Responsibilities
+Effective first response/emergency medical care does not come easily.  Boat 
+crews render first aid, consistent with their training, in their role as first 
+responders.  Your unit should always be advised of emergency medical 
+situations.  Your unit or parent command will activate an established 
+Emergency Medical Services (EMS) system such as 911, or local fire/rescue
+squad.  Crewmembers providing first aid must do the following:
+(01) Assess the safety of the scene. Scene safety must be secured prior to 
+initation of patient care,
+(02) All appropriate personnel protective equipment should be worn prior 
+to contact with patient,
+(03) Assess the patient’s breathing, pulse, mental status, level of 
+consciousness, and injuries or illness,
+(04) Determine if first aid can be administered on scene or if MEDEVAC 
+is advised or victim requires higher level of care.  Briefing the
+operational commander to request a MEDEVAC if needed,
+(05) Place the patient in a position of comfort unless spinal 
+immobilization is needed,
+(06) Provide a full report of patient care to the EMS unit responding to the 
+scene or who assume custody. Document the name of the responding 
+EMS unit, the time of transfer, and the patient condition at the time of 
+transfer. 
+
+--- PAGE 13 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-3
+A.1.a.  Scene 
+Assessment
+When responding, a quick survey of the scene is performed.  An unsafe 
+scene should not be entered until the crew is fully prepared and protected 
+against hazards such as exposed live electrical wires, toxic vapors, fire, 
+blood, or body fluids.  As rescuers, it’s important for the surrounding area  to 
+be safe and free of hazards before attempting first aid. Rescuer injury while 
+administering first aid will only complicate an already difficult situation.
+A.1.b.  Initial 
+Patient 
+Assessment
+Boat crewmembers should stop and assess the overall condition of the 
+victim, and determine whether or not assisting the patient with the resources 
+at hand is possible or if it requires further help.  When more definitive care is 
+required for more serious injury cases, assistance should be sought 
+immediately by calling for help and activating the local EMS system.  The 
+following information is important to notice during an initial assessment:
+(01)Number of patients,
+(02)General condition of patient(s),
+(03)Mechanism (type) of injury,
+(04)Patient(s) level of consciousness (LOC). A patient’s LOC may be altered 
+for numerous reasons. Some of these include:
+a)
+Mechanisms consistent with a serious injury such as a gunshot 
+wound, fall from a great height, major burn, crushing accident, 
+etc,
+b)
+If the patient’s state-of-health has been compromised, for 
+example, prolonged exposure to the elements, dehydration,
+malnourishment, ingestion of a substance, etc.
+NOTE 
+WARNING 
+In this Section, serious injury cases are considered those that need attention from a medical 
+professional. A serious injury case also may be one in which the crew decides the injury is beyond its 
+medical capabilities.
+Unprotected crewmembers who come in direct contact with bloodborne pathogens shall immediately 
+report each incident to their unit CO/OIC, servicing medical facility, and follow professional medical 
+advice.  Refer to reference (a) for more information. 
+
+--- PAGE 14 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-4
+A.1.c.  Protective 
+Devices
+Some bodily fluids (blood, cerebrospinal fluid, amniotic fluid, fluids tainted 
+with blood, etc.) are potentially infectious. These fluids may contain 
+bloodborne pathogens such as the Hepatitis B virus, Hepatitis C virus, and 
+HIV which cause Hepatitis B, Hepatitis C and AIDS, respectively.  
+Crewmembers should take all reasonable precautions to prevent direct 
+contact with human blood or other bodily fluids by wearing Personal 
+Protective Equipment (PPE) such as clean disposable gloves or more 
+complete equipment depending on the degree of contamination before 
+making contact with the patient.  If available, face masks should be worn in 
+any instance of known or suspected respiratory infection (i.e., TB).  Blood-
+soaked gloves and other material should be disposed of with great care.  A 
+medical clinic or emergency room can be contacted for disposal advice. 
+Coast Guard units should maintain information on medical waste disposal.
+A.2. Handling 
+and 
+Transporting of 
+Injured
+Transporting ill and/or injured persons aboard boats to medical treatment 
+facilities is a serious problem regularly encountered by boat crewmembers.  
+In many situations, it is difficult, if not impossible, for medical help to reach 
+victims.  Therefore, the boat crew must possess a basic knowledge of how to 
+transport ill and/or injured persons safely and quickly to a location where 
+appropriate medical treatment is available.
+A.2.a.  Boat 
+Crew 
+Responsibility
+The sooner a victim arrives at a place where medical attention is available, 
+the better.  It is the responsibility of the coxswain and crew to safely 
+transport the victim as rapidly as possible, while preventing further injury or 
+unnecessary pain.
+
+--- PAGE 15 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-5
+A.2.b.  Moving a 
+Patient
+Moving a patient is precise work and any carelessness is unacceptable.  It 
+requires close teamwork and great care.  Even procedures that may seem 
+simple and obvious, such as placing a patient on a back board or in a stokes 
+litter, requires training, coordination, and skill.
+These are important rules to remember when transporting an injured person:
+(01) Notify unit or Sector command so that appropriate medical resources
+can be activated,
+(02) If possible, avoid moving the patient until that person is examined 
+and all injuries are protected by properly applied splints, dressing, etc,
+(03) If head or neck injury is suspected, immobilize the patient’s spinal 
+cord prior to movement (e.g., by securing the patient to a back board),
+(04) Seek assistance before moving a patient (i.e. contact a Coast Guard 
+Flight Surgeon),
+(05) For conscious patients, always explain the move procedure in 
+advance,
+(06) Patient movements should be careful, deliberate, and the minimum 
+required.
+
+--- PAGE 16 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-6
+Section B.
+Motion Sickness
+Introduction
+Motion sickness, or seasickness, is nausea and/or vomiting caused by 
+an imbalance between visual images and the portion of the middle ear 
+that senses motion.  This Section discusses the causes and symptoms of 
+motion sickness, as well as the methods of prevention.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Causes of Motion Sickness
+2-6
+Symptoms
+2-6
+Risk Management
+2-7
+Prescription Medication Restrictions
+2-7
+B.1. Causes of 
+Motion Sickness
+Mental and physical stress, as well as the rolling or pitching motion of 
+a boat, contribute to motion sickness. Focusing on the chartplotter or 
+radar, reading chart work, or other tasks that require close attention, 
+will aggravate motion sickness.
+B.2. Symptoms
+The motion of the boat, especially when the boat’s heading produces a 
+wallowing or rolling motion, can cause the typical symptoms of nausea 
+and vomiting.  The primary symptoms of seasickness are as follows:
+(01) Nausea and vomiting,
+(02) Increased salivation,
+(03) Unusual paleness,
+(04) Sweating,
+(05) Drowsiness,
+(06) Overall weakness,
+(07) Stomach discomfort.
+
+--- PAGE 17 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-7
+B.3. Risk 
+Management
+Besides taking medication, there are other things that can be done to help 
+prevent seasickness:
+(01) Stay out of confined spaces,
+(02) Stay above deck in the fresh air,
+(03) Avoid concentrating on the movement of the boat by looking out 
+over the water toward the horizon or shoreline,
+(04) Avoid smoking.
+Motion sickness can often be prevented or made less severe with 
+different kinds of anti-motion medication, including the use of 
+Scopolamine patches.  Boat crewmembers who are especially susceptible 
+to motion discomfort should be seen by medical personnel and 
+prescribed anti-motion medication.  The medication should be taken 
+throughout their watch since they never know when they will be 
+dispatched on a mission.  Medication taken just before getting underway 
+will not have its maximum effect during the mission.
+CAUTION !
+B.4. Prescription 
+Medication 
+Restrictions
+Prescribed anti-motion sickness medication must not be taken under the 
+following circumstances:
+(01) Without medical supervision,
+(02) Within 12 hours of alcohol consumption,
+(03) If pregnant, unless approved by primary care physician. 
+Some anti-motion sickness medications may cause drowsiness.  Consult a medical professional 
+to determine if alternatives are available.
+
+--- PAGE 18 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-8
+Section C.
+Treatment for Shock
+Introduction
+Shock can be difficult to identify early and if untreated can quickly become 
+life threatening. It may be effectively reduced or eliminated if proper steps 
+are taken.  It is important that crewmembers understand how to identify and 
+treat shock.
+Shock may accompany an injury and can reduce a victim’s 
+ability to deal with and survive serious injuries.  Shock by itself, even when 
+no injuries are involved, can be very serious and life threatening.  
+Crewmembers must be aware of the symptoms of shock and the events that 
+cause shock.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Shock 
+2-8
+Anaphylactic Shock
+2-12
+Shock 
+C.1. Description
+Shock is a depressed physiological or mental state.  Shock develops when 
+poor blood flow creates a shortage of oxygen being delivered throughout the 
+body. The signs and symptoms of shock can change throughout treating an 
+injury and are unique for every casualty. Signs and symptoms may develop 
+rapidly or be delayed for up to several hours after the apparent cause.  The 
+symptoms of shock usually precede the signs.  Several types of shock exist, 
+therefore, recognizing and treating shock immediately is important.  
+NOTE 
+C.2. Causes
+Some events that typically cause shock are:
+(01) Trauma (internal or external bleeding, blunt force [e.g., a fall, being 
+struck by a blunt object, etc.], fractures, and burns),
+(02) Allergic reaction,
+(03) Hypothermia,
+(04) Drugs,
+(05) Toxins,
+(06) Heart attack,
+(07) Illnesses such as diabetes,
+(08) Dehydration,
+(09) Emotional reaction.
+Shock can occur at anytime during first aid treatment. The patient should be assessed for its presence 
+during the responder’s initial assessment and reassessed for its presence throughout treatment.
+
+--- PAGE 19 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-9
+C.3. Symptoms 
+vs. Signs
+A symptom is subjective evidence of a condition that only the patient can 
+feel.  A sign is objective evidence of a condition that can be observed by 
+others in addition to the patient.  
+C.4. Shock 
+Symptoms
+Symptoms of shock include:
+(01) Restlessness,
+(02) Thirst,
+(03) Nausea,
+(04) Weakness,
+(05) Anxiousness,
+(06) Fright,
+(07) Dizziness,
+(08) Fatigue,
+(09) Feeling of impending doom. 
+C.5. Shock Signs
+Signs of shock include:
+(01) Pulse – weak and rapid,
+(02) Breathing – shallow and rapid,
+(03) Skin – pale, cold, clammy (sweating),
+(04) Pupils – dilated (enlarged),
+(05) State of consciousness – alert (may be deceiving) to fainting and/or 
+unconscious.
+
+--- PAGE 20 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-10
+C.6. Assessment
+Strong signs and symptoms of shock can be identified by skin color, pulse 
+rate, monitoring respiration, and a victim’s level of consciousness.  The 
+following table describes the strong signs of shock.
+Area
+Normal
+Signs of Shock
+Skin color
+Adult skin is normally 
+dry, not excessively pale 
+or wet to the touch.
+A person in shock may have 
+pale looking skin that is cold
+and clammy to the touch.
+Eyes
+Responsive to movement 
+and light conditions. 
+Pupils appear to be dilated. 
+May have a dazed look
+Pulse
+Normal pulse for an adult 
+is regular, strong, and 
+between 60-100 beats per 
+minute.
+A shock patient will appear 
+restless, and has a pulse that 
+feels weak and is more rapid 
+than normal, usually greater 
+than 100 beats per minute.
+With continuing worsening 
+the pulse rate may slow 
+down.
+Respiration
+Normal adult respiration 
+is between 12-20 breaths 
+per minute.
+Initial response is to have a 
+shallow rapid breathing 
+(greater than 20 breaths per 
+minute).  With continued
+worsening the breathing rate
+may become slow (less than 
+12 breaths per minute). 
+Immediate assistance is 
+required in these instances to 
+avoid respiratory arrest.
+Consciousness
+Fully alert.
+Person can appear anywhere 
+from alert (may be 
+deceiving) to unconscious.
+Any time a patient’s level of 
+consciousness is other than 
+fully alert, it is a serious 
+indication to seek medical 
+assistance immediately.
+C.7. Treatment
+Shock is progressive and worsens with time. It is critical to treat for shock as 
+soon as it identified. To properly treat for shock, boat crewmembers must 
+administer initial treatment, followed by executing steps to ensure the effects 
+of shock are kept at a minimum.
+
+--- PAGE 21 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-11
+C.7.a.  Initial 
+Treatment
+Initial treatment for shock includes limiting a patient’s activity, ideally 
+having the person lie down and remain alert for the signs and symptoms of 
+shock.  If unconscious, appropriate treatment is to activate EMS and institute 
+resuscitation procedures.
+Always assess the patient for major bleeding, and treat any external bleeds 
+that could be life threatening with a pressure dressing, hemostatic dressing, 
+and tourniquet as needed, assess/treat airway issues if the patient is not 
+breathing adequately.  
+Never assume that a patient without an obvious visible injury displaying 
+signs of shock is not in shock! Shock should be assumed to be due to 
+internal bleeding until proven otherwise. The patient may appear anxious, 
+confused about recent events, and their skin may be cool/damp to touch. As 
+shock progresses the patient’s symptoms will continue to worsen, therefore it 
+is important to render care immediately and rapidly get he/she to a higher 
+level of care.
+If CPR is not necessary, the victim should remain lying down, should be kept
+warm, if not already overheated, and should be checked for other injuries.
+C.7.b.
+Continuing 
+Treatment
+Additional procedures must be followed and completed in order to control 
+the effects of shock upon the victim:
+(01) Check for “medic alert” or other information tags,
+(02) Obtain history for medical problems (heart disease, diabetes, 
+allergies, medications),
+(03) Notify unit or parent command to obtain help and transport as 
+advised,
+(04) Provide specific treatment if advised and trained to do so,
+(05) Be careful not to worsen any other injuries,
+(06) Perform CPR, if indicated and trained to provide,
+(07) Insulate on top and underneath with a blanket to prevent heat loss,
+Be careful not to overheat.  If hot, do not warm,
+(08) If conscious, moisten lips, if requested,
+(09) Do not allow patient to eat or drink,
+(10) Never give alcohol,
+(11) Handle gently.
+
+--- PAGE 22 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-12
+Anaphylactic Shock
+C.8. Description
+Anaphylactic shock is a rapid, extreme allergic reaction. Swelling in the 
+throat and airways and a drop in blood pressure may occur. People who are 
+subject to this type of shock should carry medical identification at all times.  
+Sensitivity reactions can occur within seconds of contact and can result in 
+death within minutes of contact.  It is imperative to be able to recognize the 
+signs and symptoms of anaphylactic shock in order to relay the gravity of the 
+situation to qualified medical personnel.
+C.9. Causes
+Anaphylactic shock can be caused by ingesting peanuts and tree nuts, fish, 
+shellfish, taking antibiotics or aspirin, exposure to latex, and being stung by 
+bees, yellow jackets, wasps, hornets and fire ants among other substances.
+C.10. Symptoms
+Symptoms of anaphylactic shock include:
+(01) Skin:  itching or burning, hives (raised rash), flushing (redness),
+cyanosis (a bluish color) around the lips,
+(02) Swelling of lips, tongue, feet, throat, hands (tingling of the lips, 
+mouth, and tongue and a feeling of a tightness in the throat are also 
+common),
+(03) Respiratory tract:  wheezing, shortness of breath, coughing,
+(04) Headache,
+(05) Altered mental status,
+(06) Loss of consciousness.
+Onset of symptoms may be rapid, within seconds, or delayed. The signs for 
+anaphylaxis are the same as those of shock.
+
+--- PAGE 23 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-13
+C.11.
+Assessment
+Anaphylactic shock is a severe, sometimes life-threatening, allergic reaction 
+that can occur within minutes of exposure to an offending substance.  The 
+substance may enter the body orally, by breathing or through skin contact.  
+Anaphylactic shock can be identified by visual changes to the subject’s 
+normal appearance and by changes in vital signs.  The following table 
+provides indications that a person may be encountering anaphylactic shock.
+Area
+Normal
+Signs of Shock
+Skin color
+Adult skin is normally 
+dry, not excessively 
+pale or wet to the 
+touch.
+Sudden appearance of hives.  
+Widespread blotchy swelling 
+of the skin.  Flushing, bluish 
+skin color (especially around 
+the lips).  
+Eyes
+Responsive to 
+movement and light 
+conditions.
+Pupils may be dilated.
+Pulse
+Normal pulse for an 
+adult is regular, strong, 
+and between 60-100
+beats per minute.
+Increased pulse rate, or weak 
+pulse accompanied by a drop 
+in blood pressure (shock).
+Blood pressure remains low 
+even when lying down.
+Respiration
+Normal adult 
+respiration is between 
+12-20 breaths per 
+minute.
+Wheezing or difficulty in 
+breathing.  Chest tightness.  
+Coughing.  Throat swelling, 
+hoarseness or obstructed air 
+flow.
+Consciousness
+Fully alert.
+Light-headedness or fainting.
+Any time a patient’s level of 
+consciousness is other than 
+fully alert, it is a serious 
+indication to seek medical 
+assistance immediately.
+
+--- PAGE 24 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-14
+C.12. Treatment
+Anaphylactic shock requires medication to counteract the allergic reaction to 
+the substance.  If the victim carries an epinephrine kit
+(Epi-pen),
+crewmembers may assist them in administration, if trained.  The victim 
+should be treated for shock and, if necessary, administered CPR.  All that is 
+observed or performed should be recorded while keeping the unit or parent 
+command appraised of the situation so that appropriate medical resources can 
+be activated.  Medical attention should be obtained regardless of patient’s 
+response.  Anaphylactic shock can be very serious resulting in death within a 
+few minutes.
+
+--- PAGE 25 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-15
+Section D.
+Resuscitation Methods and Emergencies
+Introduction
+When a person stops breathing, known as respiratory arrest; seconds count.  
+Death can occur within four to six minutes after respiratory failure.  Respiratory 
+arrest is different from (but may be caused by) cardiac arrest. It is imperative to 
+start resuscitation immediately in both Respiratory Arrest and Cardiac Arrest.  
+Auxiliary crewmembers, although not required, are encouraged to maintain their 
+skills through training by qualified, certified instructors, and maintain their 
+record of certification.
+Events that may cause people to stop breathing include:
+(01) Near drowning,
+(02) Suffocation,
+(03) Electrocution,
+(04) Poison gas,
+(05) Cardiac arrest,
+(06) Drug overdose,
+(07) Choking,
+(08) Chest injury,
+(09) Various lung diseases,
+(10) Stroke.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Resuscitation Procedures
+2-16
+Heart Attack
+2-18
+Stroke
+2-19
+Scuba Incidents
+2-20
+
+--- PAGE 26 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-16
+Resuscitation Procedures
+D.1. Description
+Resuscitation is a general term that covers all measures taken to restore life 
+or consciousness to an individual.  Measures taken to restore life include 
+artificial respiration, and CPR.
+D.2. Artificial 
+Respiration
+Artificial respiration, starting normal respiratory function, includes rescue
+breathing maneuvers such as mouth-to-mouth, mouth-to-nose, and mouth-to-
+stoma.  A stoma is the opening in the lower neck through which individuals 
+breathe when they have had their voice box removed.
+D.3. Cardiac 
+Compression
+Cardiac compression is a method used to restore normal blood-flow to the 
+brain.
+D.4. CPR
+CPR uses both artificial respirations and chest compressions to revive a 
+victim in cardiac arrest.  The standard protocols of shore-based civilian EMS 
+systems usually require starting CPR in the field and rapidly transporting 
+these patients to a hospital for continued resuscitation efforts.  However, 
+maritime SAR operations usually involve prolonged response, which exceed 
+the accepted response intervals for successful resuscitation.  Furthermore, the 
+responders have increased operational risks management decisions, which 
+must also be considered with the probability of patient benefit. Risks include 
+aircraft and vessel mishaps, personal injury, and blood borne pathogen 
+exposures. There are also the emotional risks to rescuers and families 
+associated with futile resuscitation efforts.
+CPR courses focus on the need to rapidly identify when someone is 
+experiencing a sudden cardiac arrest.
+Some common causes of sudden 
+cardiac arrest are heart disease, electrical shock, severe blood loss, drug 
+overdose, severe allergic reaction, and drowning.
+
+--- PAGE 27 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-17
+D.4.a.  
+Obstructed 
+Airway 
+Procedures
+An obstruction to the airway such as choking on an object can cause a victim 
+to stop breathing or the inability to provide rescue breathing.  The following 
+procedures should be performed if the victim begins choking:
+Adult
+Child
+Infant
+Assess Patient
+-Ask, “Are you choking?”
+-If patient nods yes, or is 
+unable to speak or cough 
+– Act! 
+-If available, have Team 
+or bystander activate 
+EMS 
+-Ask, “Are you choking?”
+-If child nods yes, or is 
+unable to speak or cough 
+– Act! 
+-If available, have Team 
+or bystander activate 
+EMS 
+-Look at infants face
+-If infant is silent, unable 
+to cry, or has blue lips, 
+nails, or skin – act! 
+-If available, have Team 
+or bystander activate 
+EMS 
+Position Yourself 
+ 
+-Stand behind patient 
+-make a fist with one 
+hand and place thumb 
+side against abdomen, 
+just above navel and 
+below ribs 
+-Grasp fist with other 
+hand 
+-Kneel behind child 
+-make a fist with one 
+hand and place thumb 
+side against abdomen, 
+just above navel and 
+below ribs 
+-Grasp fist with other 
+hand 
+-Straddle infant face-
+down over your forearm, 
+with head lower than 
+chest 
+-Support head by holding 
+jaw 
+-Using heel of other 
+hand, give 5 back blows 
+between shoulder blades
+Give Thrusts
+ 
+-Quickly thrust inward 
+and upward into 
+abdomen 
+-Repeat. Each thrust 
+needs to be given with 
+intent of expelling object 
+-Continue until patient 
+can breathe normally 
+-Quickly thrust inward 
+and upward into 
+abdomen 
+-Repeat. Each thrust 
+needs to be given with 
+intent of expelling object 
+-Continue until child can 
+breathe normally 
+-Sandwich infant 
+between your forearms 
+and turn onto back, with 
+legs and arms straddling 
+your other arm 
+-Place 2 fingers on 
+breastbone just below 
+nipple line and give 5 
+chest thrusts 
+-Repeat back blows and 
+chest thrusts until infant 
+can breathe normally or 
+goes unconscious 
+-Back blows and thrusts 
+need to be given with 
+intent of expelling object
+If Patient Becomes 
+Unresponsive 
+ 
+-Carefully lower to deck. 
+Position face-up on a 
+firm, flat surface 
+-If not done already, 
+have Team or bystander 
+activate EMS if available 
+-Begin CPR, starting with 
+compressions 
+-Carefully lower to deck. 
+Position face-up on a 
+firm, flat surface 
+-If alone, provide at least 
+2 minutes of care before 
+activating EMS. 
+-Begin CPR, starting with 
+compressions 
+-Carefully lower to deck. 
+Position face-up on a 
+firm, flat surface 
+-If alone, provide at least 
+2 minutes of care before 
+activating EMS. 
+-Begin CPR, starting with 
+compressions
+Remove Any Object if 
+Seen 
+ 
+-Look in mouth for an 
+object after each set of 
+compressions, before 
+giving rescue breaths 
+-Continue until patient 
+shows obvious signs of 
+life, or another provider 
+or next level of care 
+takes over 
+-Look in mouth for an 
+object after each set of 
+compressions, before 
+giving rescue breaths 
+-Continue until child 
+shows obvious signs of 
+life, or another provider 
+or next level of care 
+takes over 
+-Look in mouth for an 
+object after each set of 
+compressions, before 
+giving rescue breaths 
+-Continue until infant 
+shows obvious signs of 
+life, or another provider 
+or next level of care 
+takes over 
+Table 2-1
+Obstructed Airway Procedures
+
+--- PAGE 28 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-18
+Heart Attack
+D.5. Description
+A heart attack is always considered a medical emergency since the victim is 
+in significant danger of going into cardiopulmonary arrest and dying.  
+Medical assistance should be contacted immediately. Whenever a heart 
+attack is suspected, be prepared for the possibility of sudden cardiac arrest,
+and the need for CPR.
+D.6. Symptoms
+There are many symptoms of a heart attack, some of which may not be 
+noticed or recognized by a victim.  Though heart attacks can occur without 
+displaying all of these symptoms, the following are all symptoms of a heart 
+attack:
+(01) Severe, crushing type of pain under the breastbone, arms, neck, and 
+jaw,
+(02) Profuse sweating,
+(03) Shortness of breath,
+(04) Extreme anxiety,
+(05) Nausea and vomiting,
+(06) Bluish discoloration of lips, fingernails, and skin,
+(07) Women often do not experience these signs and will describe 
+indigestion, weakness, or fatigue, and back pain.
+D.7. Treatment
+The following is the treatment for a heart attack:
+(01) Keep the victim calm,
+(02) Loosen any tight fitting clothing,
+(03) Administer oxygen (if available and trained to do so),
+(04) Place the victim in the position of most comfort.  Sometimes the 
+victim may want to sit up, especially if the person is short of breath,
+(05) Seek immediate medical assistance, activate local EMS,
+(06) Determine if the victim is on any type of medication for a heart 
+condition such as nitro-glycerine or aspirin.  If so, determine if the 
+victim has taken the medication as prescribed,
+(07) Reassure the patient that assistance is on the way or that transport to a 
+hospital is imminent,
+(08) Transport as quickly, but as safely, as possible.
+
+--- PAGE 29 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-19
+Stroke
+D.8. Description
+A stroke is any interruption of the blood supply to the brain. This is most 
+commonly a result of bleeding or clotting affecting the blood vessels of the 
+brain.  All strokes are extremely serious regardless of how severe they 
+appear to be.   Seek medical attention immediately. Early recognition and 
+treatment is critical to minimize or prevent more serious complications. 
+Whenever a stroke is suspected, be prepared for the possibility of sudden 
+cardiac arrest, and the need for CPR.
+D.9. Symptoms
+The symptoms of a major stroke are:
+(01) Unconsciousness,
+(02) Shock,
+(03) Confusion,
+(04) Dizziness,
+(05) Numbness/weakness to one side of the body,
+(06) Seizures,
+(07) Impaired vision,
+Minor symptoms may be:
+(08) Headache,
+(09) Facial droop,
+(10) Arm Weakness - or difficulty in using a limb,
+(11) Difficulty speaking,
+(12) A change in the ability to understand.
+D.10. Memory 
+Aid
+The acronym FAST is a good way to remember the symptoms of a stroke 
+and a quick way to check:
+(01) F – Facial Drooping - Ask the person to smile, check for an even 
+smile,
+(02) A - Arm weakness - Have person raise arms and see if one drops or 
+can’t be held in place,
+(03) S – Speech Difficulty – Slurred Speech, Hard to understand, etc,
+(04) T – Time is critical – If the symptoms above are observed, get 
+medical assistance quickly.
+
+--- PAGE 30 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-20
+D.11. Treatment
+The following is the treatment for stroke:
+(01) Activate EMS,
+(02) Obtain medical assistance immediately,
+(03) Treat for shock,
+(04) If the victim has difficulty breathing, help the person maintain an open 
+airway and provide rescue breathing if in respiratory arrest,
+(05) If the patient’s level of responsiveness is or becomes severely 
+diminished, consider placing the person in a recovery position to protect 
+the airway.
+Scuba Incidents
+D.12. Types of 
+Scuba Incidents
+Scuba diving accidents include all types of body injuries and near drowning.  
+There are two special problems usually seen in scuba diving accidents:
+(01) Arterial Gas Embolism (AGE), sometimes called air emboli;
+(02) Decompression Sickness (DCS), sometimes called the “bends.”
+D.12.a. Arterial 
+Gas Embolism 
+(AGE)
+AGE, or air bubbles in a diver’s blood, is most often found in divers who 
+hold their breath during ascent.  This typically happens following an 
+equipment failure, or some other underwater emergency.  Divers can 
+develop AGE in very shallow waters.  The onset of symptoms is often rapid 
+and a victim’s senses may become distorted.  Victims may have convulsions 
+and can quickly lose consciousness.
+D.12.b.
+Decompression 
+Sickness (DCS)
+DCS may occur as the result of coming up too quickly from a deep, 
+prolonged dive.  Rapid ascent defeats the body’s ability to filter escaping 
+gases through the lungs resulting in nitrogen gas bubbles in the blood 
+stream.  The onset of DCS is usually slow for scuba divers, taking from one 
+to 48 hours to appear.  The symptoms and signs of DCS include deep pain 
+to the muscles and joints, choking, coughing, labored breathing, chest pains, 
+and blotches on the skin (mottling).
+NOTE 
+Immediately transport or evacuate all patients with possible AGE or DCS to the nearest medical 
+facility.
+
+--- PAGE 31 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-21
+D.12.c.
+Associated 
+Medical Problems
+Major medical problems associated with the escape of air into the chest 
+cavity or tissues may occur in asthmatics who participate in scuba activities.  
+The symptoms may be acute shortness of breath and the signs may be 
+similar to shock. Immediate advance medical attention is required.  EMS 
+should be activated.  The victim should be transported as quickly as possible 
+and treated for shock.
+D.13. Responder 
+Action
+Most times assistance is limited to arranging or providing transportation for 
+victims and advising interested parties of the location for the nearest 
+recompression facility.  The boat crew should treat for shock (do not elevate 
+the legs), while arranging for evacuations.
+D.14. Treating 
+Scuba Incidents
+If a diver experiences either mild or severe symptoms on surfacing:
+(01) Immediately notify EMS and start transport to nearest recompression 
+facility,
+(02) Place the diver on his/her left side with head down, and provide 
+oxygen if available,
+(03) Treat for shock,
+(04) Get dive profile,
+(05) Secure dive gear for transport with patient.
+D.15. Equipment 
+Availability
+Each District Rescue Coordination Center (RCC) and Sector Operations 
+Center (OPCEN) has information on all recompression chambers located 
+within its area of operations.  The RCC or OPCEN will need the following 
+medical information to arrange the correct response for a scuba incident:
+(01) Depth of the victim’s diving activities,
+(02) Number of dives that day,
+(03) Victim’s overall medical condition including current level of 
+consciousness and any previous episodes of dive-related injuries,
+(04) First occurrence of victim’s symptoms (i.e., during ascent, 
+immediately after reaching the surface, etc.),
+(05) Problems which may have occurred during the dive, such as a panic 
+ascent, loss of air at depth, or equipment failure.
+
+--- PAGE 32 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-22
+Section E.
+Treatment for Wounds, Fractures, and Burns
+Introduction
+In emergency situations, boat crewmembers must be able to temporarily treat 
+severe hemorrhaging wounds, broken bones, and burn victims.  As first 
+responders, boat crewmembers must try to keep a victim calm, immobile, 
+and alive until a higher level of care can be provided.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Bandages
+2-23
+Bleeding
+2-24
+Fractures (Broken Bones)
+2-28
+Burns
+2-36
+
+--- PAGE 33 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-23
+Bandages
+E.1. Types of 
+Bandages
+A bandage is a strip of woven material that holds a wound, dressing, or splint 
+in place, helping to immobilize, support, and protect an injured part of the 
+body.  Preferably, sterile bandage material in standard first aid or EMT kits 
+should be used.  Otherwise, any large piece of clean cloth can be used as a 
+bandage, binder, or sling.
+Various types of bandages come in first aid kits.  They are designed to be 
+adaptable to many different situations.  For example, some are for covering 
+large areas but may be used as slings, and others are useful as a thick pad for 
+applying pressure over a wound to control hemorrhaging.  The following table 
+describes the different types of bandages and their uses:
+Bandage Type
+Use
+Pressure 
+Dressing
+(Emergency 
+Trauma 
+Dressing)
+A pressure dressing is made out of absorbent gauze.  It 
+is used for injuries to the chest or abdomen.  It may be 
+held in place with other bandages e.g., cravat 
+bandages.  Do not secure so tightly that it interferes 
+with breathing.
+Gauze 
+Bandages
+Gauze is useful as a bandage for almost any part of the 
+body.  Most common uses of gauze bandages are as 
+circular bandages and spiral bandages.
+Band-Aids®
+Band-Aids® or substitutes are useful for small wounds 
+that are clean.
+Triangular 
+Bandages
+Triangular bandages are useful as an emergency cover 
+for an entire scalp, hand, foot, or other large area.  
+Also, use these bandages as a sling for a fracture or 
+other injury to an arm or hand.  A triangular bandage 
+can be rolled into a cravat bandage (a long, narrow 
+strip).  It is also useful as a figure eight bandage, tie for 
+a splint, constricting band, or tourniquet.  A folded 
+cravat bandage can serve as an emergency dressing for 
+control of bleeding, or over another dressing, to 
+provide protection and pressure.
+E.2. Bandage 
+Application
+There are two general principles for bandage application:
+(01) A bandage should be snug, but not so tight as to interfere with 
+circulation either at the time of application or later if swelling occurs,
+(02) A bandage is useless if tied too loose.
+
+--- PAGE 34 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-24
+E.3. Circulation Interfering with circulation is prevented by:
+(01) Leaving the person’s fingertips or toes exposed when applying a splint 
+or bandage to arms or legs,
+(02) Loosening bandages immediately if a victim complains of numbness,
+increased pain or a tingling sensation,
+(03) Watching for swelling, color changes, loss of pulse and cold or cool 
+tips of fingers or toes.
+Bleeding
+E.4. Types of 
+Bleeding
+Hemorrhage, or bleeding, is the escape of blood from arteries, veins, or even 
+capillaries because of a break in their walls.  There are several different types 
+of bleeding (Figure 2-1).  Boat crewmembers must learn to recognize the 
+basic types in order to know how to stop the hemorrhaging as quickly as 
+possible.  Types of bleeding include:
+(01) Arterial,
+(02) Venous,
+(03) Capillary.
+Figure 2-1
+Types of Bleeding
+E.5. Prevention 
+of Bloodborne 
+Pathogens
+The risk of acquiring a blood-borne pathogen such as Hepatitis B or HIV 
+should be evaluated.  Risk may be managed by the use of appropriate PPE.
+Always use protective barriers, such as disposable gloves, to protect both you 
+and the injured person.  More extensive equipment may be required depending 
+on the situation.  If the crewmember is not trained or equipped to handle the 
+situation, he/she should notify the unit or parent command so that 
+appropriately trained and equipped personnel can be mobilized. 
+The 
+crewmember should not become involved if not adequately protected.
+
+--- PAGE 35 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-25
+E.6. Universal 
+Medical 
+Precaution
+In those instances where crewmembers may be exposed to bodily fluids (e.g., 
+blood, seepage from burns, saliva, urine or feces), members should take 
+appropriate precautions to prevent contamination by using protective gloves 
+and goggles.  Additional precautionary measures include the wearing of face 
+masks and protective gowns or aprons.  Under all circumstances, thorough 
+washing of hands and any contaminated area should be done with soap and 
+water.  Even if gloves have been used, the crewmember should thoroughly 
+wash hands with soap and water.
+E.7. Control of 
+Bleeding
+Control of a severe hemorrhage is always urgent.  With only 10 pints of 
+blood in the human body, arterial bleeding can cause death in a short time.
+WARNING
+E.7.a.  Direct 
+Pressure
+The best method to control hemorrhaging is by applying continuous, firm, 
+direct pressure to the wound.  To apply direct pressure, use a sterile gauze or 
+absorbent pad, applying pressure directly over the point of bleeding. If gauze 
+or absorbent pads are not available, the palm of a gloved hand should be 
+placed over the wound.  An un-gloved hand should never be placed onto an 
+exposed wound.  Wrap a roller gauze or elastic bandage around the 
+gauze/absorbent pad to provide continuous pressure to the wound. The 
+bandage should be wrapped with enough pressure to control the bleeding. 
+Additional pressure may be created by twisting the bandage directly over the 
+wound.  Caution must be used to not wrap the limb so tight that the skin 
+beyond the bandage becomes cool to touch, bluish in color, or numb to the 
+patient. The rescuer should be able to slip a finger under the pressure 
+bandage. Ensure the pressure bandage is re-evaluated during transport for
+potential swelling of the limb (Figure 2-2).
+Figure 2-2
+Pressure Bandage
+To avoid any contact with infectious fluids, including blood, always wear clean, disposable gloves 
+when performing first aid.
+
+--- PAGE 36 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-26
+E.7.b.
+Tourniquets
+If bleeding persists after applying direct pressure, Apply a second pressure 
+dressing over the first. Do not remove the first dressing.  When direct 
+pressure is insufficient for controlling bleeding, apply a tourniquet. In the 
+past, tourniquet application was thought to cause damage to the limb and was 
+therefore used as a last resort. Tourniquets are most effective when applied 
+prior to the patient going into shock as a result of blood loss. 
+E.8. Treatment
+Refer to the following procedures for treating hemorrhages:
+Step
+Procedure
+Bandage 
+Application
+Apply a sterile bandage, if available, or clean piece of gauze or 
+cloth to the wound.  Do not remove this dressing if it becomes 
+blood soaked; instead reinforce the dressing with a second or 
+third bandage on top of the original one.  Elevating the 
+extremity after applying direct pressure should control most 
+bleeding.
+Pressure 
+Bandage
+A pressure bandage can replace direct hand pressure on most 
+parts of the body.  Apply the pressure bandage by placing the 
+center of the bandage or strip of cloth directly over the pad.  
+Hold the pad in place by circling the bandage ends around 
+the body part, twisting over the wound and tie it off with a 
+knot directly over the pad (Figure 2-2).
+Elevating 
+Injured 
+Area
+If direct pressure does not control the bleeding, then elevate 
+the injured area (if arm or leg), but only if there is no 
+possibility of a spine injury.
+Tourniquet
+If severe bleeding cannot be controlled after trying all other 
+means and the victim is in danger of bleeding to death, use a 
+tourniquet.  Remember that a tourniquet is useful only on 
+arms and legs.  A tourniquet is a constricting band placed 
+around an extremity, then tightened until bleeding has 
+stopped.  When a tourniquet is required, if available use 
+tourniquets from a first aid kit.  Otherwise, use any wide 
+gauge material such as a triangular bandage and a rigid 
+object, such as a stick or screwdriver for tightening. 
+
+--- PAGE 37 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-27
+E.8.a.  Applying 
+Tourniquets
+Refer to the following procedures when applying a tourniquet:
+Step
+Procedure
+1
+Place the tourniquet two to three inches above the wound, but 
+not touching the wound edges.  If the wound is in a joint area or 
+just below a joint, place the tourniquet directly above the joint.
+2
+Wrap the tourniquet tightly around the limb twice and secure it 
+in place.
+3
+Attach a note to the victim giving the location of the tourniquet 
+and the time that it was applied.  Always leave the tourniquet 
+exposed to view.  If it is not possible to attach a note, write the 
+letter “T” on the patient’s forehead with a grease pen or other 
+suitable marker, and show the time it was applied.
+4
+After making the decision, and applying a tourniquet, DO NOT 
+LOOSEN OR REMOVE IT.
+5
+Continue to treat for shock and obtain medical attention 
+IMMEDIATELY.
+WARNING
+A tourniquet should only be tight enough to stop the bleeding!  Never hide a tourniquet with a splint or 
+bandage.
+
+--- PAGE 38 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-28
+Fractures (Broken Bones)
+E.9. Types of 
+Fractures
+A fracture is a broken or cracked bone. For performing first aid, boat 
+crewmembers should be aware that there are two types of fractures:
+(01) Compound (open) fracture: The bone has broken and an open wound 
+is present.  The bone may protrude from the wound, leaving little 
+doubt that there is a fracture. Use caution when applying direct 
+pressure so as not to injure yourself,
+(02) Simple (closed) fracture: No open wound is present, but the bone 
+may be broken or cracked.  Care must be taken when handling a 
+closed fracture; careless treatment may cause an open fracture, 
+lacerate a blood vessel, or cause other injuries.
+CAUTION !
+E.10. Symptoms
+Indications that a fracture has occurred may include:
+(01) Pain, swelling, and discoloration at the injury site,
+(02) Misalignment (deformity) and/or disability of the injured part,
+(03) Victim’s indication (may have heard a “crack” or “snap”).
+Broken bones are frequently encountered by boat crews in the course of many rescue situations. 
+It is important to develop the ability to identify fractures immediately and treat them properly. 
+Failure to do so can seriously complicate a fracture as well as cause other injuries.
+
+--- PAGE 39 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-29
+E.11. Handling a 
+Fracture
+Every suspected fracture should be treated as if it were a fracture until it is
+proven otherwise.  The following procedures outline the proper treatment for 
+a fracture:
+Step
+Procedure
+1
+Do not attempt to straighten broken limbs.  Eliminate all unnecessary 
+handling of the injured part.  Be gentle and use great care when 
+handling any broken limb.
+2
+Protect and immobilize all injured areas.  Check for the possibility of 
+more than one fracture. Do not be deceived by the absence of 
+deformity and/or disability.  (In many fracture cases, the victim may 
+still have some ability to use the limb).  Keep the broken bones and 
+the joints immobilized above and below the injury.
+3
+Check pulse in the area distal (below) the fracture before and after 
+splint application. If no pulse is present after the splint is applied, 
+loosen the splint.
+WARNING 
+4
+Use a splint to immobilize the fracture.  Selecting exactly the proper 
+splint is less important than achieving immobilization.  Splint the 
+limb in the position found. Measure the length of the splint on the 
+unaffected limb. Ensure the splint is long enough to immobilize the 
+joint above and the joint below. If a  joint cannot be immobilized, 
+you can immobilze it against another body part such as securing a 
+fractured arm to the patient's chest and a fractured leg to the other 
+(unbroken) leg.  Apply splints before moving the victim to avoid
+manipulation of the injured areas.  Apply the splint snugly, but do not 
+cut off circulation.  Splints should be well padded.  Leave tips of 
+fingers and toes exposed and check them often for circulation 
+adequacy.
+5
+Treat the injured person for shock (refer to Section C Treatment 
+for Shock). Be alert for the development of shock during treatment.  
+Shock may develop as a result of the fracture, pain from the 
+treatment or other injuries not evident on initial assessment.
+Never hide a tourniquet with a splint or bandage.
+
+--- PAGE 40 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-30
+E.12. Treatment 
+of Specific Bones
+There are 206 bones in the human body.  Several of these bones, if broken or 
+injured, require very specific treatment based on the sensitive nature of their 
+functions or their proximity to organs or arteries.
+E.12.a.  Spine
+Any actual or suspected damage to the spine requires definitive care and 
+careful management.  Permanent disability, paralysis, or death can result 
+from a spine injury.  The following are procedures to treat spine injuries:
+Step
+Procedure
+1
+Treat all suspected spinal injuries by maintaining alignment and 
+immobilizing the spine as quickly and completely as possible.
+2
+Seek further medical assistance immediately.
+3
+Move a patient only as a last resort.
+4
+Keep a patient flat and do not move the person’s head.
+5
+When transporting a patient, immobilize on a rigid stretcher and 
+carry the patient face up.
+6
+Do not splint neck and spine fractures unless properly trained.
+E.12.b.  Skull
+The primary aim is to prevent further injury to the head.  Time should not be 
+spent figuring out whether there is a fracture or penetration to the skull.  The 
+following precautions should be utilized when dealing with head injuries:
+Step
+Procedure
+1
+Keep the patient as still as possible.
+2
+Keep the patient warm and do not give the person anything to 
+drink or any pain medication.
+3
+Control bleeding using absorbent dressings without applying 
+direct pressure.
+4
+Seek immediate medical assistance.
+
+--- PAGE 41 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-31
+E.12.c.  
+Extremities
+When encountering actual or suspected fractures to any of a victim’s 
+extremities, the following general procedures must be followed:
+Step
+Procedure
+1
+Check for a pulse and sensation of touch in fingers or toes before 
+and after a splint has been applied.  If either of these is absent, it 
+increases the likelihood of permanent damage.  Make certain a 
+splint is not applied over a bony prominence or tied too tightly.  
+Loosen, if necessary, to re-establish feeling and pulse.
+2
+First responders should splint the injured part in the position 
+found.  
+3
+If bone ends protrude from the skin, cover the exposed bone 
+with a sterile dressing and handle with great care when splinting.
+Be careful not to injure yourself. 
+E.12.d.  Forearm
+For forearm fractures, the following procedures must be performed:
+Step
+Procedure
+1
+Place two well padded splints, top and bottom, from elbow to 
+wrist.
+2
+Bandage in place.
+3
+Hold the forearm across the chest with a sling (Figure 2-3) and 
+swathe.
+Figure 2-3
+Broken Forearm
+
+--- PAGE 42 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-32
+E.12.e.  Upper 
+Arm
+For upper arm fractures, if equipment is available, the following procedures 
+must be performed:
+Step
+Procedure
+1
+For fracture near the shoulder, put a towel or pad in the armpit, 
+bandage the arm to the body, and support the forearm in a sling.
+2
+For fracture of the middle upper arm, use one splint on the 
+outside of the arm, shoulder to elbow.  Fasten the arm to the 
+body and support the forearm in a sling (Figure 2-4).
+3
+For a fracture near the elbow, do not move the arm at all.  Splint 
+it as it is found (Figure 2-5).
+Figure 2-4
+Splinting Fracture of Middle Upper Arm
+Figure 2-5
+Splinting Fracture of Arm Near Elbow
+
+--- PAGE 43 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-33
+E.12.f.  Thigh
+Due to the large artery and muscle mass, a thigh injury is often a major
+injury and a traction splint (if available) may be required.  Medical assistance 
+must be sought immediately.  This treatment management is best performed 
+by an EMT or person with more advanced training.
+If an EMT or other 
+qualified person is unavailable, perform the following procedures:
+Step
+Procedure
+1
+Use two splints, an outside one from armpit to foot and an 
+inside one from crotch to foot.
+2
+Fasten the splints around the ankle, over the knee, below the 
+hip, around the pelvis, and below the armpit.
+3
+Tie both legs together (Figure 2-6). Do not move a patient 
+until this has been done.
+This injury is often associated with major trauma, and 
+bleeding may occur if the thigh bone severs the adjacent 
+femoral artery.  The patient should be monitored closely for 
+signs of shock and the leg should not be manipulated. Check 
+pulse in feet.
+Figure 2-6
+Broken Thigh
+
+--- PAGE 44 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-34
+E.12.g.  Lower 
+Leg
+To treat a broken lower leg, perform the following procedures:
+Step
+Procedure
+1
+Use three splints (if available) one on each side and one 
+underneath.
+2
+Always pad the splints well, especially under the knee and at 
+the ankle bones.  
+3
+Use a pillow under the leg with the edges brought around in 
+front and pinned, and then add two side splints (Figure 2-7).
+Figure 2-7
+Broken Lower Leg
+
+--- PAGE 45 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-35
+E.12.h.
+Collarbone
+Use the following procedures to immobilize the collar bone:
+Step
+Procedure
+1
+On the injured side, place the forearm across the chest, palm 
+turned in, thumb up, with hand four inches above the elbow.
+2
+Support the arm in this position with a sling.
+3
+Fasten the arm to the body with several turns of bandages around 
+the body and over the hand to keep the arm close against the 
+body (Figure 2-8).
+Figure 2-8
+Broken Collarbone
+E.12.i. Rib
+A broken rib can be very painful and very dangerous because of the 
+opportunity for a broken rib to puncture a lung.  A patient coughing up frothy 
+bright red blood may have a punctured lung.  Immediate assistance should be 
+sought and EMS should be activated.
+If oxygen is available and the crewmember is properly trained to do so, 
+he/she may administer oxygen with the patient at rest in a sitting position.  
+This eases the effort required to breathe. Patients with known or suspected 
+fractured ribs should be given a high priority for transport to a medical 
+facility.
+
+--- PAGE 46 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-36
+E.12.j.  Nose
+If an injury to the nose occurs, utilize the following procedures:
+Step
+Procedure
+1
+Stop the bleeding.
+2
+If conscious, have the patient sit and lean forward applying 
+gentle pressure to the sides of the nose.
+3
+Apply a cold compress or an ice bag over the nose to ease pain, 
+reduce swelling, and assist in stopping the bleeding.
+4
+Place unconscious victim on his or her side to keep airway open.
+E.12.k.  Jaw
+If an injury to the jaw area interferes with a victim’s breathing, have patient 
+lean forward to assist with draining of blood/saliva rather than lying patient 
+on their back.   If patient is unable to sit, then they should be placed in the 
+recovery position on their side.
+E.12.l.  Pelvis
+A patient with a pelvis injury should be treated for shock, but should not be 
+moved unless absolutely necessary.  When moving a patient, the person
+should be treated the same as a victim with a spinal injury.
+(01) Bandage the legs together at the ankles and knees and place a pillow 
+at each hip and secure them,
+(02) Fasten the patient securely to the stretcher.
+A pelvis injury is often associated with major trauma and may involve 
+bleeding that is undetectable.  The patient should be closely monitored for 
+signs of shock which may be caused by heavy internal bleeding.
+WARNING 
+Burns
+E.13. Causes of 
+Burns
+Causes of burns include:
+(01) Thermal,
+(02) Chemical,
+(03) Sunburn,
+(04) Electric shock,
+(05) Radiation.
+NOTE 
+Burns, regardless of the cause, may cause a person to go into shock.
+Never “log-roll” a victim with a pelvic fracture.  If possible, safely perform a vertical lift instead.    
+
+--- PAGE 47 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-37
+E.14. Burn 
+Classification
+Burns can range from minor irritations to life threatening and disabling.  
+Proper first aid, administered quickly, can minimize damage resulting from 
+burns and can make the difference between life and death in serious 
+situations.  For these reasons, it is very important that boat crewmembers be 
+able to quickly determine the type and seriousness of burns in order to treat 
+them quickly and properly.  In general, the size of the burn is more important 
+than the degree of the burn.  Burns are classified by depth or degree of skin 
+damage.  The following are the three general classifications of burns: 
+(01) First-degree or Superficial,
+(02) Second-degree or Partial Thickness,
+(03) Third-degree or Full Thickness.
+E.14.a.  First-
+Degree
+First-degree or superficial burns are the mildest form of burns.  These burns 
+involve only the outer layer of skin and produce redness, increased warmth, 
+tenderness, and mild pain.
+E.14.b.  Second-
+Degree
+Second-degree or partial-thickness burns extend through the outer layers of 
+the skin.  These burns involve the inner layers of the skin, but not enough to 
+prevent rapid regeneration.  They may produce blisters and are characterized 
+by severe pain, redness, and warmth.
+E.14.c.  Third-
+Degree
+Third-degree or full-thickness burns are those that penetrate the full 
+thickness of the skin, destroying both the outer and inner layers.  Severe 
+pain, characteristic of second-degree burns, may be absent because nerve 
+endings have been destroyed.  Color may range from white and lifeless to 
+black (charred).  Healing requires many months, and usually results in 
+scarring of the skin tissue.  Skin grafts are generally required to achieve full 
+healing.
+NOTE 
+E.14.d. Total 
+Body Surface 
+Area
+The greater percentage of total body surface area (TBSA) involved, the 
+greater the risk of developing systemic complications.  Risk factors for
+severe systemic complications, shock and/or mortality include all the 
+following:
+(01) Burns of > 40% of TBSA,
+(02) Age > 60 yr or < 2 yr,
+(03) Presence of simultaneous major trauma or smoke inhalation.
+The most common systemic complications are a decrease in blood 
+circulation and infection.
+Burns of the respiratory tract are very serious and may be diagnosed by singed eyebrows, eyelashes, or 
+nostril hairs, hoarseness, sore throat, or coughing of blood.
+
+--- PAGE 48 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-38
+E.14.e.
+Determing Burn 
+Percentage
+In order to determine roughly what percentage of a victim’s TBSA has 
+suffered some type of damage (burns, etc.), the following estimates for adult 
+patients should be used:
+(01) Chest = 18%,
+(02) Back =18%,
+(03) Each arm = 9%,
+(04) Each leg = 18%,
+(05) Head = 9%,
+(06) Genitals = 1%.
+General first aid procedures for all burns include the following:
+(01) Ensure the scene is safe to provide care,
+(02) Eliminate the source of the burn.  Extinguish and remove smoldering 
+clothing.  Do not remove charred clothing that may be sticking to the 
+burn,
+(03) Remove any jewelry,
+(04) For burns resulting from electrical shock, ensure the patient is no 
+longer receiving electrical shock,
+(05) Treat to prevent or reduce shock,
+(06) Try to prevent infection,
+(07) Do not apply any type of ointment on burns,
+(08) Apply dry sterile dressing.
+
+--- PAGE 49 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-39
+E.15. Burn First 
+Aid
+In addition to the above general steps, the following are first aid procedures 
+for burns that apply specifically to particular classes of burns:
+Burn Type
+First Aid Procedure
+First-Degree
+(01) Immerse in cool water until pain is relieved.
+(02) For chemical burns, first brush off any dry 
+powder and remove any contaminated clothing. 
+Flush chemical burns for at least 20 minutes 
+unless chemical is known to react with water.
+(03) Cover loosely with clean or sterile dressing.
+Second-Degree
+(04) Use the same treatment as for first-degree burns.
+(05) Do not break open any blisters.
+(06) Cover with a loose, dry, sterile, non-adhesive 
+dressing.
+(07) For deep second-degree burns, follow the 
+procedures for third-degree burns.
+Third-Degree
+(08) Loosely cover the burn to reduce exposure to air.
+(09) Cool the burn.
+(10) Separate fingers or toes with dry, sterile, non-
+adhesive dressings.
+(11) Do not remove clothing unless smoldering.
+(12) Treat for shock even if not apparent.
+(13) Always obtain medical care.
+(14) Monitor the patient’s airway.
+(15) Assess vital signs every 5 minutes.
+(16) Give nothing to eat or drink.
+(17) Do not place ice on the burn.
+(18) Do not apply ointments to the burn.
+(19) Burns of the respiratory tract are always a 
+medical emergency.
+
+--- PAGE 50 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-40
+E.16. Chemical 
+Burns
+Chemical burns of the skin or eyes produce the same type of burn as flash 
+fires, flames, steam, or hot liquids.  The following procedures should be 
+performed:
+Step
+Procedure
+1
+Wash the chemical away completely, as quickly as possible, 
+using large quantities of water.
+2
+Continue flushing the burn for at least 20 minutes.
+3
+When the burn involves an eye, flush the eye with water for up 
+to 20 minutes.
+4
+Cover both eyes with a clean, dry, protective dressing and seek 
+medical attention as quickly as possible.
+5
+Give first aid for shock.
+6
+If the chemical is a powder, brush off as much as possible 
+before flushing with water.
+
+--- PAGE 51 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-41
+Section F.
+Cold-Related Factors
+Introduction
+The purpose of this Section is to briefly describe the precautions to take 
+while operating in cold weather. Cold rain, snow, ice storms, and high winds 
+can develop with very little warning in certain parts of the country.  
+Preparation before encountering these kinds of conditions and understanding 
+the effects of cold on personnel safety is vital.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Effects of Cold Weather
+2-41
+Hypothermia
+2-42
+Frostbite
+2-46
+Layering Clothing
+2-47
+Effects of Cold Weather
+F.1. Operating in 
+a Cold Climate
+Operating in a cold climate presents the challenge of keeping warm while 
+effectively carrying out the mission.  As the temperature drops or clothing 
+becomes wet, more insulation is required to keep the body from losing its 
+heat.
+WARNING 
+F.2. Wind
+Wind affects body temperature.  Those parts of the body exposed directly to 
+the wind will lose heat quickly, a condition commonly referred to as “wind 
+chill.”  On bare skin, wind will significantly reduce skin temperature, 
+through evaporation, to below the actual air temperature.
+WARNING 
+F.3. Crew Fatigue The combination of rough seas, cold temperatures, and wet conditions can 
+quickly cause the crew to become less effective.  Crew fatigue will occur 
+more quickly when these conditions are present.  Many accidents occur 
+when cold induced fatigue sets in because the mind loses attentiveness and 
+physical coordination diminishes.  Even a crew that is moderately cold and 
+damp will exhibit a decrease in reaction time which is also a symptom of the 
+onset of hypothermia.
+Excessive loss of body heat, which can occur even in mild weather conditions, may lead to
+hypothermia.
+Prolonged exposure to the wind may lead to hypothermia and/or frostbite.
+
+--- PAGE 52 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-42
+Hypothermia
+F.4. Loss of 
+Body Heat
+Hypothermia is a lowering of a person’s core temperature.  It occurs when a 
+person suffers a loss of body heat.  General body hypothermia is the leading 
+cause of death among shipwrecked crews and other disasters at sea.  If not 
+recognized and treated promptly, hypothermia can rapidly turn survivors into 
+fatalities.  Survivors in critical hypothermia conditions may suffer a fatal loss 
+of body temperature from physical exertion, or as a result of any delay in 
+taking immediate and positive measures to restore body heat.  Struggling 
+survivors, trying to aid in their own rescue, may drive their body temperature 
+down to the point where unconsciousness and/or death results.  Survivors 
+removed from the water and left untreated may suffer further critical loss in 
+body temperature, bringing on death after being rescued.  Survivors in 
+“warm” water can also suffer from hypothermia if exposed for long enough 
+periods of time.  Also, cold air temperatures can bring on hypothermia if 
+adequate protective clothing is not worn.
+F.5.
+Survivability
+Survival times in water vary considerably.  Survival depends on the type of 
+clothing worn, the amount of physical exertion, the blood alcohol levels, and 
+other factors.  Some survivors, when taken aboard during a SAR case, may 
+appear to be under the influence of drugs or alcohol.  A person moderately 
+hypothermic may manifest symptoms of an intoxicated person.
+F.6. Signs
+Signs of hypothermia include:
+(01) Slow, weak pulse,
+(02) Unconsciousness,
+(03) Cold pale skin skin,
+(04) May simulate or accompany shock,
+(08) Shivering,
+(09) Clouded mental capacity (may seem disoriented),
+(10) Slow and labored breathing,
+(11) Dilated pupils,
+(12) Slurred speech (may seem intoxicated),
+(13) Loss of coordination. 
+NOTE 
+The leading cause of death in cold water maritime accidents is hypothermia.
+
+--- PAGE 53 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-43
+F.7. Rescue 
+Precautions
+When it is suspected a survivor has critical hypothermia, rescue attempts 
+should be made that avoid rough handling and minimize the amount of 
+exertion by a victim.  This can be accomplished by sending a surface 
+swimmer into the water to assist the survivor into the rescue craft.  Care 
+should be taken to handle the victim gently.  Excessive movement may cause 
+heart beat irregularities which can be fatal.  During the rescue and 
+afterwards, the patient should be kept calm and quiet.
+CAUTION!
+F.8. Basic 
+Treatment
+Treatment for hypothermia will depend on both the condition of the patient 
+and treatment facilities available.  Survivors who are rational and capable of 
+recounting their experiences, should be insulated by wrapping in blankets
+and/or move to a warm environment to rest.
+An alert patient who is shivering, and who is not at risk for aspiration,
+should receive high-carbohydrate liquids and food. Liquids and food should
+be warmed but should not be hot enough to cause burns. Do not give cold 
+food items, caffeine and alcohol. If the patient is believed to be 
+hypothermic, follow the protocol for hypothermia (Figure 2-9).
+Do not allow a person to perform any physical activity other than what is absolutely necessary.  
+Exertion can use up large amounts of body heat which is necessary to raise the survivor’s internal body 
+temperature.
+
+--- PAGE 54 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-44
+- Prevent heat loss / wind chill
+- Maintain horizontal position
+- Avoid rough movement
+- Initial Assessment
+Pulse and 
+breathing present?
+- Start CPR
+No
+Patient alert and 
+responding
+appropriately?
+Yes
+Active Rewarming
+Note 1
+Yes
+Passive Rewarming
+Note 2
+No
+- Notify Sector / EMS with patient(s) condition
+- Transport ASAP
+- Provide estimated time of arrival.
+Basic Hypothermia Protocol
+Note 1. Active methods include: radiant heat source.
+Note 2. Passive methods include: blankets or dry clothing.
+Document:
+- Signs and Symptoms
+- Mechanism of Injury
+- Treatment
+- Response to Treatment
+- Submersion time
+- Wind Speed
+- Water Temperature
+Figure 2-9
+Basic Hypothermia Protocol
+
+--- PAGE 55 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-45
+F.9. Advanced 
+Treatment
+In more serious cases, where victims are semiconscious or near death, a 
+medical facility should be contacted as soon as possible for detailed 
+instructions for proper care and handling.  While awaiting medical 
+instructions, immediately administer first aid to survivors using the following 
+procedures:
+Step
+Procedure
+1
+After recovering a victim from the cold, avoid rough 
+handling of the victim as this can cause further harm.  Check 
+for the presence of breathing and pulse. If the victim is not 
+breathing and has no heartbeat, begin CPR immediately.  If 
+the victim is breathing, and has a pulse, gently transfer the 
+person to a warm environment.  Be sure to check the person’s 
+breathing and pulse frequently.  Always remain prepared to
+immediately begin CPR if breathing or pulse stop.  
+2
+Lay an unconsciousness or semiconscious victim face up. If 
+vomiting occurs, turn the patient’s head to one side.  Observe 
+respiration closely and remove any secretions from the 
+victim’s nose and mouth.
+3
+Remove the victim’s clothes with minimum movement of the 
+body.  Cut the clothes away with scissors or a knife if 
+necessary.  If a patient cannot be moved to a compartment to 
+be warmed with blankets, dry clothing, or other warming 
+methods, then DO NOT remove wet clothing.  Under these 
+circumstances, the wet clothing is better than no clothing.
+CAUTION !
+4
+Do not give anything orally, especially alcohol.
+5
+Insulate a victim from further heat loss by wrapping the 
+person in a blanket.  Do not attempt to aggressively rewarm 
+an unconscious or semiconscious victim, as rapid warming 
+can cause dangerous complications.  Do not rub frozen body 
+areas.  A victim will be very sensitive to rough handling.  
+The primary objective after a person has been removed from 
+the water is to prevent the person from getting colder.
+6
+If properly trained and equipped, administer warm, 
+humidified oxygen by face mask.  The oxygen will not only 
+assist victims if they are having difficulty breathing or have a 
+low respiratory rate, it will also provide rewarming of the 
+internal body core.
+Semiconscious or unconscious persons should not be given anything to eat or 
+drink.
+
+--- PAGE 56 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-46
+Step
+Procedure
+WARNING
+7
+When there will be a delay getting a victim to a hospital, 
+begin gentle rewarming techniques.  Rewarming 
+techniques include:
+(01) Wrapping the victim in a blanket.  Protect from wind, 
+water, cold surfaces and further heat loss. 
+(02) Applying your body warmth by direct body-to-body 
+contact with a victim.  A blanket should be wrapped 
+around you and the victim to preserve the heat.
+8
+Evacuate a victim to a medical facility soon after or during 
+emergency treatment.  A medical phone patch can be set 
+up through the Coast Guard Station if needed.  A 
+helicopter with an EMT can be sent to provide help and to 
+evacuate a victim.
+Frostbite
+F.10.
+Development 
+Factors
+Frostbite is the development of ice crystals within body tissues.  Frostbite is 
+most likely to develop in air temperatures less than 20° F (-6.6° C).  The 
+following factors contribute to the development of frostbite:
+(01) Cold stressors (wind, air temperature, and exposure to water),
+(02) Any restriction of blood-flow,
+(03) Lack of appropriate protection,
+(04) Skin exposure.
+F.11. Symptoms
+A frostbite victim will complain of painful cold and numbness in the affected 
+area.  Waxy white or yellow-white, hard, cold, and insensitive areas will 
+develop.  As the area begins to thaw, it will be extremely painful and 
+swelling (reddish-purple) or blisters may appear.  Areas prone to frostbite 
+include all extremities where the blood has traveled farthest from the heart, 
+such as the hands, feet, face, and ear lobes.  A patient suffering from frostbite 
+should also be treated for hypothermia.
+Hypothermia patients are very prone to burns. Hot packs, heating pads, and 
+hot water bottles may cause third degree burns and must be administered 
+with extreme care.
+
+--- PAGE 57 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-47
+F.12. Prevention
+Cold weather clothing and equipment are essential to prevent cold-related 
+injuries and fatigue.  Such items include: cold weather boots, thermal socks, 
+watch caps, gloves, and thermal underwear (moisture wicking).
+WARNING 
+Layering Clothing
+F.13. First Layer 
+- Wicking
+Staying dry is an essential factor to maintaining body temperature.  Clothing worn 
+next to the skin must carry or “wick” moisture away from the body.  Cotton 
+clothing can pose particular problems.  They absorb and retain moisture, which 
+will rob body heat through evaporation.  Wool has good insulating properties even 
+when wet, but it is less than ideal because it stays wet.  Modern synthetic wicking
+fibers such as polypropylene do not retain moisture.  They will actually draw 
+moisture from the skin and transport it to an absorbent outer layer.  This clothing 
+works well by itself, or it can be combined with a second layer for extreme cold.
+F.14. Second 
+Layer -
+Insulation
+The insulating effect of a fabric is related to how much air it can trap.  This is 
+why a loose-knit or fuzzy material is better than one that is tightly knit.  It is 
+also why two thin layers of a given material are better than one thick one.  
+The second layer traps air, which retains body heat, while absorbing excess 
+moisture from the first layer.  Wool or cotton thermals are an acceptable 
+second layer if worn over a wicking layer, but a number of synthetic fleece or 
+pile garments do a much better job.  An example of this is the fleece coverall.
+F.15. Third 
+Layer - Moisture 
+Barrier
+The outer layer should stop wind and water, so the inner layers can work as 
+designed.  Choices include the anti-exposure coverall, dry suit, or rain gear.  
+The dry suits and rain gear have no insulating properties and will require 
+extra insulation for cold weather. Also, as most dry suits do not “breathe,” 
+an absorbent second layer is needed so that perspiration has a place to go.
+F.16. Extremities Most heat loss occurs through the extremities, especially the head.  It is 
+particularly important to cover these areas well.  It is still important to layer 
+properly, but thinner, or all-in-one materials must be used to reduce bulk.  
+For the head, a wool cap may work, but a heavy wicking hood or cap worn 
+alone or under a wool cap will keep you drier and warmer.  A rain hat or 
+hood should be considered for wet weather.  Gloves should be waterproof, 
+and a wicking liner glove will work better than wool.  High top rubber boots 
+are the only option for wet weather.  A wicking liner sock under a wool, 
+cotton, or fleece outer sock will provide the best warmth.  Insoles should be 
+non-absorbent.  A perforated foam insole also works well.
+Any person who has had frostbite previously is at an increased risk for a cold exposure injury in that 
+same area of the body.
+
+--- PAGE 58 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-48
+Section G.
+Sun and Heat-Related Factors
+Introduction
+Crewmembers must be aware of the dangers of too much exposure to the sun 
+and take preventive measures to guard against a decrease in performance.  
+Intense sunlight and extreme heat can increase crew fatigue and reduce 
+effectiveness.  This Section discusses the various sun and heat-related factors 
+that crewmembers may encounter during their activities.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Sunburn
+2-48
+Dehydration
+2-49
+Heat Rash (Prickly Heat)
+2-51
+Heat Cramps
+2-51
+Heat Exhaustion
+2-52
+Heat Stroke
+2-53
+Susceptibility to Heat Problems
+2-53
+Sunburn
+G.1. Description
+Continuous exposure to the sun can cause sunburn and other complications 
+such as heat stroke, dehydration, etc.  Unprotected exposed skin will suffer 
+from premature aging and an increased chance of skin cancer.
+G.2. Symptoms
+Sunburn appears as redness, swelling, or blistering of the skin.  Other effects 
+of overexposure to the sun are fever, gastrointestinal symptoms, discomfort,
+and pigment changes in the skin.
+G.3. Prevention
+If exposed to the sun for prolonged periods of time, crewmembers must take 
+precautions.  Staying in the shade when possible is a start.  However, just 
+getting out of direct sunlight is not always enough since sun can be just as 
+harmful when reflected off a bright surface, such as sand or water.  Sun-
+screen lotion with a sun protection factor (SPF) of 15 or higher should be 
+used.  Protective clothing such as a hat with a brim and sunglasses with 
+ultraviolet protection for eyes should be worn.
+
+--- PAGE 59 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-49
+G.4. Treatment
+Most sunburns do not appear fully until exposed to the sun for several hours.  
+Treatment consists of applying cool wet towels to the affected area.  Cooling 
+the skin temperature is very important.  Keeping the skin moist but being 
+wary of what product is applied is also essential.  Many lotions contain 
+perfumes, alcohol, or wax that will only aggravate the burn.  Several types of 
+first aid sprays give fast but short-lived relief.
+Dehydration
+G.5. Description
+An adequate fluid intake is essential to remain hydrated while underway.  
+Fluids are lost from the body in several ways.  The most obvious loss is 
+through the kidneys.  The less obvious loss of body fluid occurs through 
+perspiration from the skin and respiration through the lungs.  As a result, an 
+average, healthy adult requires two or three liters of fluid a day to replace 
+these losses.  Extremely warm weather significantly increases the loss of 
+fluids.  Staying away from liquids such as tea, alcohol, coffee, and soft drinks 
+is advisable as these liquids speed up fluid loss.
+One vital element of body fluids that must be maintained is electrolytes.  
+“Electrolyte” is a medical/scientific term for salts, specifically ions.  
+Electrolytes are important because the body uses them to maintain voltage 
+across cell membranes and to carry electrical impulses for moving the 
+muscles.  The body loses electrolytes mostly through perspiration.  In most 
+cases, a normal diet and drinking plenty of fluids will maintain an adequate 
+electrolyte level.
+Overhydrating with water without adequate salt intake may cause excessively 
+low sodium levels in the blood (hyponatremia).  This can result in symptoms 
+of nausea, vomiting, headache, confusion and fatigue and can be confused 
+with heat exhaustion.   Hyponatremia is potentially life-threatening.  As a 
+guideline fluid intake should not exceed 1 ¼ quarts of water per hour or 12
+quarts daily. 
+WARNING 
+Do not use salt tablets unless prescribed by a physician.  The use of salt tablets does not improve well-
+being despite the amount of perspiration or salt/electrolyte loss.
+
+--- PAGE 60 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-50
+G.6. Symptoms
+Healthy adults must satisfy their water and electrolyte requirements.  When 
+water and electrolytes are not replaced, the body experiences dehydration.
+Drinking alcohol and caffeine increases dehydration.  At first there is thirst 
+and general discomfort, followed by an inclination to slow physical 
+movement, and a loss of appetite.  As more water is lost, an individual 
+becomes sleepy and experiences a rise in body temperature.  By the time the 
+body loses 5% of body weight in fluids, the individual begins to feel 
+nauseated.  When 6 to 10% of body fluids are lost, symptoms increase in 
+this order:
+(01) Dry mouth,
+(02) Dizziness or lightheadedness that does not allow a person to stand or 
+walk normally,
+(03) Fainting,
+(04) Headache,
+(05) Rapid heart rate,
+(06) Confusion.
+G.7. Prevention
+Drinking fresh clean water is the best and easiest method to replace fluid 
+loss and prevent dehydration.  Almost all fluids are suitable including fruit 
+juices, soups, and water. Crewmembers should drink plenty of fluids 
+throughout the day, especially in warm, dry climates.  Taking along an 
+ample supply of water is a must during prolonged periods away from a 
+water source.
+WARNING 
+G.8. Treatment
+The signs of dehydration can be subtle and therefore, crewmembers should 
+be particularly watchful of each other under extreme conditions of sun and 
+heat.  The crew should be encouraged to drink fluids throughout the 
+mission.  Rotating crews between tasks where they are exposed to the sun 
+and shade will help prevent dehydration.  If a crewmember becomes 
+dehydrated, the person should be immediately removed from further 
+exposure to heat and/or sun and should receive prompt medical attention.  
+Mild dehydration cases will become serious if the level of activity and 
+environmental conditions do not change.
+Never force fluid by mouth to a person who is unconscious or semiconscious due to risk of choking.
+
+--- PAGE 61 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-51
+Heat Rash (Prickly Heat)
+G.9. Description
+Heat rash is prevalent among those living and working in warm, humid 
+climates or in hot spaces ashore or aboard boats.  It may occur in cool 
+weather if a person overdresses.
+G.10. Symptoms
+Heat rash develops when sweat ducts in the skin become blocked.  This 
+causes:
+(01) Breakdown of the body’s ability to perspire,
+(02) Decreased evaporative cooling of the skin,
+Heat rash may be very itchy and may interfere with sleep, resulting in 
+decreased efficiency and increased cumulative fatigue, making the individual 
+susceptible to more serious heat disorders.  Heat rash also accelerates the 
+onset of heat stroke.  Symptoms of heat rash are:
+(03) Small red bumps mainly on the neck, shoulders and chest,
+(04) Skin irritation (prickling),
+(05) Frequent, severe itching.
+G.11. Prevention Coxswains and crewmembers must be aware of negative effects brought on by 
+heat rash, and be alert for symptoms when operating in a hot environment.  
+Rotating crews between heat-related tasks and those jobs in a cooler 
+environment will help prevent heat rash from occurring.
+G.12. Treatment
+If heat rash occurs, the crewmember should be immediately removed from 
+further exposure to excessive heat.  Positive action should be taken to prevent 
+the onset of more serious disorders.  The heat rash should be washed with a 
+gentle soap , rinsed, and patted dry with a towel.  Clothing should be worn 
+that allows the skin to breathe.  A cool wet towel may be applied for 20 
+minutes several times per day.
+Heat Cramps
+G.13. Description
+Heat cramps are painful contractions caused by excessive salt and water 
+depletion.  Heat cramps may occur as an isolated occurrence with normal 
+body temperature or during heat exhaustion.  Recently stressed muscles are 
+prone to heat cramps, particularly those muscles in the extremities and 
+abdomen.
+
+--- PAGE 62 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-52
+G.14. Symptoms
+Heat cramps affect the muscles of the extremities and abdominal wall.  Pain 
+may be severe.  Body temperature may be normal or elevated. The patient 
+will have moist, cool skin and heavy sweating.
+G.15. Prevention The guidelines discussed previously for other heat-related illnesses should be 
+followed.
+G.16. Treatment
+The treatment for heat cramps is removal from the hot environment and 
+drinking cool fluids which afford both relief and continued protection.  A 
+diluted “sports” drink may speed up recovery.  Dilute the “sports” drink by 
+mixing with half water. Gentle stretching and gentle massage of the affected 
+muscle groups may help. Re-exposure to heat should be avoided for at least 
+12 hours.
+Prompt medical assistance is recommended for severe or persistent 
+conditions.
+Heat Exhaustion
+G.17. Description
+Heat exhaustion typically occurs when people exercise heavily or work in a 
+warm, humid environment where body fluids are lost through heavy 
+sweating.  Fluid loss can result in a decrease of blood-flow to vital organs.  
+In heat exhaustion, sweat does not evaporate as it should, possibly because 
+of high humidity or too many layers of clothing.  As a result, the body is not
+cooled effectively.
+G.18. Symptoms
+The signs and symptoms of heat exhaustion include: dizziness, headache, 
+nausea, weakness, clumsy/unsteady gait and muscle cramps.  An individual 
+that collapses in the heat and continues to perspire freely almost surely has 
+heat exhaustion.  The presence of sweating usually rules out heat stroke.
+G.19. Prevention The guidelines discussed previously for other heat-related illnesses should be 
+followed.
+G.20. Treatment
+First aid treatment should be provided immediately followed by rapid 
+removal (in a litter, if possible) of the patient to a location that can provide 
+proper medical care.
+
+--- PAGE 63 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-53
+Heat Stroke
+G.21. Description
+Heat stroke is a major medical emergency and results from the complete 
+breakdown of the body’s sweating and heat regulatory mechanisms.  Heat 
+stroke or “sun stroke” is caused by operating in bright sun or working in a 
+hot environment, such as an engine compartment.  The onset of heat stroke
+is very rapid.
+G.22. Symptoms
+The major symptoms of heat stroke are:
+(01) Red skin, hot and dry to the touch (cessation of sweating),
+(02) Characteristic body temperature above 105° F (40.5° C),
+(03) Headache,
+(04) Weak and rapid pulse,
+(05) Confusion, violence, lack of coordination, delirium, and/or 
+unconsciousness,
+(06) Brain damage (if immediate medical treatment is not given).
+G.23. Prevention
+The guidelines discussed previously for other heat-related illnesses should 
+be followed.
+WARNING 
+G.24. Treatment
+Heat stroke is the most serious of all heat disorders and is an immediate 
+threat to life.  There is a high mortality rate associated with heat stroke.  It is 
+important to remember that heat exhaustion is the result of overloaded heat 
+balance mechanisms that are still functioning.  Heat stroke strikes the victim 
+when the thermo-regulatory mechanisms are not functioning, and the main 
+avenue of heat loss, evaporation of sweat, is blocked.  The patient must be 
+treated immediately, or death may occur.  It is best to carefully remove the 
+victim to a cooler environment and seek medical assistance.
+Susceptibility to Heat Problems
+G.25. Description
+Personnel who are not accustomed to strenuous physical activity in hot and 
+humid environments are particularly susceptible to heat injuries.  Excess 
+body weight contributes to this susceptibility.
+No matter which type of operation or assigned mission is being conducted, all incidents of heat stroke 
+must be considered as medical emergencies.
+
+--- PAGE 64 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-54
+G.26. Clothing 
+and Equipment
+Impermeable clothing does not “breath” and thus greatly increases an 
+individual’s susceptibility to heat-related illnesses.  Clothing acts as a 
+barrier that prevents evaporative cooling.  Many synthetic fabrics reduce the 
+absorption and dispersal of sweat needed to achieve optimum heat loss by 
+evaporation.
+Clothing and equipment should be worn so that there is free circulation of 
+air between the uniform and the body surface.  Wearing shirt collars, shirt 
+cuffs, and trouser bottoms open will aid in ventilation.  However, this 
+practice may not be permissible in those areas where loose fitting or open 
+style clothing would present a safety hazard (e.g., around machinery with 
+moving parts).
+In full sunlight or a high radiant heat source (e.g., machinery spaces), 
+keeping the body covered with permeable clothing reduces the radiant heat 
+load upon the body.  When not working in these areas, removal of the outer 
+layer of clothing will help reduce body temperature. Impermeable clothing 
+must be avoided.  If impermeable clothing must be worn, precautions should 
+be taken to avoid the rapid buildup of body heat.  Heat illnesses may be 
+manifested in minutes if impermeable clothing is worn.
+G.27. Fever
+Febrile illnesses (fever) increase the chance of rapid heat buildup within the 
+body.  The presence of fever before heat stress exposure reduces the 
+allowable exposure times.
+G.28. Fatigue
+Cumulative fatigue may develop slowly.  Failure to recognize this slow 
+development increases an individual’s susceptibility to heat-related 
+problems.
+G.29. Prior Heat 
+Illnesses
+Prior heat illnesses lead to heat illnesses of greater severity with each 
+incidence.  There are two major preventive measures:
+(01) Water,
+(02) Salt.
+G.29.a.  Water
+The body needs water only in quantities sufficient to prevent dehydration and 
+electrolyte imbalances that result from losses in sweat, urine, etc.  Under 
+conditions of profuse sweating, each person will require one pint (0.5 liters) or 
+more of fluid intake per hour.  Water should be taken in small quantities at 
+frequent intervals, such as every 20 or 30 minutes.
+G.29.b.  Salt
+The average diet provides from 15 - 20 grams of salt daily.  This amount of 
+salt is adequate for the prevention of most heat-related illnesses.
+
+--- PAGE 65 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-55
+Section H.
+Miscellaneous Emergencies
+Introduction
+Boat crewmembers will face a variety of emergencies that will require 
+performing first aid. This Section discusses miscellaneous emergencies that 
+boat crewmembers will encounter aboard their own vessel or when dealing 
+with marine casualties.
+In this Section
+This Section contains the following information:
+Title
+See Page
+Hazardous Gases and Vapors
+2-55
+Poisoning by Mouth
+2-58
+Eye Injuries
+2-59
+Fish Bites and Stings
+2-61
+Near-Drowning
+2-64
+Hazardous Gases and Vapors
+H.1. Introduction Crewmembers are constantly at risk of injury or death from exposure to 
+hazardous gases and vapors both on and off duty.  The most common 
+hazardous gas encountered during boat operations is Carbon Monoxide gas 
+(CO). CO is a colorless and odorless gas which is lighter than air.
+H.2. Conditions 
+Where CO May 
+Be Present
+The following conditions are associated with CO poisoning:
+(01) Fuel-burning devices,
+(02) Enclosed areas,
+(03) Underway,
+(04) Fires.
+H.2.a Fuel 
+Burning Devices
+Operating any of the following fuel-burning devices produces CO gas:
+(01) Gasoline or diesel engines,
+(02) Portable dewatering pumps,
+(03) Propane or alcohol stoves,
+(04) Acetylene torches,
+(05) Kerosene heaters.
+
+--- PAGE 66 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-56
+H.2.b. Enclosed 
+Areas
+Personnel can be quickly affected by CO gas in areas such as closed cockpits 
+or unventilated spaces below decks and under the following conditions:
+(01) Sleeping in a closed cabin while using certain types of catalytic 
+and/or flame producing heaters,
+(02) Working in an engine compartment with the engines operating,
+(03) Working a defective exhaust system which allows fumes to 
+accumulate in a confined space.
+NOTE
+H.2.c. 
+Underway
+The boat does not need to be stationary for a problem with CO gas to occur.  
+For example, a following wind can circulate exhaust gases throughout the 
+cockpit of a slow-moving boat.
+The construction of some cockpits or cabins can cause eddies from a wind
+current which draw fumes back aboard.
+H.3. Fires
+Breathing the by-products of a fire is another source of dangerous fumes.  
+Even a recently extinguished fire is still dangerous.  Fires can also create 
+other highly lethal fumes such as cyanide gases.  This happens when 
+different types of plastics, upholstery, cushions, or electronics insulation
+burn.
+When located in a compartment that may be affected by lethal fumes, breathable air may be 
+found near the deck.  Crouch or crawl on the deck to reach an exit.
+
+--- PAGE 67 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-57
+H.4. Symptoms
+Symptoms of CO poisoning can include one or more of the following:
+(01) Headache,
+(02) Weakness,
+(03) Dizziness,
+(04) Nausea or vomiting,
+(05) Blurred vision,
+(06) Loss of consciousness,
+(07) Cherry red skin color,
+Symptoms of cyanide gas exposure include:
+(08) Headache,
+(09) Weakness,
+(10) Dizziness,
+(11) Confusion,
+(12) Shortness of breath,
+(13) Unconsciousness,
+(14) Seizure,
+(15) Eye irritation,
+(16) Pink or red skin color.
+H.5. Prevention
+Crewmembers should always ensure adequate circulation of fresh air 
+throughout the vessel.  Minimizing the effect of exhaust fumes on the vessel 
+is key and may be as simple as:
+(01) Making a minor course change,
+(02) Increasing speed,
+(03) Opening a door, window, etc.
+
+--- PAGE 68 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-58
+H.6. Response to 
+Victims
+The first senses affected by poisonous gases are those that control a person’s 
+judgment and decision-making ability.  Once dangerous fumes affect a 
+person, they may not be able to help themselves.  The following responses 
+should be conducted as appropriate:
+(01) If CO or any other type of poisoning is suspected, remove the 
+conscious victim to fresh air and get medical help immediately.
+Administer oxygen (if available and trained to do so),
+(02) If the victim is unconscious, do not try to assist them alone.  Needless 
+casualties occur from people trying to help someone overcome by 
+lethal fumes, only to become victims themselves.  See if the victim is 
+responsive by calling out to them.  If there is no response, 
+immediately call for assistance and wait in a clean atmosphere until 
+help arrives.
+H.7. Additional 
+Threats
+Since boat crews are often required to respond to those needing assistance or 
+to act as the eyes and ears of local commands they are frequently in 
+situations that require proximity to incidents in early stages.  For example, 
+while responding to the scene of a collision between two commercial barges,
+there may be hazardous chemicals, gases, vapors or fumes involved that 
+might be Immediately Dangerous to Life and Health (IDLH).  The  safest 
+place for the boat and crew is often  upwind and up current.  Publications 
+like the North American Emergency Response Guidebook (NAERG) provide 
+first responders with potential hazards and recommendations for safe 
+distances and appropriate protections.
+Poisoning by Mouth
+H.8. Description
+When poisoning occurs, it is vital that proper first aid be given immediately.
+H.9. Seeking 
+Advice
+The product container will often include specific treatment instructions.  If 
+poisoning has occurred, medical assistance should be sought immediately.  
+The boat crew should contact its unit, provide information about the 
+substance taken, an estimate of the quantity taken, and have the unit 
+immediately contact the local poison control center.  The container for the 
+substance and any samples of vomit should be taken with the victim when 
+transporting to a medical facility.
+
+--- PAGE 69 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-59
+H.10. Medical 
+Assistance Not 
+Available
+If medical advice is not immediately available and the patient is conscious, 
+an attempt should be made to determine if the poison is a strong acid, alkali, 
+or petroleum product.  No attempt should be made to induce vomiting.
+H.11. Treatment
+Closely observe the basics for shock treatment during transport described in
+Section C of this Chapter. Treatment should also be based on information 
+provided by the local poison control center.
+Eye Injuries
+H.12.
+Description
+Eye injuries are potentially serious, and may be permanent, unless handled 
+promptly and properly.  Eyes should be moist.  Any dressing applied directly
+to an open or partially open eye should also be moistened with clean water to 
+prevent excessive drying.
+Eye movement is conjugal, that is if one eye moves, the other also moves in 
+the same manner.  When dealing with a penetrating injury to an eye, or a 
+foreign object in an eye, the objective is to limit eye movement.  Because of 
+conjugal movement, this is best accomplished by covering both eyes.  In 
+most cases, a patient with an eye injury is transported sitting up.
+H.13. Blindness
+Patients who have experienced a blinding injury become totally dependent 
+upon their rescuer.  These patients should never be left alone.  Constant 
+contact and continuous conversation with them should be maintained to 
+reduce anxiety.
+H.14. Types of 
+Eye Injuries
+There are many injuries that may occur to a victim’s eyes.  Any eye injury is 
+normally the cause of great anxiety for a victim, many times causing more 
+concern than more serious injuries to other parts of the body.  As a boat 
+crewmember, this should be kept in mind while rescuing or treating victims 
+with eye injuries.
+
+--- PAGE 70 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-60
+H.15. Symptoms 
+and Treatments
+The following table describes the symptoms and appropriate treatments for 
+the various eye injuries:
+Eye Injury
+Symptom
+Treatment
+Blunt Eye 
+Trauma
+Blows to a victim's head 
+and eye area may result in 
+a fracture to the orbit (the 
+bony socket encircling the 
+eye), entrapping vessels 
+and nerves to the eye.
+Managing such injuries requires 
+covering both eyes with a dry
+dressing.  This is important 
+since movement by an 
+uninjured eye is mimicked by 
+the injured eye.  Refer the 
+patient to medical care for 
+follow-up.  Since this injury 
+may involve a head injury, 
+closely observe the patient for 
+signs of further damage.
+Penetrating 
+Objects and 
+Foreign 
+Bodies
+Common objects include 
+fish hooks, wood 
+splinters, or pieces of 
+glass.
+Any object that has penetrated 
+the eye must not be removed as 
+first aid treatment.  Cover 
+injured eye with a moist 
+dressing and the other eye with 
+a dry dressing, and support the 
+object if it protrudes to prevent 
+movement.  A protective cup 
+for the eye can be made from a 
+plastic or styrofoam cup taped 
+over the affected eye, with a 
+moist dressing inside.  
+Immediately refer the patient 
+for further medical care.
+Caustics, 
+Acids, or 
+Burns
+May include remains of 
+the substance itself, pain, 
+swelling, discoloration of 
+the skin, peeling of skin, 
+and blisters.
+Immediately flush both eyes 
+with large quantities of gently 
+flowing water.  Each eye should 
+be flushed with water for a 
+minimum of 15 minutes with 
+the water flowing away from 
+the unaffected eye.  Never use a 
+neutralizing agent for flushing, 
+use only plain tap water.  A 
+moist dressing may be helpful.  
+After flushing, refer the patient 
+for further medical care.
+
+--- PAGE 71 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-61
+Fish Bites and Stings
+H.16. Types of 
+Bites and Stings
+Fish bites and stings are another common problem encountered by boat 
+crews during rescues.  They can range from innocuous to deadly, and boat 
+crewmembers must be constantly alert to identify bites and stings as quickly 
+as possible. Many bites and stings may result in swelling of the affected body 
+part. For this reason, all jewelry should be removed from the affected area or 
+limb to prevent greater damage.  
+Victims may suffer many different types of fish bites and stings.  The types 
+encountered will depend in large part on the area of operations and the sea life 
+that exists there.  It is important to become familiar with the most common types 
+of fish bites and stings that are encountered and the proper treatments for them. 
+If removal of stingers or tentacles is required, care should be used to protect the 
+rescuer from exposure.
+
+--- PAGE 72 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-62
+H.17. Effects and 
+Treatment
+The following describes the effects and proper treatment for various fish 
+bites/stings encountered:
+Bite/Sting
+Effects
+Treatment
+Shark & 
+Barracuda 
+Bites
+Generally loss of 
+large amounts of 
+tissue.
+Prompt and vigorous action to 
+control hemorrhage and shock are 
+required to save a victim’s life.  
+Control bleeding with pressure 
+dressings, if possible.  If not, use 
+tourniquets.  Seek medical help 
+immediately.
+Fish Stings
+(e.g. lionfish, 
+puffer fish, 
+scorpion 
+fish, 
+Caribbean 
+fire coral)
+Symptoms include:
+(01) Burning,
+(02) Stinging,
+(03) Redness,
+(04) Swelling,
+(05) Rash,
+(06) Blisters,
+(07) Abdominal 
+cramps,
+(08) Numbness,
+(09) Dizziness,
+(10) Shock.
+Individuals extremely sensitive to 
+fish stings may rapidly go into shock
+and require immediate evacuation to 
+save their life.
+Portuguese 
+Man-of-War 
+& Jellyfish
+Symptoms include:
+(01) Burning,
+(02) Stinging,
+(03) Redness,
+(04) Jelly-like 
+matter from 
+tentacles stuck 
+on the body.
+(01) Remove any remaining tentacles 
+to prevent further damage,
+(02) Rinse the area with clean fresh or 
+salt water and apply an ice pack 
+to reduce pain,
+(03) Check with local medical 
+facilities to learn advanced 
+treatment for local species,
+(04) If the sting is serious, treat for 
+shock and seek medical 
+attention.
+
+--- PAGE 73 ---
+Boat Crew Handbook – First Aid 
+Chapter 2 – First Aid
+2-63
+Bite/Sting
+Effects
+Treatment
+Stingray 
+Injuries
+Typically a small 
+open wound with 
+swelling.
+(01) Immediately irrigate the wound 
+from a stingray with cold salt 
+water.  Most of the toxins will 
+wash out and the cold water will 
+reduce the pain,
+(02) Immerse the wounded area in hot 
+water for 30 to 60 minutes.  Keep 
+the water as hot as a patient can 
+tolerate without injury,
+(03) Apply hot compresses to wounds 
+in areas not lending themselves 
+to complete immersion,
+(04)
+Apply a sterile dressing after 
+the soaking.
+Sea 
+snake/coral 
+reef snakes 
+Symptoms include:
+(01) Headache,
+(02) Blurred vision,
+(03) Sensation of 
+thick tongue,
+(04) Difficulty 
+speaking or 
+swallowing,
+(05) Thirst,
+(06) Sweating,
+(07) Vomiting,
+(08) Aching,
+(09) Stiffness,
+(10) Tenderness,
+(11) Paralysis.
+(01) Seek medical help and anti-
+venom immediately,
+(02) Wrap limb with elastic bandage,
+(03) Immobilize effected limb with 
+splint. 
+
+--- PAGE 74 ---
+Boat Crew Handbook – First Aid
+Chapter 2 – First Aid
+2-64
+Near-Drowning
+H.18.
+Mammalian 
+Diving Reflex
+Victims who inhale water or who are found floating face-down in the water 
+may be suffering from near-drowning.  Medical researchers have identified
+the phenomena of the “mammalian diving reflex.”  In this condition, a person 
+immersed in water (particularly a child), even under ice, could still be alive.  
+Even after extended periods of time, the body delivers a tiny trickle of 
+oxygen to the brain.  A victim also exhibits an almost complete constriction 
+of all peripheral blood vessels.  Their respiration and circulation almost 
+completely stop.  Properly administered CPR may successfully revive a near-
+drowning victim without serious complications, even after being underwater 
+for an hour or longer.
+H.19. Treatment
+To treat a person in a near-drowning situation, perform the following 
+procedures:
+Step
+Procedure
+1
+Evaluate CAB’s.
+2
+Identify any other injuries.
+3
+Activate EMS.
+4
+Initiate CPR if indicated.
+5
+Treat for shock.
+6
+Inform unit of status of victim.
+7
+Transport as soon as possible.
+8
+Remove wet clothing (if dry clothes or blankets available).
+9
+Treat for hypothermia as appropriate.
+10
+Constantly monitor the victim’s airway.
+11
+Re-evaluate victim’s vital signs every 5 minutes if trained.
+12
+Document:
+(01) Length of submersion,
+(02) Water temperature,
+(03) Fresh or salt water,
+(04) Drug or alcohol use,
+(05) Any treatment rendered.
+
+--- PAGE 75 ---
+Boat Crew Handbook – First Aid 
+A-1
+APPENDIX A Glossary
+Introduction
+This appendix contains a list of terms that may be useful when reading this 
+Manual.
+In this 
+Appendix
+This appendix contains the following information:
+Topic
+See Page
+Glossary
+A-1
+TERM
+DEFINITION
+Air Emboli
+A gas bubble trapped within a vein or artery.
+Anaphylactic 
+Shock
+A rapid, extreme allergic reaction.
+Bends
+see Decompression sickness below
+Cardiac Arrest
+A sudden, sometimes temporary, cessation of function of the heart.
+Cardiopulmonary 
+Resuscitation 
+(CPR)
+A medical procedure involving repeated compression of a patient's chest
+and forcing of air into the lungs, performed in an attempt to restore the 
+blood circulation and breathing of a person who has suffered cardiac arrest
+or a respiratory arrest.
+Decompression 
+Sickness
+A condition that results when sudden decompression causes nitrogen 
+bubbles to form in the tissues of the body, and can cause pain in the 
+muscles and joints, cramps, numbness, nausea, and paralysis.
+Dehydration
+Is a harmful reduction in the amount of water in the body.
+Fatigue
+Physical or mental weariness due to exertion. Exhausting effort or activity. 
+Weakness in material, such as metal or wood, resulting from prolonged 
+stress.
+First Degree Burn 
+(superficial)
+Burns that involve only the outer layer of skin and produce redness, 
+increased warmth, tenderness, and mild pain.
+Fractures (simple
+/ compound)
+A broken or cracked bone. 
+
+--- PAGE 76 ---
+Boat Crew Handbook – First Aid
+Appendix A – Glossary
+A-2
+TERM
+DEFINITION
+Frostbite
+The development of ice crystals within body tissues.  
+Heat Cramps
+Painful contractions in the skeletal muscles caused by excessive salt and 
+water depletion.
+Heat Stroke
+A condition marked by fever and often by unconsciousness, caused by
+failure of the body's temperature-regulating mechanism when exposed to 
+excessively high temperatures.
+Hemorrhage 
+(bleeding)
+Is the escape of blood from arteries, veins, or even capillaries because of a 
+break in their walls.  
+Hypothermia
+A lowering of the core body temperature due to exposure of cold (water or 
+air) resulting in a subnormal body temperature that can be dangerous or 
+fatal. The word literally means “under heated.”
+Medevac
+“Medical Evacuation”.  Evacuation of a person for medical reasons.
+Motion Sickness 
+(Sea Sickness)
+Nausea and/or vomiting caused by an imbalance between visual images and 
+the portion of the middle ear that senses motion.  
+Mammalian 
+Diving Reflex 
+(Near Drowning)
+The body's physiological response to submersion in cold water and includes 
+selectively shutting down parts of the body in order to conserve energy for 
+survival.
+Heat Rash 
+(Prickly Heat)
+An itchy inflammation of the skin, typically with a rash of small vesicles, 
+common in hot moist weather.
+Second Degree 
+Burn (partial-
+thickness)
+Burns that involve the inner layers of the skin, but not enough to prevent 
+rapid regeneration.  They produce blisters and are characterized by severe 
+pain, redness, and warmth.
+Self Contained 
+Underwater 
+Breathing 
+Apparatus 
+(SCUBA)
+Any breathing apparatus that is carried entirely by an underwater diver and 
+provides the diver with breathing gas at the ambient pressure.
+Shock
+A medical emergency in which the organs and tissues of the body are not 
+receiving an adequate flow of blood.
+Splint
+A strip of rigid material used for supporting and immobilizing a broken 
+bone when it has been set.
+Stroke
+When blood flow to area in the brain is cut off. 
+Stokes Litter
+A rescue device generally used to transport non-ambulatory persons or 
+persons who have injuries that might be aggravated by other means of 
+transportation.
+
+--- PAGE 77 ---
+Boat Crew Handbook – First Aid 
+Appendix A - Glossary
+A-3
+TERM
+DEFINITION
+Swathe
+A piece or strip of material in which something is wrapped.
+Third Degree 
+Burn (full-
+thickness)
+Burns that penetrate the full thickness of the skin, destroying both the outer 
+and inner layers.  Severe pain, characteristic of second-degree burns, may 
+be absent because nerve endings have been destroyed.
+Tourniquet
+A device for stopping the flow of blood through a vein or artery, typically 
+by compressing a limb with a cord or tight bandage.
+Triage
+The process of assessing survivors according to medical condition and 
+assigning them priorities for emergency care, treatment, and evacuation.
+Wind-Chill 
+Factor
+An estimated measurement of the cooling effect of a combination of air 
+temperature and wind speed in relation to the loss of body heat from 
+exposed skin.
+
+--- PAGE 78 ---
+Boat Crew Training Handbook – First Aid
+B-1
+APPENDIX B List of Acronyms
+Introduction
+This appendix contains a list of acronyms that may be useful when reading 
+this and other Coast Guard manuals.
+In this Appendix
+This appendix contains the following information:
+Topic
+See Page
+List of Acronyms
+B-2
+
+--- PAGE 79 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-2
+ACRONYM
+DEFINITION
+A/C
+Air Conditioning
+AAR
+After Action Report
+ACFT
+Aircraft
+ACIP
+Aviation Incentive Pay
+ACMS
+Aviation Computerized Maintenance System
+ACP
+Area Contingency Plan
+ACP
+Alternate Compliance Program
+ACTSUS
+Active Suspension
+ADF
+Automatic Radio Direction Finder
+ADSW-AC
+Active Duty Special Work in Support of Active Component
+ADT
+Active Duty for Training
+ADT-AT
+Active Duty Training for Annual Training
+AEO
+Assistant Engineering Officer
+AEPO
+Assistant Engineering Petty Officer
+AFC
+Allowance Fund Control
+AFFF
+Aqueous Film – Forming Foam
+AIDS
+Acquired Immunodeficiency Syndrome
+AIM
+Administrative Investigations Manual
+AIS
+Automatic Identification System
+AH
+Amplitude Modulation
+AMIO
+Alien/Migrant Interdiction Operation
+AMS
+Automated Manifest System
+AMVER
+Automated Mutual-Assistance Vessel Rescue
+ANB
+Aids to Navigation Boat
+ANS
+Aquatic Nuisance Species
+ANSI
+American National Standards Institute
+ANT
+Aids to Navigation Team
+AOPS
+Abstract of Operations
+AOR
+Area of Responsibility
+API
+American Petroleum Institute
+APPS
+Act to Prevent Pollution from Ships
+APR
+Aid Positioning Report
+
+--- PAGE 80 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-3
+ACRONYM
+DEFINITION
+ASB
+Arctic Survey Boat
+ATB
+Aviation Training Boat
+AtoN
+Aids to Navigation
+AtoNIS
+Aids to Navigation Information System
+ATR
+Ammunition Transaction Report
+AUXCOM
+Auxiliary Boat Commander
+AUX DATA
+Auxiliary Data
+AUXPATCOM
+Auxiliary Patrol Commander
+AV
+Aid Verifier
+BA
+Bridge Administration
+BAC
+Blood Alcohol Content
+BAS
+Basic Allowance for Subsistence
+BCEB
+Boat Crew Examination Boards
+BCM
+Boat Crewmember
+BCMP
+Boat Class Maintenance Plan
+BDCM
+Buoy Deck Crewmember
+BDS
+Buoy Deck Supervisor
+BECCE
+Basic Engineering Casualty Control Exercises
+BEQ
+Bachelor Enlisted Quarters
+BM
+Boatswain’s Mate
+BNTM
+Broadcast Notice to Mariners
+BO
+Boarding Officer
+BO/BTM PQS
+Boarding Officer / Boarding Team Member Personnel Qualification Standard
+BOSN
+Boatswain
+BS
+Breaking Strength
+BSC
+Boating Safety Circular
+BTM
+Boarding Team Member
+BUSL
+Buoy Utility Stern Loading
+BWI
+Boating While Intoxicated
+BWM
+Ballast Water Management
+C2
+Command and Control
+C2PC
+Command/Control Personal Computer
+CABs
+Compressions, Airway, and Breathing
+
+--- PAGE 81 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-4
+ACRONYM
+DEFINITION
+CAC
+Crisis Action Center
+CASCOR
+Casualty Correct
+CASREP
+Casualty Report
+CBL
+Commercial Bill of Lading
+CB-L
+Cutter Boat – Large
+CB-M
+Cutter Boat – Medium
+CB-OTH
+Cutter Boat – Over the Horizon
+CBRN
+Chemical, Biological, Radiological, Nuclear
+CB-S
+Cutter Boat – Small
+CDAR
+Collateral Duty Addictions Representative
+CDI
+Course Deviation Indicator
+CDO
+Command Duty Officer
+CDR
+Commander
+CDV
+Course Deviation Variance
+CEM
+Crew Endurance Management
+CERCLA
+Comprehensive Environment Compensation and Liability Act
+CEU
+Civil Engineering Unit
+CF
+Comparison Factors
+CFC
+Combined Federal Campaign
+CFR
+Code of Federal Regulations
+CFVS
+Commercial Fishing Vessel Safety
+CGADD
+Coast Guard Addendum
+CGDF
+Coast Guard Dining Facility
+CGIS
+Coast Guard Investigative Service
+CGPC
+Coast Guard Personnel Command
+CIC
+Combat Information Center
+CIO
+Command Intelligence Officer
+CISM
+Critical Incident Stress Management
+CM
+Configuration Management
+CMAA
+Chief Master at Arms
+CMCO
+Classified Material Control Officer
+CMG
+Course Made Good
+CMS
+COMSEC (Communication Security) Material System
+
+--- PAGE 82 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-5
+ACRONYM
+DEFINITION
+CO
+Commanding Officer or Carbon Monoxide
+CO/OIC
+Commanding Officer/Officer-in-Charge
+COCO
+Chief of Contracting Officer
+COFR
+Certificate of Financial Responsibility
+COG
+Course Over Ground
+COI
+Certificate of Inspection
+COLREG
+International Regulations for Preventing Collisions at Sea
+COMCEN
+Communications Center
+COMDTINST
+Commandant Instruction
+COMINT
+Communications Intelligence
+COMMS
+Communications
+CONOPS
+Concept of Operations
+COR
+Certificate of Registry
+COTP
+Captain-of-the-Port
+COTR
+Contracting Officer’s Technical Representative
+CPC
+Commandant’s Performance Challenge
+CPO
+Chief Petty Officer
+CPR
+Cardiopulmonary Resuscitation
+CPU
+Central Processing Unit
+CQA
+Commandant’s Quality Award
+CRT
+Cathode Ray Tube
+CS
+Creeping Line Search
+CSIM
+Control Station Interface Module
+CSMP
+Current Ship’s Maintenance Project
+CSP
+Commence Search Point
+CSP
+Career Sea Pay
+CVE
+Control Verification Examination
+CVS
+Commercial Vessel Safety
+CWO
+Chief Warrant Officer
+DAMA
+Demand Assigned Multiple Access
+DAN
+Driver’s Alert Network
+DANTES
+Defense Activity for Non-Traditional Education Support
+DAPA
+Drug and Alcohol Program Administration
+
+--- PAGE 83 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-6
+ACRONYM
+DEFINITION
+DDEC
+Detroit Diesel Electronically Controlled
+DEER
+Defense Enrollment and Eligibility Reporting System
+DEMPs
+Diesel Engine Maintenance Programs
+DF
+Direction Finding
+DGPS
+Differential Global Positioning System
+DICP
+Drop-In Communications Package
+DISREP
+Discrepancy Report
+DISREPS
+Discrepancy Report
+DIW
+Dead-in-the-Water
+DMA
+Defense Mapping Agency
+DMB
+Data Marker Buoy
+DMOA
+Designated Medical Officer Advisor
+DMS
+Docket Management System
+DO
+Defense Operations
+DoD
+Department of Defense
+DONCAF
+Department of the Navy Central Adjudication Facility
+DOT
+Department of Transportation
+DPB
+Deployable Pursuit Boat
+DR
+Dead Reckoning
+DSC
+Digital Selective Calling
+DVL
+Digital Voice Logger
+DWO
+Deck Watch Officer
+DWONR
+Deck Watch Officer Navigation Rules
+EAP
+Employee Assistance Program
+EAPC
+Employee Assistance Program Coordinator
+EBL
+Electronic Bearing Line
+EC
+Electronic Control
+EC
+Engineering Change
+ECM
+Electronic Control Module
+ECR
+Engineering Change Request
+ECS
+Electronic Chart System
+EDF
+Enlisted Drug Facilities
+EDM
+Electronic Display Module
+
+--- PAGE 84 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-7
+ACRONYM
+DEFINITION
+EEZ
+Exclusive Economic Zone
+EGIM
+Electronic Gear Interface Module
+ELC
+Engineering Logistics Center
+ELINT
+Electronics Intelligence
+ELT
+Emergency Locator Transmitter
+ELT
+Enforcement of Laws and Treaties
+EMI
+Extra Military Instruction
+EMS
+Emergency Medical Services
+EMT
+Emergency Medical Technician
+EO
+Engineering Officer
+EOCT
+End-of-Course Test
+EP
+Estimated Position
+EPA
+Environmental Protection Agency
+EPES
+Enlisted Personnel Evaluation System
+EPIRB
+Emergency Position Indicating Radio Beacon
+EPO
+Engineering Petty Officer
+EPO/EO
+Engineering Petty Officer/Engineering Officer
+EPS
+Environmental Protection Specialist
+ERIM
+Engine Room Interface Module
+ESA
+Endangered Species Act
+ESD
+Electronics Support Detachment
+ESU/D
+Electronics Support Unit/detachment
+ET
+Electronics Technician
+ETA
+Electronic Transportation Acquisition
+ETA
+Estimated Time of Arrival
+EXCOM
+Extended Communications
+FAA
+Federal Aviation Agency
+FAR
+Family Advocacy Representative
+FAR
+Federal Acquisition Regulations
+FAST
+Facial Drooping, Arm Weakness, Speech Difficulty, and Time is Critical
+FBIS
+Foreign Broadcast Information Service
+FEDEX
+Federal Express
+FEEF
+Federal Energy Efficiency Funding
+
+--- PAGE 85 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-8
+ACRONYM
+DEFINITION
+FFCS
+Full Function Crew Station
+FID
+Field Information Document
+FINCEN
+Finance Center
+FIR
+Field Intelligence Report
+FL
+Fitness Leader
+FLOCS
+Fast Lubricating Oil Change System
+FLS
+Fleet Logistics Supply
+FM
+Frequency Modulation
+FMP
+Fisheries Management Plan
+FOIA
+Freedom of Information Act
+FOSC
+Federal On-Scene Coordinator
+FOUO
+For Official Use Only
+FPCON
+Force Protection Conditions
+FPM
+Feet Per Minute
+FRP
+Fiberglass Reinforced Plastic
+FS
+Food Service Specialist
+FSC
+Federal Supply Classification
+FSI
+Field Sobriety Test
+FSIC
+Fiscal, Sanitation, Immigration or Customs
+FSO
+Food Services Officer
+FWPCA
+Federal Water Pollution Control Act
+FWS
+Fish and Wildlife Service
+GAR
+Green-Amber-Red
+GFM
+Global Freight Management
+GMDSS
+Global Maritime Distress and Safety System
+G-OCS
+Office of Boat Forces
+G-OI
+Office of Intelligence
+GPH
+Gallons Per Hour
+GPS
+Global Positioning System
+GRUCOM
+Group Commander
+GSA
+Government Service Administration
+GTA
+Government Transportation Account
+GV
+Government Vehicle
+
+--- PAGE 86 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-9
+ACRONYM
+DEFINITION
+HAZCOM
+Hazardous Communication
+HAZMAT
+Hazardous Material
+HAZWASTE
+Hazardous Waste
+HCPV/HIV
+High Capacity Passenger Vessel/High Interest Vessel
+HDOP
+Horizontal Dilution of Precision
+HEA
+Harbor Entrance and Approach
+HELP
+Heat Escape Lessening Position
+HF
+High Frequency
+HIN
+Hull Identification Number
+HIV
+Human Immunodeficiency Virus
+HS
+Homeland Security
+HPU
+Hydraulic Power Unit
+HRSIC
+Human Resources Services and Information Center
+HSC
+Harbor Safety Committee
+HUMINT
+Human Intelligence
+HVAC
+Heating, Ventilation, and Air Conditioning
+IACS
+International Association of Classification Societies
+IALA
+International Association of Lighthouse Authorities
+IAMSAR
+International Aeronautical and Maritime Search and Rescue
+I-AtoNIS
+Integrated Aids to Navigation Information Systems
+ICA
+Individual Credit Accounts
+ICAO
+International Civil Aviation Organization
+ICC
+Intelligence Coordination Center
+ICLL
+International Convention on Load Lines
+ICMTS
+Interagency Committee of the Marine Transportation System
+ICS
+Incident Command System
+ICV
+Intercommunicating Fill Valve
+ICW
+Intracoastal Waterway
+IDT
+Inactive Duty for Training
+IEC
+International Electrotechnical Commission
+IIP
+International Ice Patrol
+IIR
+Intelligence Information Report
+IIRAIRA
+Illegal Immigration Reform and Immigrant Responsibility Act
+
+--- PAGE 87 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-10
+ACRONYM
+DEFINITION
+ILO
+International Labor Organization
+IMARV
+Independent Maritime Response Vessel
+IMO
+International Maritime Organization
+IMPAC
+International Merchant Purchase Authorization Card
+INA
+Immigration and Nationality Act
+INS
+Immigration and Naturalization Service
+IPIECA
+International Petroleum Industry Environmental Conservation Association
+IPS
+International Pipe Standard
+IRIS
+Incident Reporting Information System
+ISC
+Integrated Support Command
+ISM
+International Ship Management
+ISO
+International Standards Organization
+IT
+Information Systems Technician
+IUU
+Illegal, Unreported, and Unregulated
+JOOD
+Junior Officer of the Day
+JQR
+Job Qualification Requirement
+KO
+Contracting Officer
+LC
+Load Center
+LCD
+Liquid Crystal Display
+LCVP
+Landing Craft, Vehicle, Personnel
+LE
+Law Enforcement
+LEISII
+Law Enforcement Information System II
+LEMAN
+Law Enforcement Manual
+LEO
+Law Enforcement Officer
+LEQB
+Law Enforcement Qualification Board
+LEU
+Law Enforcement Unit
+LHA
+Local Housing Authority
+LHI
+Local Housing Inspector
+LIR
+Letter Incident Report
+LKP
+Last Known Position
+LLNR
+Light List Number
+LMR
+Living Marine Resource
+LNB
+Large Navigation Buoy
+
+--- PAGE 88 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-11
+ACRONYM
+DEFINITION
+LNG
+Liquid Natural Gas
+LOA
+Length Overall
+LOB
+Line-of-Bearing
+LOC
+Letter of Commendation or Level of Consciousness
+LOGREQ
+Logistics Requirements
+LOP
+Line of Position
+LORAN-C
+Long-Range Aid to Navigation
+LORSTA
+LORAN Station
+LOS
+Line-of-Sight
+LUFS
+Large Unit Financial System
+LUT
+Local User Terminal
+LWL
+Length on Waterline
+MAA
+Master at Arms
+MARB
+Maritime Assistance Request Broadcast
+MARPOL
+International Convention for the Prevention of Pollution from Ships
+MARSEC
+Marine Security Conditions
+MASINT
+Measurement and Signature Intelligence
+MAW
+Maximum Allowable Weight
+MBR INT
+Member’s Initials
+MCB
+Motor Cargo Boat
+MCM
+Manual for Courts-Martial
+MCS
+Master Control Station
+MDA
+Maritime Domain Awareness
+MDV
+Marine Dealer Visit
+MDZ
+Maritime Defense Zone
+MEDICO
+Medical Advice
+MEDEVAC
+Medical Evacuation
+MEP
+Marine Environmental Protection
+MEPC
+Marine Environment Protection Committee
+MER
+Marine Environmental Response
+MF
+Medium Frequency
+MFPU
+Maritime Force Protection Unit
+MHS
+Maritime Homeland Security
+
+--- PAGE 89 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-12
+ACRONYM
+DEFINITION
+MI
+Marine Information
+MI
+Maintenance Inspection
+MI & R
+Maintenance, Improvement and Repair
+MIC
+Manufacturer Identification Code
+MICA
+Management Information for Configuration and Allowances
+MICA
+Machinery Information Catalog Allowance
+MIM
+Marine Interface Module
+MISLE
+Marine Information for Safety and Law Enforcement
+MJM
+Military Justice Manual
+MLB
+Motor Lifeboat
+MLC
+Maintenance and Logistics Command
+MLCPAC
+Maintenance and Logistics Command Pacific
+MMD
+Merchant Mariner Document
+MMPA
+Marine Mammal Protection Act
+MMS
+Minerals Management Services
+MMSI
+Maritime Mobile Service Identity
+MOA
+Memorandum of Agreement
+MOB
+Man Overboard
+MOU
+Memorandum of Understanding
+MPR
+Multiple Persons-in-the-Water
+MPS
+Marine Protected Species
+MRE
+Military Rule of Evidence
+MRR
+Medium-Range Recovery
+MSAP
+Maritime SAR Assistance Policy
+MSB
+Motor Surf Boat
+MSC
+Marine Safety Center
+MSFCMA
+Magnuson-Stevens Fisheries Conservation and Management Act
+MSO
+Maintenance Support Outline
+MSO
+Marine Safety Office
+MSS
+Marine Safety and Security
+MSST
+Maritime Safety and Security Team
+MTL
+Master Training List
+MTS
+Marine Transportation System
+
+--- PAGE 90 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-13
+ACRONYM
+DEFINITION
+MTSNAC
+Marine Transportation System National Advisory Council
+MWR
+Moral, Welfare and Recreation
+NAFA
+Non-Appropriated Fund Activity
+NAVAIDS
+Navigational Aids
+NAVRULS
+Navigation Rules
+NCP
+National Contingency Plan
+NCW
+Naval Coastal Warfare
+NDRS
+National Distress Response System
+NDRSMP
+National Distress Response System Modernization Project
+NDS
+National Distress System
+NESU
+Naval Engineering Support Unit
+NJP
+Non-Judicial Punishment
+NLB
+Nearshore Life Boat
+NLT
+No Later Than
+NM
+Nautical Miles
+NMEA
+National Marine Electronics Association
+NMFS
+National Marine Fisheries Service
+NMLBS
+National Motor Lifeboat School
+NOS
+National Ocean Survey
+NOAA
+National Oceanic and Atmospheric Administration
+NRC
+National Response Center
+NRT
+National Response Team
+NSARC
+National Search and Rescue Committee
+NSB
+Non-Standard Boat
+NSF
+National Strike Force
+NSFCC
+National Strike Force Coordination Center
+NSN
+National Stock Number
+NSP
+National Search and Rescue Plan
+NSS
+National Search and Rescue Supplement
+NTP
+Naval Training Publication
+NVDC
+National Vessel Documentation Center
+NVIC
+Navigation and Vessel Inspection Circular
+NWP
+Naval Warfare Publication
+
+--- PAGE 91 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-14
+ACRONYM
+DEFINITION
+OBA
+Oxygen Breathing Apparatus
+O/S WX
+On-Scene Weather
+OCMI
+Officer-in-Charge Marine Inspection
+OER
+Officer Evaluation Report
+OIC
+Officer-in-Charge
+OIC INT
+Officer in Charge’s Initials
+OJT
+On-the-Job Training
+OM & S
+Operating Materials and Supplies
+OMMP
+Occupational Medical Monitoring Program
+OOD
+Officer of the Deck (Day)
+OPA
+Oil Pollution Act
+OPAREA
+Operational Area
+OPCEN
+Operations Center
+OPCON
+Operational Control
+OPFAC
+Operating Facility
+OPLAN
+Operations Plan
+OPORD
+Operations Order
+OPORDER
+Operations Order
+OQB
+Operations Qualification Board
+ORM
+Operational Risk Management
+OS
+Operations Specialist
+OSB
+Operations Standards Board
+OSC
+Operations Systems Center
+OSC
+On-Scene Commander
+OSHA
+Occupational Safety and Health Administration
+OTC
+Officer in Tactical Command
+PA
+Privacy Act
+PAL
+Personnel Allowance List
+PALMS
+Patrol Order Management System
+PAO
+Public Affairs Officer
+PATCOM
+Patrol Commander
+PAWSS
+Ports and Waterways Safety System
+PCS
+Permanent Change of Station
+
+--- PAGE 92 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-15
+ACRONYM
+DEFINITION
+PDD
+Presidential Decision Directive
+PDR
+Personnel Data Record
+PDS
+Personnel Data System
+PERSRU
+Personnel Reporting Unit
+PES
+Port and Environmental Safety
+PFD
+Personal Flotation Device
+PI
+Personnel Inspection
+PIAT
+Public Information Assistance Team
+PIE
+Partnership in Education
+PIW
+Person-in-the-Water
+PLB
+Personal Locator Beacon 
+PMIS/JUMPS
+Personnel Management Information System/Joint Uniform Military Pay System
+PMLV
+Personnel Marker Light
+PMS
+Preventative/Planned Maintenance System
+PO
+Petty Officer
+POB
+Persons Onboard
+POD
+Probability of Detection
+POP
+Planned Obligation Priority
+POS
+Probability of Success
+POPFAC
+Parent Operating Facility
+POW
+Plan of the Week
+PPE
+Personal Protective Equipment
+PPI
+Plan Position Indicator
+PPS
+Precise Positioning Service
+PQS
+Personnel Qualification Standard
+PR
+Position Report
+PRECOM
+Preliminary Communications
+PREP
+Preparedness for Response Exercise Program
+PS
+Parallel Search
+PSCO
+Port State Control Officer
+PSU
+Port Security Unit
+PTO
+Power Take-Off
+PWB
+Port and Waterways Boat
+
+--- PAGE 93 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-16
+ACRONYM
+DEFINITION
+PWSA
+Ports and Waterway Safety Act
+QAWTD
+Quick-Acting Watertight Door
+QEB
+Qualification Examining Board
+QRC
+Quick Response Card
+RACON
+Radar Beacon
+RB-HS
+Response Boat-Homeland Security
+RB-M
+Response Boat-Medium
+RBS
+Recreational Boating Safety
+RB-S
+Response Boat-Small
+RCC
+Rescue Coordination Center
+RDF
+Radio Direction Finder
+RFMC
+Regional Fisheries Management Council
+RFMO
+Regional Fisheries Management Organization
+RFO
+Ready for Operations
+RIK
+Rations-In-Kind
+RMS
+Readiness Management System
+RNAV
+Radio Aids to Navigation
+ROC/POE
+Required Operational Capability/Point of Entry
+RP
+Responsible Party
+RPAL
+Reserve Personnel Allowance List
+RS
+Rescue Swimmer
+RSC
+Rescue Sub-Center
+RT
+Receiver/Transmitter
+SAFE
+Substance Abuse Free Environment
+SAI
+Small Arms Instructor
+SAP
+Simplified Acquisition Procedures
+SAR
+Search and Rescue
+SAREX
+SAR Exercise
+SARMIS
+Search and Rescue Mission Information System
+SARSAT
+Search and Rescue Satellite Aided Tracking
+SAT
+Subsistence Advisory Team
+SATCOM
+Satellite Communication
+SB
+Sailboat
+
+--- PAGE 94 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-17
+ACRONYM
+DEFINITION
+SC
+SAR Coordinator
+SCUBA
+Self-Contained Underwater Breathing Apparatus
+SDB
+Service Dress Blue
+SDO
+Sector Duty Officer
+SEAOP
+Special and Emergency Operations Procedure
+SEPRATS
+Separate Rations
+SF
+Safety Factor
+SIGINT
+Signals Intelligence
+SIPRNET
+Secret Internet Protocol Routing Network
+SITREP
+Situation Report
+SKF
+Skiff
+SLDMB
+Self Locating Datum Marker Buoy
+SMC
+SAR Mission Coordinator
+SMS
+Safety Management System
+SMTJ
+Special Maritime and Territorial Jurisdiction
+SNO
+Statement of No Objection
+SOA
+Speed of Advance
+SOG
+Speed Over Ground
+SOLAS
+Safety of Life at Sea
+SO-OP
+Auxiliary Division Operations Officer
+SOP
+Standard Operating Procedure
+SOPA
+Senior Officer Present Afloat
+SOPEP
+Shipboard Oil Pollution Emergency Plan
+SOQ
+Sailor of the Quarter
+SOS
+Save Our Ship
+SPC
+Special Purpose Craft
+SPC (HWX)
+Heavy Weather Special Purpose Craft
+SPC (LE)
+Special Purpose Craft (Law Enforcement)
+SPE
+Severity-Probability-Exposure
+SPF
+Sun Protection Factor
+SPOC
+SAR Point of Contact
+SPS
+Standard Positioning Service
+SRA
+Short-Range Aids to Navigation
+
+--- PAGE 95 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-18
+ACRONYM
+DEFINITION
+SROE
+Standing Rules of Engagement
+SRR
+Search and Rescue Region
+SRR
+Short-Range Recovery
+SRS
+Synchronous Reference Sensor
+SRU
+Search and Rescue Unit
+SS
+Square Search
+SSB
+Single Side Band
+SSB-HF
+Single Side Band - High Frequency
+SSL
+Standard Support Level
+SSM
+Support and Special Mission
+SSMR
+Shore Station Maintenance Record
+SSPO
+Station Support Petty Officer
+STA OPS
+Station Operations
+STAN & RFO
+Readiness and Standardization Program
+STANT
+Station Aids to Navigation Team
+STAR
+Standard Automated Requisitioning
+STCW
+Standards of Training, Certification and Watchkeeping for Seafarers
+STTR
+Short Term Resident Training Request
+STU III
+Secure Telephone Unit
+SURPIC
+Surface Picture
+SWE
+Service-wide Exam
+SWL
+Safe Working Load
+TACON
+Tactical Control
+TAD
+Temporary Assigned Duty
+TAIT
+Temporary Access Inventory Tool
+TANB
+Trailerable Aids to Navigation Boat
+TB
+Tuberculosis
+TBSA
+Total Body Surface Area
+TC
+Technical Committee
+TCM
+Telecommunications Manual
+TCOW
+Telecommunications Watchstander
+TCT
+Team Coordination Training
+TD
+Temporary Duty
+
+--- PAGE 96 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-19
+ACRONYM
+DEFINITION
+TD
+Time Difference
+TFC
+Total Fuel Consumption
+THREATCON
+Threat Conditions
+TMT
+Training Management Tool
+TOI
+Target of Interest
+TPSB
+Transportable Port Security Boat
+TQC
+Training Quota Management Center
+TRACEN
+Training Center
+TRATEAM
+Training Team
+TRS
+Timing Reference Sensor
+TSN
+Track Line Non-Return Search
+TSR
+Track Line Return Search
+U/W
+Underway
+UCMJ
+Uniform Code of Military Justice
+UEG
+Unit Environmental Guide
+UEPH
+Unaccompanied Enlisted Personnel Housing
+UHF
+Ultra High Frequency
+UMI
+Universal Marine Interface
+UMIB
+Urgent Marine Information Broadcast
+UOF
+Use of Force
+UPF
+Unit Performance Factor
+UPH
+Unaccompanied Personnel Housing
+UPS
+United Parcel Service
+USBP
+United States Border Patrol
+USC
+United States Code
+USFWS
+U.S. Fish and Wildlife Service
+USPS
+U.S. Power Squadron
+USWMS
+Uniform State Waterway Marking System
+UTB
+Utility Boat
+UTBSC
+Utility Boat Systems Center
+UTC
+Coordinated Universal Time
+UTL
+Utility Boat Light
+UTM
+Utility Boat Medium
+
+--- PAGE 97 ---
+Boat Crew Training Handbook – First Aid
+Appendix B – Acronyms
+B-20
+ACRONYM
+DEFINITION
+UTS
+Unit Travel System
+UV
+Ultraviolet
+VHA
+Variable Housing Allowance
+VHF
+Very High Frequency
+VRM
+Variable Range Marker
+VRO
+Variable Ratio Oiler
+VRP
+Vessel Response Plan
+VS
+Sector Search
+VSC
+Vessel Safety Check
+VTS
+Vessel Traffic Services
+WP
+Working Punt
+WAAS
+Wide Area Augmentation System
+WAMS
+Waterways Analysis and Management System
+WC
+Wellness Coordinator
+WLIC
+Construction Tender
+WLL
+Working Load Limit
+WPB
+Patrol Boat
+WR
+Wellness Representative
+WWM
+Waterways Management
+XO
+Executive Officer
+XPO
+Executive Petty Officer
+XTE
+Cross Track Error
+

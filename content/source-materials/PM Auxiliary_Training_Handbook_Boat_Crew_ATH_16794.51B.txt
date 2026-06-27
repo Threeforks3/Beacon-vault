@@ -1,0 +1,5191 @@
+# PM Auxiliary_Training_Handbook_Boat_Crew_ATH_16794.51B.pdf
+# Pages: 98
+# Source: USCG Sea School training materials
+
+--- PAGE 1 ---
+AUXILIARY TRAINING HANDBOOK – 
+BOAT CREW 
+“Safe, Proficient, Professional”  
+ATH 16794.51B 
+January 2023 
+
+--- PAGE 2 ---
+THIS PAGE INTENTIONALLY BLANK
+
+--- PAGE 3 ---
+AUXILIARY TRAINING HANDBOOK 16794.51B 
+Subj: 
+AUXILIARY TRAINING HANDBOOK – BOAT CREW 
+Ref: 
+a. Auxiliary Manual, COMDTINST M16790.1 (series) 
+b. Auxiliary Operations Policy Manual, COMDTINST M16798.3 (series)
+c.
+Auxiliary Boat Crew Qualification Handbook, ABQH 16794.52 (series)
+d. U.S. Coast Guard Boat Operations and Training (BOAT) Manual Volume I,
+COMDTINST M16114.32 (series)
+e.
+U.S. Coast Guard Boat Operations and Training (BOAT) Manual Volume II,
+COMDTINST M16114.33 (series)
+f.
+Coast Guard Deck Watch Officer Examination Program, COMDTINST 16672.5
+(series)
+g. Rescue and Survival Systems Manual, COMDTINST M10470.10 (series)
+h. Risk Management (RM), COMDTINST 3500.3 (series)
+i.
+Safety and Environmental Health Manual, COMDTINST M5100.47 (series)
+j.
+Coast Guard Addendum to the United States National Search and Rescue
+Supplement (NSS) to the International Aeronautical and Maritime Search and
+Rescue Manual (IAMSAR), COMDTINST M16130.2 (series)
+1. PURPOSE.
+a.
+This Handbook provides standardized performance objectives and guidance for the
+purpose of training, qualifying and certifying auxiliary members for patrol duty on Coast
+Guard Auxiliary vessel facilities.
+b. In accordance with (IAW) references (a) through (k), every effort has been made to make
+this Handbook useful and applicable to all aspects of Auxiliary procedures for boat crew
+qualifications and training. In situations where this Handbook does not address a specific
+organizational construct or relationship and the application of a particular provision is
+unclear, users should seek clarification from Commandant (CG-BSX) through their chain
+of leadership to clarify the provision in question.
+2. ACTION. All Coast Guard unit commanders, commanding officers, officers-in-charge,
+deputy/assistant commandants, chief of headquarter directorates must comply with the policies
+contained.
+3. AUTHORIZED RELEASE.  Internet Release is Authorized.
+Commandant 
+United States Coast Guard 
+US Coast Guard Stop 7324 
+2703 Martin Luther King Jr Ave SE 
+Washington DC 20593-7324 
+Staff Symbol: CG-BSX-12 
+Phone: (202) 372-2515 
+ATH 16794.51B 
+13 JAN 2023
+
+--- PAGE 4 ---
+ATH 16794.51B 
+2 
+4. DIRECTIVES AFFECTED.
+a.
+Auxiliary Training Handbook – Boat Crew, ATH16794.51A, is canceled.
+b. Where provisions of this Handbook differ from references (a) and (b), provisions of this
+Handbook shall apply.
+5. DISCUSSION.  This Handbook is to provide guidance to train and qualify members of the
+Coast Guard Auxiliary as Coxswain, Boat Crewmember, Personal Watercraft Operators, and
+also serves as a policy reference to those members already certified in the above positions.
+6. DISCLAIMER.  This guidance is not a substitute for applicable legal requirements, nor is it
+itself a rule. It is intended to provide operational guidance for Coast Guard Auxiliary
+personnel and is not intended to nor does it impose legally binding requirements on any party
+outside the Coast Guard Auxiliary
+7. MAJOR CHANGES.
+a. Updated Chapter 3.C.5. “Coxswain Command and Control”.
+b. Updated Chapter 4.C.2. “Recertification”.
+c. Updated Chapter 5.A.3. “Crewmember”.
+d. Updated Chapter 5.A.4. “Coxswain”.
+e. Updated Chapter 5.A.5. “PWC Operator”.
+f.
+Added Chapter 5.A.6. “Currency Maintenance Documentation Requirement”.
+g. Updated Chapter 5.A.8. “TCT/RM Training”
+h. Updated Chapter 6.A.3. “General QE Requirements”.
+i.
+Updated Chapter 6.D.2. “Initial Qualification Process”.
+j.
+Updated Chapter 6.E.5. “Session Wrap Up and Documentation”.
+k. Updated Enclosure (1). Performance Criteria #1.
+l.
+Added “night certification” requirements to Enclosure (1).
+m. Updated Enclosure (2). Performance Criteria #1.
+n. Added “night certification” requirements to Enclosure (2).
+o. Added Enclosure (4) Annual Currency Maintenance Task Tracker, Crewmember.
+p. Added Enclosure (5) Annual Currency Maintenance Task Tracker, Coxswain.
+q. Added Enclosure (6) Annual Currency Maintenance Task Tracker, PWC Operator.
+r.
+Updated Appendix B “U. S. Coast Guard Auxiliary Boat Crew Program Qualification
+Letter”.
+s.
+Updated Appendix E “Third Year Currency Maintenance.”
+t.
+Updated Appendix F “QE Request Form”.
+
+--- PAGE 5 ---
+ATH 16794.51B 
+3 
+8. ENVIRONMENTAL ASPECT AND IMPACT CONSIDERATIONS.  The Office of
+Auxiliary and Boating Safety, Commandant (CG-BSX) reviewed this handbook and the
+general policies contained within, and determined that this policy falls under the Department
+of Homeland Security (DHS) categorical exclusion A3.  This handbook will not result in any
+substantial change to existing environmental conditions or violation of any applicable
+federal, state, or local laws relating to the protection of the environment. It is the
+responsibility of the action proponent to evaluate all future specific actions resulting from
+this policy for compliance with the National Environmental Policy Act (NEPA), other
+applicable environmental requirements, and the U.S. Coast Guard Environmental Planning
+Policy, COMDTINST 5090.1 (series).
+9. DISTRIBUTION.  No paper distribution will be made of this Instruction.  An electronic
+version will be located on the Office of Auxiliary and Boating Safety (CG-BSX) Portal site:
+http://wow.uscgaux.info/content.php?unit=H-DEPT&category=auxiliary-manuals
+10. FORMS/ REPORTS.  The Coast Guard forms called for in this Handbook are available on
+the internet at https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-
+C4IT-CG-6/The-Office-of-Information-Management-CG-61/Forms-Management/
+Coast Guard Auxiliary forms can be found at http://forms.cgaux.org/.
+/T. P. Glendye/ 
+Captain, U.S. Coast Guard 
+Chief, Office of Auxiliary and Boating Safety
+
+--- PAGE 6 ---
+Auxiliary Training Handbook – Boat Crew 
+i 
+Table of Contents 
+AUXILIARY TRAINING HANDBOOK –   BOAT CREW ................................................................................. I 
+CHAPTER 1 INTRODUCTION ........................................................................................................................................ 1-1 
+Section A. 
+Purpose of this Instruction ......................................................................................................... 1-2 
+ Procedures ................................................................................................................................................................ 1-2 
+ Updates and Changes to this Instruction .................................................................................................................. 1-2 
+Section B. 
+How to Use this Instruction ........................................................................................................ 1-3 
+ Chapter Layout .......................................................................................................................................................... 1-3 
+ Warnings, Cautions, and Notes ................................................................................................................................. 1-3 
+Section C. 
+Program Overview ..................................................................................................................... 1-4 
+ Definitions ................................................................................................................................................................. 1-4 
+ Mission ...................................................................................................................................................................... 1-4 
+ Concept of Operations .............................................................................................................................................. 1-5 
+Section D. 
+Safety ......................................................................................................................................... 1-6 
+ Safety Responsibilities .............................................................................................................................................. 1-6 
+ Safety Practice .......................................................................................................................................................... 1-7 
+ Mishap Reporting Policy ........................................................................................................................................... 1-7 
+Section E. 
+The Training Process .................................................................................................................. 1-8 
+ Boat Crew Positions................................................................................................................................................... 1-9 
+ Steps in the Training Process ..................................................................................................................................... 1-9 
+ Training Process Overview ...................................................................................................................................... 1-10 
+CHAPTER 2 SYSTEM COMPONENTS .............................................................................................................................. 2-1 
+Section A. 
+Headquarters and Districts ........................................................................................................ 2-2 
+ Commandant ............................................................................................................................................................ 2-2 
+ Auxiliary National Staff ............................................................................................................................................. 2-2 
+ Coast Guard District Director of Auxiliary ................................................................................................................. 2-2 
+ Auxiliary District Commodores ................................................................................................................................. 2-3 
+Section B. 
+Unit Commanders ...................................................................................................................... 2-4 
+ Coast Guard Sector/Unit Commanders ..................................................................................................................... 2-4 
+ Auxiliary Elected Leaders and Staff ........................................................................................................................... 2-5 
+CHAPTER 3 QUALIFICATION........................................................................................................................................ 3-1 
+Section A. 
+Trainee Eligibility and Preparation ............................................................................................. 3-2 
+ Eligibility .................................................................................................................................................................... 3-3 
+ Physical Requirements .............................................................................................................................................. 3-3 
+Section B. 
+Mentors ...................................................................................................................................... 3-4 
+ Mentors ..................................................................................................................................................................... 3-5 
+ Mentor Assignment Policy ........................................................................................................................................ 3-6 
+ Mastering a Task ....................................................................................................................................................... 3-6 
+ Mentor Training ........................................................................................................................................................ 3-7 
+ Other Mentors .......................................................................................................................................................... 3-8 
+ Assignment to Duty ................................................................................................................................................... 3-8 
+Section C. 
+Completion of the Qualification Guide ....................................................................................... 3-9 
+ Auxiliary Boat Crew Qualification Handbook ............................................................................................................ 3-9 
+ Completion of Tasks ................................................................................................................................................ 3-10 
+ Additional Standards ............................................................................................................................................... 3-10 
+ Waiver and Deferred Task ....................................................................................................................................... 3-10 
+ Coxswain Command and Control ............................................................................................................................ 3-11 
+ Qualification Timeline ............................................................................................................................................. 3-11 
+ Patrol Orders ........................................................................................................................................................... 3-11 
+ Coast Guard Unit Support ....................................................................................................................................... 3-11 
+CHAPTER 4 CERTIFICATION ........................................................................................................................................ 4-1 
+Section A. 
+Certification ............................................................................................................................... 4-2 
+ Command Responsibility .......................................................................................................................................... 4-2 
+ Certification Process ................................................................................................................................................. 4-3 
+
+--- PAGE 7 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ii 
+ Final Certification ...................................................................................................................................................... 4-3 
+ Insignia and Awards .................................................................................................................................................. 4-3 
+ Removal of Certification ........................................................................................................................................... 4-4 
+ Inter-District Transfers .............................................................................................................................................. 4-4 
+ Multiple Residences .................................................................................................................................................. 4-5 
+Section B. 
+Dual Membership ....................................................................................................................... 4-6 
+ Dual Membership Certified as Coxswain................................................................................................................... 4-6 
+ Dual Membership Certified as Boat Crewmember ................................................................................................... 4-6 
+ Active/Reserve Members Currently Certified ........................................................................................................... 4-7 
+Section C. 
+Recertification ............................................................................................................................ 4-8 
+ General ...................................................................................................................................................................... 4-8 
+ Recertification ........................................................................................................................................................... 4-8 
+ Downgrading of Certification .................................................................................................................................... 4-9 
+CHAPTER 5 CURRENCY MAINTENANCE ......................................................................................................................... 5-1 
+Section A. 
+Currency Maintenance ............................................................................................................... 5-2 
+ General ..................................................................................................................................................................... 5-2 
+ Currency Maintenance Cycle .................................................................................................................................... 5-2 
+ Crewmember ............................................................................................................................................................ 5-3 
+ Coxswain ................................................................................................................................................................... 5-4 
+ PWC Operator ........................................................................................................................................................... 5-5 
+ Currency Maintenance Documentation Requirement .............................................................................................. 5-5 
+ Nighttime Defintion .................................................................................................................................................. 5-5 
+ TCT/RM Training ....................................................................................................................................................... 5-6 
+ Navigation Rules Exam .............................................................................................................................................. 5-6 
+ Operational Workshops .......................................................................................................................................... 5-7 
+ Documentation of Training ..................................................................................................................................... 5-7 
+CHAPTER 6 QUALIFICATION EXAMINER......................................................................................................................... 6-1 
+Section A. 
+What is a Qualification Examiner .............................................................................................. 6-2 
+ Qualification Examiner’s Role ................................................................................................................................... 6-2 
+ Active Duty/Reserve QE ............................................................................................................................................ 6-2 
+ General QE Requirements......................................................................................................................................... 6-3 
+Section B. 
+Qualification Examiner Positions ............................................................................................... 6-4 
+ Operations Training Officer (OTO) ............................................................................................................................ 6-4 
+ The Chief QE Coordinator (CQEC) ............................................................................................................................. 6-4 
+ Area QE Coordinator (AQEC) ..................................................................................................................................... 6-5 
+ Qualification Examiner .............................................................................................................................................. 6-6 
+ Boat Crew Advisory Board......................................................................................................................................... 6-7 
+Section C. 
+Application Process and Training ............................................................................................... 6-8 
+ General ...................................................................................................................................................................... 6-8 
+ Boat Crew Program QE .............................................................................................................................................. 6-8 
+ Personal Watercraft Program QE .............................................................................................................................. 6-8 
+ QE Applicant Application Review .............................................................................................................................. 6-9 
+ Initial Training ......................................................................................................................................................... 6-10 
+ Final Qualification ................................................................................................................................................... 6-10 
+Section D. 
+Qualification Process................................................................................................................ 6-11 
+ General ................................................................................................................................................................... 6-11 
+ Initial Qualification Process ..................................................................................................................................... 6-11 
+ Three Year Maintenance Sessions .......................................................................................................................... 6-12 
+ Other Programs....................................................................................................................................................... 6-12 
+Section E. 
+Boat Crew Qualification Sessions ............................................................................................. 6-13 
+ General .................................................................................................................................................................... 6-13 
+ Task Interpretation .................................................................................................................................................. 6-13 
+ Session Planning ...................................................................................................................................................... 6-14 
+ Session Kickoff ......................................................................................................................................................... 6-15 
+ Session Wrap Up and Documentation..................................................................................................................... 6-16 
+Section F. 
+Complaints and Disputes ............................................................................................................. 6-17 
+
+--- PAGE 8 ---
+Auxiliary Training Handbook – Boat Crew  
+ 
+ 
+ 
+iii 
+ General .................................................................................................................................................................... 6-17 
+ Failures .................................................................................................................................................................... 6-17 
+CHAPTER 7 AUXILIARY SURFACE OPERATIONS STANDARDIZATION TEAM ............................................................................. 7-1 
+Section A. 
+Auxiliary Surface Operations Standardization Team ................................................................. 7-2 
+ Overview ................................................................................................................................................................... 7-2 
+ Mission ...................................................................................................................................................................... 7-2 
+ Objectives ................................................................................................................................................................. 7-2 
+ Team Members ......................................................................................................................................................... 7-3 
+ENCLOSURE (1)  UNDERWAY CURRENCY MAINTENANCE / RECERTIFICATION CHECK RIDE: 
+ CREWMEMBER ...... 1 
+ENCLOSURE (2) UNDERWAY CURRENCY MAINTENANCE / RECERTIFICATION CHECK RIDE: 
+ COXSWAIN ............. 1 
+ENCLOSURE (3)  UNDERWAY CURRENCY MAINTENANCE / RECERTIFICATION CHECK RIDE: 
+ PWC OPERATOR .... 1 
+ENCLOSURE (4) ANNUAL CURRENCY MAINTENANCE TASK TRACKER, CREWMEMBER ........................................... 1 
+ENCLOSURE (5) ANNUAL CURRENCY MAINTENANCE TASK TRACKER, COXSWAIN ................................................. 1 
+ENCLOSURE (6) ANNUAL CURRENCY MAINTENANCE TASK TRACKER, PWC OPERATOR ......................................... 1 
+ AUXILIARY SURFACE OPERATIONS PROGRAM CONCEPT OF OPERATIONS (CONOP) ...................A-1 
+ U. S. COAST GUARD AUXILIARY BOAT CREW PROGRAM QUALIFICATION LETTER ....................... B-1 
+ LETTER OF CERTIFICATION .......................................................................................................... C-1 
+ QUALIFICATION EXAMINER APPOINTMENT LETTER ................................................................... D-1 
+ THIRD YEAR CURRENCY MAINTENANCE ...................................................................................... E-1 
+ QE REQUEST FORM ..................................................................................................................... F-1 
+ QE APPLICATION FORM ............................................................................................................. G-1 
+ QUALIFICATION EXAMINER IN TRAINING (QE-IT) ...................................................................... H-1 
+ GLOSSARY ..................................................................................................................................... I-1 
+ 
+ 
+
+--- PAGE 9 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+1-1 
+CHAPTER 1 
+Introduction 
+Introduction 
+The Auxiliary is an organization of volunteers promoting boating safety 
+and supporting Coast Guard units and missions. The Auxiliary also 
+provides support to state and local agencies and the boating public. The 
+U.S. Coast Guard recognizes and highly respects all Auxiliarist who so 
+generously donate their skills, time, and resources to support the full 
+spectrum of Coast Guard operations and operational support missions. As 
+such, the U.S. Coast Guard takes great pleasure in presenting the 
+Auxiliary Training Handbook – Boat Crew to the volunteers of the U.S. 
+Coast Guard Auxiliary. 
+In this Chapter 
+This chapter contains the following sections: 
+ 
+Section 
+Title 
+Page 
+ 
+A 
+Purpose of this Instruction 
+1-2 
+ 
+B 
+How to Use this Instruction 
+1-3 
+ 
+C 
+Program Overview 
+1-4 
+ 
+D 
+Safety 
+1-6 
+ 
+ 
+
+--- PAGE 10 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-2 
+Section A. 
+ Purpose of this Instruction 
+Introduction 
+The purpose of this handbook is to describe the Coast Guard Auxiliary 
+Boat Crew program and the training requirements for Auxiliary members 
+to participate in the program.  Major topics within this handbook include 
+system 
+components, qualifications, 
+certification, 
+and 
+currency 
+maintenance.    
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Procedures 
+1-2 
+Updates and Changes to this Instruction 
+1-2 
+ 
+ Procedures 
+This handbook is not intended to cover every contingency that may be 
+encountered during mission execution or training.  Successful operations 
+require the exercise of good safety practices, sound judgment, and 
+common sense at all levels of command. 
+ Updates and 
+Changes to this 
+Instruction 
+Proposed changes to this Handbook shall be submitted to the Office of 
+Boating Safety and Auxiliary, Commandant (CG-BSX-12), via the 
+Response Directorate, thru the requesting members Chain of Leadership 
+and Management (COLM). Please submit a formal request email, 
+through your COLM to: CGAUX@uscg.mil, Attn: CG-BSX-12. CG-
+BSX has ultimate approval authority. 
+ 
+ 
+ 
+
+--- PAGE 11 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-3 
+Section B. 
+How to Use this Instruction 
+Introduction 
+Each Chapter of this Handbook includes its own table of contents and is 
+divided into sections.  A glossary, enclosures, and appendices are located 
+at the end of this Handbook. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Chapter Layout 
+1-3 
+Warnings, Cautions, and Notes 
+1-3 
+ 
+ Chapter Layout 
+(01) The first page of each chapter includes an Introduction and an In 
+this Chapter. 
+(02) The first page of each section includes an Introduction, an In this 
+Section, as applicable. 
+(03) In the left column of each page are block titles, which provide a 
+descriptive word or phrase for the corresponding block of text to 
+the right. 
+ Warnings, 
+Cautions, and Notes 
+The following definitions apply to “Warnings, Cautions, and Notes” 
+found throughout the instruction. 
+WARNING 
+ 
+Operating procedures or techniques that must be carefully followed to avoid personal injury 
+or loss of life. 
+CAUTION ! 
+Operating procedures or techniques that must be carefully followed to avoid equipment 
+damage. 
+NOTE 
+ 
+An operating procedure or technique that is essential to emphasize. 
+ 
+ 
+
+--- PAGE 12 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-4 
+Section C. 
+Program Overview 
+Introduction 
+This Handbook provides policy and guidance for training, qualifying, 
+and certifying Auxiliarists in the boat crew program.  It is intended for 
+use by Auxiliary flotillas, Directors of Auxiliary, and Coast Guard units 
+that administer the Auxiliary training program.  This program is based 
+on the program used by the active-duty component of the Coast Guard.  
+To foster mutual understanding and interoperability, active-duty 
+nomenclature and procedures are used to the greatest extent possible.  
+Where the Auxiliary program differs from that used by the active-duty 
+component that is due to the unique needs of civilian volunteers 
+operating non-standard recreational boats in the Auxiliary's mission 
+profile. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Definitions 
+1-4 
+Mission 
+1-4 
+Concept of Operations 
+1-5 
+ 
+ Definitions 
+The boat crew program refers to the overall process of training and using 
+members certified as coxswains, crewmembers, and personal watercraft 
+(PWC) operators to conduct Auxiliary patrols.  "Boat crew" in this 
+context should not be confused with the terms “crewmember”, which 
+refer to one of the three certification levels or positions.  The boat crew 
+training program refers to the collective processes of qualification, 
+certification, and currency maintenance. A complete list of terms and 
+definitions is found in Appendix I. 
+ Mission 
+The United States Coast Guard is a multi-mission maritime service and 
+one of the Nation's armed forces.  Its mission is to protect the public, the 
+environment and U.S. economic interests in the Nation's ports and 
+waterways, along the coast, on international waters, or in any maritime 
+region as required to support national security. 
+The Auxiliary's mission is to support the Coast Guard in the performance 
+of its missions.  The Auxiliary also supports the states by performing 
+missions on waters under the sole jurisdiction of the states. 
+ 
+ 
+
+--- PAGE 13 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-5 
+ Concept of 
+Operations 
+A concept of operations (Appendix A) defines the nature and purpose 
+of Auxiliary patrols.  The training requirements and performance 
+standards contained in this manual are designed to prepare Auxiliary 
+boat crewmembers to safely perform the roles described in the concept 
+of operations. 
+Coast Guard units that train Auxiliarist or issue patrol orders to Auxiliary 
+facilities need to understand both the benefits and limitations of using 
+Auxiliary patrols to help carry out their missions. 
+ 
+ 
+
+--- PAGE 14 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-6 
+Section D. 
+Safety 
+Introduction 
+The Commandant and the local operational commander will ask 
+Auxiliary boat crews to perform patrol duties to the extent of their 
+capabilities.  It is important for coxswains to know what those 
+capabilities and limits are, including their personal capabilities and 
+limits, the capabilities and limits of the crew, and the capabilities and 
+limits of the boat.  Risk Management (RM) principles must be applied 
+during all missions. 
+WARNING 
+ 
+If ever you become apprehensive concerning your safety, and/or suspect 
+yourself, crew, or facility may be nearing or exceeding limitations, take 
+prudent action:  STOP, take appropriate action to safely STABILIZE your 
+situation, and NOTIFY your operational commander. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Safety Responsibilies 
+1-6 
+Safety Practice 
+1-7 
+Mishap Reporting Policy 
+1-7 
+ 
+ Safety 
+Responsibilities 
+References (a) through (g) defines specific responsibilities of Coast 
+Guard Boat Forces personnel and Auxiliary members in carrying out 
+their duties for training and conducting Auxiliary Operations.  Key 
+responsibilities are: 
+• Facility 
+Operator 
+(Coxswain) 
+or 
+PWC 
+Operator:  
+Responsible for ensuring that required safety equipment is on 
+board, in good condition, and properly utilized; that all on board 
+are wearing appropriate PPE; that a pre-underway briefing is 
+conducted; and that patrol orders have been issued.  Further, the 
+coxswain or PWC operator is responsible for terminating the 
+mission when the limits of the facility or crew may be exceeded. 
+• Coast Guard Order Issuing Authority:  Responsible for being 
+aware of the capabilities and limitations of Auxiliary facilities 
+under their control, and for ensuring that patrol orders 
+(reimbursable or non-reimbursable) are issued for all Auxiliary 
+patrols. 
+ 
+ 
+
+--- PAGE 15 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-7 
+• Auxiliary Operations Officers and Unit Elected Leaders:  
+Responsible for ensuring that members are properly trained, 
+qualified, and certified and that facilities are properly inspected 
+and equipped.  Further, they have the authority and responsibility 
+to abort any ordered mission if they become aware of any 
+situation pertaining to the mission or crew that may adversely 
+affect the safety of the mission. 
+Responsibilities of certain individuals are highlighted above. However, 
+when it comes to safety, everyone is responsible.  All members must 
+work as a team. The team may be the crewmembers on an individual 
+patrol facility, or the larger team of the facility and its Operational 
+Commander, or the team of the Chain of Leadership and Management 
+(COLM). Each member of each team must maintain continual situational 
+awareness, and alert others on the team when an unsafe situation arises. 
+ Safety Practice 
+Two important safety concepts used in Coast Guard boat crew training 
+operations are Team Coordination and Risk Management 
+The principle of team coordination is that individual technical 
+knowledge and skill alone cannot prevent mishaps.  The abilities and 
+actions of individuals must be coordinated as a team using a set of 
+leadership, communication, and decision-making skills. 
+The concept of risk management requires that every event, whether 
+ashore or underway, whether routine or unexpected, must be guided by 
+deliberate assessment, planning, and prudent decision-making. 
+For a detailed discussion of these concepts see reference (h). 
+ Mishap 
+Reporting Policy 
+An individual or unit with first-hand knowledge of an accident or 
+incident while assigned to duty must report all available information in 
+accordance with district requirements. This report is normally made to 
+the OIA, who then must pass the information to the appropriate Coast 
+Guard commands and Auxiliary leadership. The Coast Guard will direct 
+appropriate investigations, as necessary. For additional information on 
+mishap reporting, refer to reference (i). 
+ 
+ 
+
+--- PAGE 16 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-8 
+Section E. 
+The Training Process 
+Introduction 
+The Commandant is required by law to train, examine, and qualify 
+Auxiliary members before assigning them to duty (14 U.S.C. 831).  This 
+is necessary to ensure the safety of Auxiliary members, as well as the 
+safety of people who may be assisted by the Auxiliary.  
+Auxiliary members are afforded protection against liability for property 
+damage or loss, personal injury, disability, or death, and are protected 
+against third-party lawsuits resulting from the performance of their 
+duties while under orders.  
+This liability protection is effective only when an Auxiliarist is properly 
+qualified and assigned to duty, and acting within the scope of assigned 
+duties.  
+Additionally, training is necessary to ensure that Auxiliarists meet the 
+high standards of the service and their performance of duty reflects 
+positively on the Coast Guard. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Boat Crew Positions 
+1-9 
+Steps in the Training Process 
+1-9 
+Training Process Overview 
+1-10 
+ 
+ 
+ 
+
+--- PAGE 17 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-9 
+ Boat Crew 
+Positions 
+Auxiliary members may qualify in the following boat crew positions:  
+• Crewmember:  The crewmember assists the coxswain with 
+handling the boat and performing mission activities.  Skills 
+include line handling, knot tying, communications, observation, 
+making up tows, and emergency procedures. 
+• Coxswain:  The coxswain is in charge of the facility and is 
+responsible for directing the safe navigation of the boat, the 
+activities of the crew, and the performance of the missions.  Skills 
+include navigation, piloting, boat handling, communication, 
+search planning, and emergency procedures. 
+• Personal Watercraft Operator (In Training): A member pursuing 
+certification as a Personal Watercraft Operator (PWO) shall be 
+designated a Personal Watercraft Operator (In Training) after 
+completing the following tasks: PWC-04-01-AUX, PWC-04-02-
+AUX, PWC-04-03-AUX in reference (c), dry suit swim 
+appropriate for AOR, and a Navigation Rules Test.  Members 
+who do not achieve their PWO competency within 2 years of 
+being designated a Personal Watercraft Operator (In Training) 
+will be removed from that designation and will not be issued 
+patrol orders. 
+• PWC Operator:  Operates personal watercraft (PWC) on 
+Auxiliary patrol orders.  Like the coxswain, the PWC Operator is 
+in charge of the facility, and is responsible for the safe operation 
+and navigation of the PWC as well as carrying out the assigned 
+mission. 
+ Steps in the 
+Training Process 
+The training process consists of three parts:  
+1. Qualification:  The process of initial entry into the program, in 
+which the member learns and demonstrates the knowledge and 
+skills required to perform missions that may be assigned.  
+2. Certification:  Formal command verification that an individual has 
+met all requirements and is authorized to perform the boat crew 
+duties at a specific level aboard an Auxiliary Facility. 
+3. Currency Maintenance:  Tasks which are required to be repeated 
+a certain number of times at regular intervals to maintain currency. 
+Each of these three parts is discussed in detail in the following chapters.  
+The process is summarized below. 
+ 
+ 
+
+--- PAGE 18 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 1 – Introduction 
+ 
+ 
+1-10 
+ Training 
+Process Overview 
+A series of qualification tasks defines the knowledge and skills required 
+for each boat crew position.  Each task describes a certain job skill and 
+states performance criteria for that skill.  For example, a qualification 
+task for the coxswain position is to take a vessel in stern tow.  The trainee 
+completes the task by reading the reference material listed, reviewing the 
+skills with a mentor, and then practicing the task.  When the trainee 
+demonstrates mastery of the task without guidance, the task is signed off 
+by the mentor.  
+After all tasks are signed off by a mentor, the trainee then completes a 
+dockside oral examination and an underway check ride with a 
+Qualification Examiner (QE).  The QE is an experienced Auxiliary 
+coxswain appointed by the Director of Auxiliary (DIRAUX) to verify 
+that the trainee meets the performance standards for qualification.  Upon 
+completion of the oral exam and check ride, the QE submits a 
+recommendation to the Director, who then certifies the member.  The 
+member is then eligible to be assigned to duty under Auxiliary patrol 
+orders.  
+The member maintains currency of certification by meeting annual 
+minimum standards.  The member must maintain the ability, mobility, 
+and endurance to safely perform any qualification task for which they 
+have been certified. 
+
+--- PAGE 19 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+2-1 
+CHAPTER 2 
+System Components 
+Introduction 
+The boat crew training system consists of several components at various 
+levels in the Auxiliary and the Coast Guard.  This chapter describes the 
+roles and responsibilities of each of these components.   
+In this Chapter 
+This chapter contains the following sections: 
+ 
+Section 
+Title 
+Page 
+ 
+A 
+Headquarters and Districts 
+2-2 
+ 
+B 
+Unit Commanders 
+2-4 
+ 
+ 
+ 
+ 
+
+--- PAGE 20 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 2 – System Components 
+ 
+ 
+2-2 
+Section A. 
+Headquarters and Districts 
+Introduction 
+This section discusses the roles and responsibilities of Headquarters and 
+District Active and Auxiliary personnel. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Commandant 
+2-2 
+Auxiliary National Staff 
+2-2 
+Coast Guard District Director of Auxiliary 
+2-2 
+Auxiliary District Commodores 
+2-3 
+ 
+  
+Commandant 
+The Chief Director, Auxiliary (CHDIRAUX) serves as the 
+Commandant's program manager for the Auxiliary.  This officer fulfils 
+the Commandant's duty under law to train, qualify, and examine 
+members before they are assigned to duty.  The Chief Director also 
+serves as the Chief, Office of Auxiliary, in Coast Guard Headquarters, 
+designated by the staff symbol (CG-BSX). 
+In coordination with the Chief, Office of Boat Forces (CG-731), and 
+other Headquarters’ program managers, and the Auxiliary National 
+Staff, the Chief Director develops training materials and operating 
+policies for the Auxiliary patrol program. 
+  
+Auxiliary National 
+Staff 
+Assistant 
+National 
+Commodore, 
+Response 
+and 
+Prevention  
+(ANACO-RP) is responsible to the National Commodore (NACO) for 
+development and coordination of the Auxiliary's operations and marine 
+safety programs in support of the Coast Guard's missions in federal and 
+state waters.  
+The Director, Response Directorate, is responsible for developing and 
+overseeing the Auxiliary's surface, air and telecommunications 
+programs, including the Boat Crew Training Program. 
+  
+Coast Guard 
+District Director of 
+Auxiliary 
+Each Coast Guard District Commander has a Director of Auxiliary 
+(DIRAUX) assigned to administer the district's Auxiliary program. 
+Some districts are subdivided into Auxiliary regions and in some cases 
+each region having a Director.  
+The Director is normally the Chief, Auxiliary Administration Branch. 
+The Director is responsible for certifying Auxiliary members for duty in 
+the boat crew program.  
+
+--- PAGE 21 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 2 – System Components 
+ 
+ 
+2-3 
+The Director has an Operations Training Officer (OTO) assigned to 
+coordinate and support training of Auxiliarist in operations programs, 
+including the boat crew program.  
+The Director appoints Auxiliary members as Qualification Examiners 
+(QEs) as recommended by the OTO. Qualification Examiners evaluate 
+the performance and abilities of boat crew candidates and recommend 
+them for certification. 
+  
+Auxiliary District 
+Commodores 
+The senior elected Auxiliary leader in each region or district is the 
+District Commodore (DCO). The DCO's duties parallel those of the 
+Coast Guard district commander, being responsible for the overall 
+administration and conduct of the Auxiliary in that region or district.  
+The DCO is also a voting member of the Auxiliary National Board, 
+which, in coordination with the National Executive Committee, advises 
+the Chief Director on operating policies for the Auxiliary. These policies 
+include those that govern the boat crew training program.  
+A staff supports each District Commodore, including a District Staff 
+Officer, Operations (DSO-OP). The DSO-OP is responsible for 
+administering operations programs in the region or district, in 
+coordination with the national operations staff, as well as division and 
+flotilla operations officers. 
+ 
+ 
+ 
+
+--- PAGE 22 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 2 – System Components 
+ 
+ 
+2-4 
+Section B. 
+Unit Commanders 
+Introduction 
+This section discusses the roles and responsibilities of Coast Guard unit 
+commanders and Auxiliary Elected Leaders.  An important transition of 
+responsibilities takes place between the national/district level and the 
+unit level.  The higher levels, described in Section A of this chapter, serve 
+primarily administrative and management functions.  They develop 
+policy and provide support.  
+At the unit level, described here, unit commanders are operational 
+commanders.  This means that they are operational risk managers.  
+Assisted by their staff officers, Coast Guard unit commanders and 
+Auxiliary Elected Leaders make decisions important to the safety of 
+human lives.  
+In both training situations and actual missions, unit commanders must 
+carefully observe and evaluate the capabilities and limitations of their 
+people and facilities, and be constantly aware of what missions are 
+assigned, and under what conditions those missions are carried out.  
+Based on this awareness of people, facilities, and missions, unit 
+commanders are responsible for evaluating risks and taking action to 
+minimize those risks.  Amplifying guidance can be found in reference 
+(b) and reference (h) 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Coast Guard Sector/Unit Commanders 
+2-4 
+Auxiliary Elected Leaders and Staff 
+2-5 
+ 
+ Coast Guard 
+Sector/Unit 
+Commanders 
+Unit commanders (including Commanding Officers and Officers-in-
+Charge) of Coast Guard units are normally the order-issuing authority 
+for Auxiliary patrols.  They are responsible for liaison with Auxiliary 
+units in their area of responsibility (AOR).  Most commanders at the unit 
+level assign a member designated as the Auxiliary Liaison (AUXLO) to 
+work with the command and the Auxiliary to best utilize Auxiliary 
+support, coordinating patrol orders, ensuring safe utilization of Auxiliary 
+resources while exercising operational control during patrols or support 
+to Coast Guard missions. 
+ 
+ 
+
+--- PAGE 23 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 2 – System Components 
+ 
+ 
+2-5 
+ Auxiliary 
+Elected Leaders and 
+Staff 
+Elected leaders are responsible for the administration of Auxiliary units.  
+Division Commanders (DCDR) are in charge of Auxiliary divisions.  
+Flotilla Commanders (FC) are in charge of Auxiliary flotillas. As stated 
+in references (a) and (b), these leaders are responsible for the leadership, 
+management, supervision and operation of their units, as well as unit 
+member training, qualification, and assignment to duty.  
+Appointed staff officers assist elected leaders.  Division Staff Officers 
+(SO) and Flotilla Staff Officers (FSO) for Operations (OP) are 
+responsible for planning, coordinating, and supervising their boat crew 
+training programs.  
+In addition to training responsibilities, the Operations officers (SO-OP 
+and FSO-OP) have the safety and risk management responsibilities 
+outlined above and in Chapter 1. Section D. 
+ 
+
+--- PAGE 24 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+3-1 
+CHAPTER 3 
+Qualification 
+Introduction 
+This chapter discusses the elements of the trainee process to obtain a 
+competency. It provides an overview of the qualification tasks, 
+qualification process, and the progression of qualifications.  
+Qualification is the one-time attainment of performance tasks for a 
+specific competency (completion of PQS). This is not to be confused 
+with certification, which is outlined in Chapter 4. 
+In this Chapter 
+This chapter contains the following information: 
+Section 
+Title 
+Page 
+A 
+Trainee Eligibility and Preparation 
+3-2 
+B 
+Mentors 
+3-4 
+C 
+Completion of the Qualification Guide 
+3-9 
+ 
+ 
+ 
+
+--- PAGE 25 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-2 
+Section A. 
+Trainee Eligibility and Preparation 
+Introduction 
+The Coast Guard and Coast Guard Auxiliary encourage as many 
+members as possible to become qualified in the boat crew program. The 
+skills gained in this program will help members become safer boaters 
+and enable them to improve the safety and skills of their fellow boaters.   
+The qualification requirements of this program have been tailored from 
+the standards used by the active-duty component.  However, these 
+Auxiliary performance-based qualification tasks have been modified to 
+achieve minimum standard qualification requirements for volunteers 
+with a wide range of ages and abilities.  Based on these qualifications, 
+Auxiliarist, who safely and successfully complete the qualification tasks 
+by demonstrating the skill, mobility, and endurance, are considered 
+Qualified and eligible to achieve Certification in the Boat Crew Program.  
+Risk management evaluation should be considered concerning the safety 
+of the individual, the crew, facility, and boating public. If it is determined 
+that the risk is acceptable, the member may participate in operational 
+training to achieve qualification and certification. 
+Members with disabilities are not automatically precluded from 
+qualifying in the Auxiliary boat crew program.  Risk management 
+evaluation should be considered concerning the safety of the individual, 
+the crew, facility, and boating public.  If it is determined that the risk is 
+acceptable, the member may participate in operational training to 
+achieve qualification and certification.  However, all trainees, regardless 
+of disability must successfully demonstrate the skill, ability, and 
+endurance to perform all qualification tasks utilizing the process 
+established in the appropriate qualification guide as established by 
+Commandant.  
+Members entering this program must be willing to represent the Coast 
+Guard and Coast Guard Auxiliary to the boating public.  This requires 
+attention to appearance and attitude, as well as an extensive knowledge 
+of operational policies and procedures. 
+ 
+ 
+
+--- PAGE 26 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-3 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Eligibility 
+3-3 
+Physical Requirements 
+3-3 
+ 
+ Eligibility 
+All Auxiliary members who meet the requirements listed in Chapter 1, 
+Section A of reference (a) and have a favourable Operational Support 
+Personnel Security Investigation (OS PSI) are eligible to participate in 
+the Boat Crew Training Program.  A favorable determination from a 
+Direct Operational Personnel Security Investigation (DO PSI) is not 
+required unless specified by the Order Issuing Authority (OIA). 
+ Physical 
+Requirements 
+As described in the Concept of Operations (see Chapter 1, Section C, 
+paragraph C.3. and Appendix A), the Auxiliary boat crew program is 
+designed for people with a wide range of ages and abilities.   
+There are no specific requirements for age, weight, strength, or 
+endurance other than demonstrating proficiency in the standard 
+qualification tasks in reference (c).  
+Trainees must meet the following standards in completing each 
+qualification task: 
+• The trainee must successfully perform each task personally, 
+without assistance.   
+• Each task must be performed with confidence.  
+• Each task must be performed safely. 
+ 
+ 
+
+--- PAGE 27 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-4 
+Section B. 
+Mentors 
+Introduction 
+Mentors are the backbone of the USCG Auxiliary Boat Crew Program. 
+Mentors are experienced participants in the boat crew program who are 
+certified as a coxswain, a boat crewman, or as a PWC operator and who 
+assume the responsibilities of training other members. Mentors pass 
+down their experience and skill to their trainees by communicating the 
+Auxiliary’s organizational culture, policies, and wisdom. 
+What might the member gain as a mentor? Typically they will: 
+Renew their enthusiasm as they assume the role of expert; 
+• 
+Obtain a greater understanding of the barriers experienced by 
+newer members in the Auxiliary; 
+• 
+Enhance their skills in coaching, counseling, listening, and 
+modeling; 
+• 
+Develop and practice leadership, and; 
+• 
+Demonstrate expertise and share knowledge. 
+As a result of this relationship, the trainee may: 
+• 
+Make a smoother transition into the Auxiliary; 
+• 
+Further improve their skill as a boater; 
+• 
+Identify some additional opportunities to contribute; 
+• 
+Develop new and/or different perspectives; 
+• 
+Get assistance with their ideas; 
+• 
+Demonstrate their strengths and explore their potential, and; 
+Broaden their Auxiliary network. (adapted from United States Office of  
+Personnel Management, Best Practices: Mentoring) 
+The mentoring process is an integral component of the Auxiliary Boat 
+Crew Training program. The program is administered at the district level 
+and mentors are assigned by the flotilla commanders. This document is 
+designed to complement the existing structure and tools that Auxiliary 
+leadership and mentors may use to improve training efforts. 
+ 
+ 
+
+--- PAGE 28 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-5 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Mentors 
+3-5 
+Mentor Assignment Policy 
+3-6 
+Mastering a Task 
+3-6 
+Mentor Training 
+3-7 
+Other Mentors 
+3-8 
+Assignment to Duty 
+3-8 
+ 
+ Mentors 
+A primary goal of the USCG Auxiliary Boat Crew Program is to assist 
+members to become qualified and participate in operational mission(s). 
+The purpose of the training program is to enable members to learn and 
+perform to the high standards prescribed by the US Coast Guard. It must 
+be remembered that many join the Auxiliary further their boating skills. 
+It is the mentor’s responsibility to guide the member through the training 
+process. 
+A mentor is a subject matter expert, a coach, and an advocate. The 
+mentor helps the trainee learn the knowledge and skills required for each 
+qualification task. Planning is a key element of the process. Working 
+with the trainee, the mentor should plan the training program. The 
+discussion could include topics such as: 
+• 
+Goals of the trainee 
+• 
+Time constraints and other barriers 
+• 
+Duration of sessions 
+• 
+Order of performing the tasks 
+• 
+Logistics for providing underway time on facilities 
+• 
+Identification of references for study 
+The manner by which a task is reviewed will depend on many factors, 
+including the knowledge and skill of the trainee, his/her prior experience 
+and aptitude for the work. The degree of review and training will vary 
+from minimal to extensive. Tasks should be completed multiple times 
+before determining that it is mastered. Some tasks will have 
+environmental or time limits to be met. Every task must be performed 
+independently by the trainee to the standard’s specifications.  
+When the trainee has mastered a task, the mentor signs the task to verify 
+satisfactory completion. The mentor signs the “Task Accomplishment 
+Record” page in reference (c). 
+
+--- PAGE 29 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-6 
+  Mentor 
+Assignment Policy 
+When assigning a member as a mentor, flotilla leaders must consider the 
+member’s experience and skill. Mentors should be thoroughly familiar 
+with the Auxiliary Boat Crew Qualification Program including the 
+contents of this manual. 
+Any member assigned to be a mentor must have impeccable integrity as 
+they are, in a large part, responsible for the credibility of the US Coast 
+Guard’s Auxiliary Boat Crew Program. These mentors should be willing 
+and able to put in the time and effort to train another member. It is 
+extremely important that mentors have a thorough understanding of and 
+consistently demonstrated TCT principles on prior operational missions 
+as they will be working with unqualified members where the potential 
+for a mishap is higher than working with a certified crew. 
+The mentor must be currently or previously certified in the position for 
+which tasks are to be taught and signed off. This means that to mentor a 
+coxswain trainee, the mentor must be currently certified, as a coxswain. 
+A mentor for a crewmember trainee must be currently certified as either 
+a coxswain or crewmember. A mentor for a PWC operator trainee must 
+be currently certified as a PWC operator.  
+A member previously certified within the previous 2 years as a 
+crewmember, coxswain or PWC operator can also serve as a mentor as 
+described above, with the approval of the AQEC/CQEC. 
+ Mastering a 
+Task 
+Tasks are meant to be learned through constant practice under the 
+mentor’s guidance. This is a suggested method for achieving mastery of 
+the tasks. 
+• 
+Give the trainee the reading assignments.  
+• 
+Confirm completion of reading assignment and clarify any issues 
+that the trainee might have about the material. 
+• 
+Demonstrate the steps required to complete the task. During the 
+demonstration, the mentor should narrate the procedures. If the 
+task is one that does not require demonstration, proceed to the next 
+step. 
+• 
+Walk the trainee through the task. In order to ensure that the 
+trainee understands, the mentor may want to walk the trainee 
+through the steps more than once. There is no limit to the number 
+of times the mentor performs the walk-through, however, trainee 
+understanding must be ensured before continuing. 
+• 
+Practice the skill. The trainee must practice the skill for consistent 
+success at the task. The mentor should not sign off any task as 
+complete until the trainee can consistently and correctly complete 
+the task without assistance. 
+
+--- PAGE 30 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-7 
+• 
+Monitor the trainee’s performance. Trainee performance should 
+be monitored during both training and operations. Qualification 
+does not end with the first successful completion of the task. It is 
+an ongoing process that ends only when successful task 
+completion can be met consistently. 
+• 
+Verify that the trainee’s performance meets the standards set in 
+reference (c). 
+• 
+The trainee must be able to perform the task subject to established 
+conditions and standards delineated for the task. This standard is 
+provided at the beginning of each task. 
+• 
+The trainee must be able to perform the task without assistance. 
+• 
+The trainee is expected to perform each task on a consistent basis 
+in accordance with the established standards and conditions. 
+• 
+Sign off the task at the bottom of the task qualification page of the 
+Appropriate PART in reference (c) when the mentor is confident 
+that the trainee can perform the task consistently and unassisted. 
+It is suggested that the mentor record the start and completion 
+dates on each task. This would indicate the period over which the 
+candidate repeatedly demonstrates the ability to perform the 
+assigned task.  
+• 
+Once the trainee has mastered all of the tasks, the mentor should 
+assess the candidate’s readiness for the position of coxswain, 
+crewman or PWC operator. Schedule the trainee for the 
+dockside oral exam and underway check-ride using local 
+procedures. 
+The QE will report to the OTO via the AQEC/CQEC on the trainee’s 
+performance during the dockside oral exam and underway check-ride 
+and recommend or not recommend certification. 
+ Mentor 
+Training 
+OTOs, working through their CQEC, AQECs and QEs, are encouraged 
+to provide annual mentor workshops for those members serving as 
+mentors and potential mentor candidates. Training should strive to 
+ensure that the mentors are prepared to fulfill their responsibilities to the 
+trainee, and by extrapolation, the Coast Guard and the public. Mentor 
+workshops could address local issues, review the Boat Crew Training 
+Manual and/or provide any additional training that would complement 
+the knowledge and skills of the mentor. A review of the local proficiency 
+training tools to augment the standards in reference (c) and their use in 
+trainee development may be helpful. This training may be delegated to 
+the CQEC, AQEC(s), or QE(s). 
+ 
+ 
+
+--- PAGE 31 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-8 
+ Other Mentors 
+Qualification Examiners - QEs may and are encouraged to serve as 
+mentors. QEs are often our most knowledgeable and skilled members in 
+the Boat Crew Program. If a QE serves as a mentor for a trainee, then 
+that QE should not perform the QE check-ride for that trainee unless 
+granted a waiver by the OTO. OTOs may consider granting such waivers 
+in extenuating circumstances, as in remote areas where long distance 
+travel is required, or other difficult situations are encountered. Districts 
+and regions may want to consider increasing the number of QEs if QEs 
+are also used as mentors. 
+USCG Qualified Boat Crew - Any active duty or reserve USCG 
+coxswain or crewmember may serve as a mentor for the Auxiliary Boat 
+Crew Program up to the level of their certification. Active-duty mentors 
+must be familiar with the Auxiliary Boat Crew Qualification Program as 
+described in this Handbook. 
+ Assignment to 
+Duty 
+Flotilla Commanders, FSOs-MT or OP or the Flotilla Boat Crew 
+Training Coordinator shall assign a mentor or mentors to each member 
+wishing to qualify as a crew, coxswain, or PWC Operator in the 
+Auxiliary Boat Crew Program. If there isn’t a member available in a 
+flotilla to serve as a mentor, the flotilla may call on the division to assign 
+the required mentor(s) or work with a near-by Coast Guard Station. 
+Ideally, each flotilla should have at least one member trained to serve as 
+a mentor. 
+ 
+ 
+ 
+
+--- PAGE 32 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-9 
+Section C. 
+Completion of the Qualification Guide 
+Introduction 
+Reference (c), (Auxiliary Boat Crew Qualification Handbook, ABQH 
+16794.52 (series)), contains PQS tasks required for an individual to 
+perform the duties of the assigned competency. The goal of ABQH is to 
+standardize and facilitate these qualifications. The ABQH is 
+compilations of the minimum knowledge and skills that an individual 
+must demonstrate in order to complete the qualification process. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Auxiliary Boat Crew Qualification Handbook 
+3-9 
+Completion of Tasks 
+3-10 
+Additional Standards 
+3-10 
+Waiverable and Deferred Task 
+3-10 
+Coxswain Command and Control 
+3-11 
+Qualification Timeline 
+3-11 
+Patrol Orders 
+3-11 
+Coast Guard Unit Support 
+3-11 
+ 
+ Auxiliary Boat 
+Crew Qualification 
+Handbook 
+The Auxiliary Boat Crew Qualification Handbook, ABQH 16794.52 
+(series), has a separate PART for each boat crew position:  
+• PART II, Crewmember  
+• PART III, Coxswain  
+• PART IV, PWC Operator 
+ 
+ 
+
+--- PAGE 33 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-10 
+ Completion of 
+Tasks 
+The following steps offer a recommended approach to completion of the 
+qualification guide:  
+1. Mentors, OP and MT Staff Officers should guide and encourage 
+trainees to attend any formal training classes conducted by the 
+OTO or other qualified members. 
+2. Each district/region is encouraged to conduct formal boat crew 
+training that they may develop on their own or by using a Best 
+Practices from other districts. 
+3. The mentor and the trainee develop a work plan.  This includes 
+how many tasks will be assigned, whether tasks will be learned 
+individually or in groups, scheduling on-the-water sessions, and 
+so on.  
+4. For each task, the mentor and trainee gather necessary reference 
+material for the trainee to study. Through a combination of self-
+study of written material and hands-on practice, the trainee learns 
+the skills required for the task.  
+5. The mentor demonstrates the task using the procedures outlined 
+for the appropriate qualification task.  
+6. The mentor walks the trainee through the task until satisfied that 
+the basic principles are understood.  
+7. The trainee practices the task until the mentor is confident that 
+the trainee is able to consistently meet the task standards on his 
+or her own.  
+When satisfied that the trainee meets the standard of a task, the mentor 
+verifies completion by signing-off the task.   
+ Additional 
+Standards 
+In accordance with reference (c). 
+ Waiver and 
+Deferred Task 
+Certain tasks in reference (c) are designated as “Waiver Tasks by 
+DIRAUX”, “Not Applicable” or “Deferred”.  The Director may waive 
+these designated tasks on a case-by-case basis IAW reference (c).  
+ 
+ 
+
+--- PAGE 34 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 3 – Qualification 
+ 
+ 
+3-11 
+ Coxswain 
+Command and 
+Control 
+The coxswain is the facility operator while on patrol, meaning that the 
+coxswain has physical control of the helm and throttles.  The coxswain 
+may choose to have a certified crewmember or break-in serve as 
+helmsman and throttle operator, but the coxswain will still exercise 
+overall supervision of the crew and mission. The coxswain must always 
+be in a position to adequately supervise the crew and take control of the 
+vessel. Coxswains are required to be physically next to the helm of a 
+facility when training or supervising any break-in or certified member 
+serving as helmsman and throttle operator.  
+  
+Qualification 
+Timeline 
+Trainees are expected to complete the appropriate qualification they are 
+trying to achieve within two years of starting the process.  A trainee who 
+is unable to make reasonable progress towards this goal is using training 
+resources that might be better used on other trainees.  
+In this case, the flotilla leadership should have a discussion with the 
+trainee and decide whether the member should continue in the program. 
+If the trainee continues in the program, all signs-offs completed over two 
+years prior to the check ride must be redone and so noted on the sign-off 
+sheets. 
+ Patrol Orders 
+All underway training for task completion, with both mentors and 
+qualification examiners requires Coast Guard reimbursable or non-
+reimbursable patrol orders prior to getting underway.  It is the 
+responsibility of the operator (coxswain) to ensure that patrol orders have 
+been requested and issued through AUXDATA  
+ Coast Guard 
+Unit Support 
+All Coast Guard unit commanders, commanding officers, and officers-
+in-charge are strongly encouraged to participate in the training process 
+for Auxiliarists to ensure Auxiliary Boat Crews are a viable resource for 
+SAR and other missions. 
+
+--- PAGE 35 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+4-1 
+CHAPTER 4 
+Certification 
+Introduction 
+This chapter explains the certification and recertification for Auxiliarists, 
+and for Auxiliarists who are also members of the Coast Guard and Coast 
+Guard Reserve. 
+In this Chapter 
+This chapter contains the following information: 
+Section 
+Title 
+Page 
+A 
+Certification 
+4-2 
+B 
+Dual Membership 
+4-6 
+C 
+Recertification 
+4-8 
+ 
+ 
+
+--- PAGE 36 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-2 
+Section A. 
+Certification 
+Introduction 
+The Director shall only consider members for certification after they 
+have successfully completed the applicable PQS, a thorough dockside 
+oral examination, underway check ride and have been recommended by 
+the OTO and QE. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Command Responsibility 
+4-2 
+Certification Process 
+4-3 
+Final Certification 
+4-3 
+Insignia and Awards 
+4-3 
+Removal of Certification 
+4-4 
+Inter-District Transfers 
+4-4 
+Multiple Residences 
+4-5 
+ 
+  
+Command 
+Responsibility 
+Certification is an important command responsibility.  This process 
+validates that a member is capable of performing assigned duties safely, 
+effectively, and responsibly, and places great trust and confidence in the 
+member.  
+In the active-duty component, the unit Commanding Officer or Officer 
+in Charge approves certification.  It is based on personal observation and 
+knowledge of the individual and represents an operational commander's 
+judgment that the individual can safely perform the duties assigned.  In 
+this sense, certification is a risk-management decision and is not to be 
+taken lightly.  
+In the Auxiliary, the regional DIRAUX approves certification.  In most 
+cases, the Director will have no personal knowledge of the individual 
+being recommended for certification.  Certification is primarily an 
+administrative action by the Director.  However, it is still an important 
+action and Directors must rely on their OTO and QEs to maintain the 
+integrity of the certification process.  (See Chapter 6 for detailed 
+information about QEs.) 
+ 
+ 
+
+--- PAGE 37 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-3 
+  
+Certification Process 
+Upon completion of the check ride and oral exam, the QE submits a 
+recommendation for certification (APPENDIX C) to the OTO via the 
+AQEC.  The AQEC, if used, shall verify that all forms are properly and 
+completely filled out. The OTO verifies that all prerequisites and 
+eligibility criteria have been met and forwards the recommendation to 
+the Director who signs the certification and makes appropriate 
+AUXDATA II entries.  Once the Director approves the certification the 
+member is authorized to perform patrol duties under Coast Guard orders. 
+ Final 
+Certification 
+Final certification is the official statement (entry in AUXDATA II) of 
+the Director that the member has demonstrated:  
+(01) The minimum required knowledge and skill for the position 
+designation as evidenced by the completed PQS, practical 
+evaluation (dockside oral examination and Check ride), and the 
+positive recommendation by the OTO and QE.  
+(02) The judgment and maturity required to: 
+a) Act responsibly. 
+b) Perform assigned duties in the manner prescribed by Coast 
+Guard and Coast Guard Auxiliary directives and 
+regulations. 
+c) Function as a team member. 
+d) Interact positively with the public in the execution of Coast 
+Guard Auxiliary duties. 
+ Insignia and 
+Awards 
+Once certified as Boat Crewmember / Coxswain / PWC Operator, an 
+Auxiliarist is authorized to wear the operations program ribbon on the 
+uniform. If the member has already earned the ribbon, then a small 
+bronze star may be added to the ribbon upon certifying for the additional 
+certifications.  
+Once certified as Coxswain or PWC Operator, an Auxiliarist is 
+authorized to wear the appropriate certification insignia on their uniform.  
+Entitlement to wear the ribbon and the certification insignia is 
+permanent, even if the member's certification lapses or the member 
+becomes inactive in this program.  
+ 
+ 
+
+--- PAGE 38 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-4 
+ Removal of 
+Certification 
+The Director may suspend a member's certification in certain 
+circumstances. Reasons for suspension can include:  
+• Failure to maintain the ability, mobility and endurance to safely 
+perform any standard qualification task for which they are 
+certified.  
+• Dangerous or inappropriate actions or behavior under orders  
+• Pending mishap investigation  
+When a member's certification is suspended, it must be done with the 
+intent that the member may regain certification when the problem is 
+fixed and/or corrected. Accordingly, any action to suspend a certification 
+must be accompanied by a plan for corrective action.  
+Suspension of certification will NOT be used as a punitive measure. It 
+will be invoked only when a member's ability or conduct makes it unsafe 
+or inappropriate to serve under Coast Guard orders.  
+Refer to reference (a) for the complete policy on suspension of 
+certification.  
+ Inter-District 
+Transfers 
+Certification for boat crew positions is valid only in the district or region 
+in which the certification is issued. A certified Auxiliarist permanently 
+relocating to another district must be certified by the Director in that 
+district prior to being assigned to duty in that district. 
+The receiving OTO shall arrange for an underway check ride with a QE 
+and shall complete tasks in reference (c): 
+• Boat Crewmember Task BCM-08-04-AUX 
+• Coxswain Task COXN-09-06-AUX 
+• PWC Operator Task PWC 08-05-AUX.  
+ 
+ 
+
+--- PAGE 39 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-5 
+ Multiple 
+Residences 
+Certified members with residences in multiple regions must be certified 
+for all regions in which they desire to conduct patrols. A request for 
+certification must be preceded with a letter of recommendation from the 
+OTO in the member’s home district to the receiving OTO(s).  
+The receiving OTO shall arrange for an underway check ride with a QE, 
+within two weeks of the member’s request. The member shall complete 
+the appropriate enclosure for certification: 
+• Boat Crewmember, Enclosure (1)  
+• Coxswain, Enclosure (2)   
+• Personal Watercraft Operator, Enclosure (3)  
+This process must be repeated every three years.  
+NOTE 
+ 
+Members moving to a new location or with multiple residences, previously 
+“Waiver Tasks by DIRAUX”, Not Applicable (N/A), or Deferred Task  
+must be reconsidered for completion based on new location and facility 
+capabilities before recertification. 
+ 
+ 
+ 
+ 
+
+--- PAGE 40 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-6 
+Section B. 
+Dual Membership 
+Introduction 
+There are Auxiliary members who are also members of the active, 
+reserve, or retired components of the Coast Guard. Auxiliary members 
+who have been certified in the active-duty boat crew program have 
+valuable skills that can be used in the Auxiliary.  
+These members may follow an abbreviated certification process as 
+described below to achieve the positions of Auxiliary crewmember or 
+coxswain.  
+There is no Personal Watercraft Operator (PWO) standard qualification 
+in the active-duty Coast Guard boat program; therefore, no abbreviated 
+certification process for PWO. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Dual Membership Certified as Coxswain 
+4-6 
+Dual Membership Certified as Boat Crewmember 
+4-6 
+Active/Reserve Members Currently Certified 
+4-7 
+ 
+ Dual 
+Membership 
+Certified as 
+Coxswain 
+An Auxiliary member who is also a member of the active duty or reserve 
+component or retired and were certified as a coxswain within the last 
+three years may be certified as an Auxiliary coxswain by completing the 
+following in reference (c):  
+• 
+Task COX-05-02-AUX, sketch a chart of the local operating 
+area (Required only if the coxswain is not stationed in the Auxiliary 
+area of responsibility.)  
+• 
+Task COX-09-06-AUX, Check Ride aboard an Auxiliary 
+facility.  
+Depending on the member's experience and operational requirements, 
+the Director may waive completion of these tasks.  
+ Dual 
+Membership 
+Certified as Boat 
+Crewmember 
+An Auxiliary member who is also a member of the active duty or reserve 
+component or retired and were certified as a coxswain, engineer or 
+crewmember within the last three years may be certified as an Auxiliary 
+crewmember by completing the following in reference (c):  
+• 
+Task BCM-08-04-AUX, Check Ride.  
+Depending on the member's experience and operational requirements, 
+the Director may waive completion of this task.  
+
+--- PAGE 41 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-7 
+  
+Active/Reserve 
+Members Currently 
+Certified 
+A member of the active duty or reserve component who is not an 
+Auxiliary member who is currently certified as coxswain, engineer, or 
+crewmember may serve as a crewmember on an Auxiliary facility or 
+Auxiliary operated facility with no additional training or qualification, if 
+authorized by that member’s Commanding Officer or Officer in Charge.  
+
+--- PAGE 42 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-8 
+Section C. 
+Recertification 
+Introduction 
+This Section will explain why and how a member may lose their 
+certification and the procedures to recertify. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+4-8 
+Recertification 
+4-8 
+Downgrading of Certification 
+4-9 
+ 
+ General 
+When a member fails to meet annual currency requirements, their 
+certification will lapse, and they will be placed in Required Yearly 
+Requirement (REYR) status. A member whose certification has lapsed 
+may participate as a designated trainee on an ordered patrol.  
+As a designated trainee, the member may accumulate the required patrol 
+hours and currency maintenance tasks in order to be recertified. These 
+hours and tasks will not be counted toward the current year currency 
+maintenance requirements.  
+  
+Recertification 
+Members who go into REYR, for whatever reason, are considered as 
+trainees until they correct the problem that placed them in REYR. 
+A member who fails to meet annual currency requirements for the year 
+shall make up the missing hours and/or currency maintenance tasks as a 
+trainee, under the supervision of a certified coxswain the following 
+calendar year. (Ex #1. If the member only completes 4 hours the previous 
+year, they must complete 8 hours as a trainee to regain certification) (Ex 
+#2. If a member fails to complete Man Overboard (day) task, member 
+must complete this and any other annaual currency maintenance tasks. 
+required).  Once the missing hours and/or currency maintenance tasks 
+are completed the member is no longer a trainee.  The member must then 
+complete 12 additional hours and all annaual currency maintenance tasks 
+to maintain certification for that current calender year. Members who fail 
+to complete the triennial check ride must complete the check ride and 
+any hours missed in the previous calendar year before being recertified.  
+Members who fail to complete all of the required hours for one to four 
+years must complete twelve hours as a trainee to regain certification and 
+an additional 12 hours as a fully qualified member to maintain 
+certification.   
+ 
+
+--- PAGE 43 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 4 – Certification 
+ 
+ 
+4-9 
+Members qualified as coxswain, but placed in REYR, do not 
+automatically downgrade to Crewmember and cannot be part of the 
+minimum qualified crew. The decision to downgrade is up to the 
+Directors office. 
+Members in REYR status do not automatically revert to certified status 
+in AUXDATA II upon completion of the missing tasks or hours. A 
+formal letter must be submitted to the OTO from the FSO-OP, MT (at 
+any level), or FC stating (1) that the member has completed the missing 
+requirement and (2) request that the member be re-instated. 
+Members who have been in REYR status for a period of five years or 
+more must re-qualify by completing all required tasks for the desired 
+position. 
+  
+Downgrading of 
+Certification 
+A member who is unable to or does not wish to maintain certification as 
+a coxswain may downgrade to the crewmember level by meeting the 
+currency requirements for crewmember. The member shall notify 
+DIRAUX in writing, through their flotilla leadership of their desire to 
+downgrade. The member may continue to wear the Auxiliary coxswain 
+insignia, in accordance with Chapter 4, Section A, paragraph A.4., even 
+though no longer certified at the coxswain level.  
+
+--- PAGE 44 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+5-1 
+CHAPTER 5 
+Currency Maintenance 
+Introduction 
+This chapter describes the requirements for currency maintenance. Initial 
+certification is the demonstration of the minimum knowledge and skills 
+necessary to perform the associated competency. Proficiency is 
+developed after initial certification. The purpose of currency is to build 
+and maintain proficiency.   
+In this Chapter 
+This chapter contains the following information: 
+Section 
+Title 
+Page 
+A 
+Currency Maintenance 
+5-2 
+ 
+ 
+
+--- PAGE 45 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 5 – Currency Maintenance 
+ 
+ 
+5-2 
+Section A. 
+Currency Maintenance 
+Introduction 
+This section discusses the minimum currency requirements for 
+maintaining certifications. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+5-2 
+Currency Maintenance Cycle 
+5-2 
+Crewmember 
+5-3 
+Coxswain 
+5-4 
+PWC Operator 
+5-5 
+Currency Maintenance Documentation Requirement 
+5-5 
+Nighttime Defintion 
+5-5 
+TCT/RM Training 
+5-6 
+Navigation Rules Exam 
+5-6 
+Operational Workshops 
+5-7 
+Documentation of Training 
+5-7 
+ 
+  
+General 
+Currency requirements consist of a set of tasks that must be performed 
+every year along with annual underway hour requirements. 
+  
+Currency 
+Maintenance Cycle 
+Currency maintenance is conducted on a three-year cycle, with certain 
+requirements every year during the cycle, and requires the services of a 
+Qualification Examiner (QE).  
+The currency cycle begins on 01 January of the year following initial 
+certification. Currency requirements must be met by 31 December of 
+each year.   
+For example, if a member is certified as a coxswain on 15 July 2020, that 
+member's first currency year begins on 01 January 2021, and the member 
+must meet all annual currency requirements by the end of 2021 (31 
+December 2021). The third-year currency requirements must be met by 
+31 December 2023.  
+Annual currency requirements must be met during the first full calendar 
+year after certification. Credit will not be given to hours or tasks 
+completed in the partial year of initial certification. Failure to meet 
+currency requirements in any year of the cycle will cause a member's 
+
+--- PAGE 46 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 5 – Currency Maintenance 
+ 
+ 
+5-3 
+certification to lapse.  See Chapter 4, Section C for procedures to 
+recertify. 
+  
+Crewmember 
+To maintain currency, a certified crewmember must log 12 hours 
+underway as a crewmember, on orders, each calendar year.  
+If the member is certified as both crewmember and PWC operator, the 
+member needs to complete 6 hours underway as crewmember plus 12 
+additional hours as PWC operator for 18 hours total. 
+If the member is a nighttime certified crewmember, then at least 2 hours 
+of the total 12 hours required underway, must be performed during 
+nighttime hours. Crewmembers who are not nighttime certified are 
+not authorized to perform missions at night. In order to become 
+nighttime certified, a portion of the check ride shall be conducted at 
+night in accordance with reference (c).  
+Additionally, the currency maintenance tasks listed below for this 
+position are required to be performed annually and documented in 
+accordance with Chapter 5, Section A, Paragraph A.6. Associated 
+TASK requirements can be found in reference (c). 
+• 
+Perform a Navigation and Piloting Exercise / TASK BCM-08-
+02-AUX (Note 1) 
+• 
+Man Overboard (Note 1) 
+• 
+Assist the Coxswain with a Pre-Check off of an Auxiliary 
+Facility 
+• 
+Towing Astern  
+• 
+Towing Alongside  
+• 
+Boat Handling 
+• 
+Assist in anchoring and weighing the Boat’s Anchor 
+• 
+Demonstrate proficiency in knot tying and line handling 
+• 
+Demonstrate procedures to be followed in the event of a fire 
+• 
+Demonstrate procedures to be followed in the event of a 
+grounding or striking of a submerged object 
+(Note 1): Crewmembers who are nighttime certified shall perform 
+this TASK for both day and night currency maintenance. 
+ 
+ 
+
+--- PAGE 47 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 5 – Currency Maintenance 
+ 
+ 
+5-4 
+ Coxswain 
+To maintain currency, a certified coxswain must log a total of 12 hours 
+underway, on orders, each calendar year.  
+A minimum of 6 hours must be performed in the role of lead coxswain. 
+The remaining 6 hours may be performed in a crewmember role.  
+If the member is certified as both a coxswain and PWC operator, the 
+member will need to perform 12 hours underway as coxswain plus an 
+additional 6 hours as PWC operator, for 18 hours total. 
+Time spent serving as a QE counts towards the currency 
+maintenance requirements for coxswain. 
+If the member is a nighttime certified coxswain, then at least 2 hours of 
+the total 12 hours required underway, must be performed during night 
+time hours as the lead coxswain. Coxswains who are not nighttime 
+certified are not authorized to perform missions at night. In order to 
+become nighttime certified, a portion of the check ride shall be 
+conducted at night in accordance with reference (c). 
+Additionally, the currency maintenance tasks listed below for this 
+position are required to be performed annually, as a coxswain leading 
+the TASK and documented in accordance with Chapter 5, Section A, 
+Paragraph A.6..Associated TASK requirements can be found in 
+reference (c). 
+• 
+Perform a Navigation and Piloting Exercise / TASK COXN-09-
+04-AUX (Note 1) 
+• 
+Man Overboard (Note 1) 
+• 
+Towing Astern 
+• 
+Towing Alongside 
+• 
+Moor a Disabled Vessel to a Pier or float 
+• 
+Anchoring and weigh the boat’s anchor 
+• 
+Plot and Execute three legs of one of the following Search 
+Patterns (PS, CS, or TSR) 
+• 
+Conduct a Pre-Underway Check-off of the Boat 
+• 
+Moor to a Pier 
+• 
+Demonstrate procedures to be followed in the event of a fire 
+• 
+Demonstrate procedures to be followed in the event of a 
+grounding or striking of a submerged object 
+(Note 1): Coxswains who are nighttime certified shall perform this 
+TASK for both day and night currency maintenance. 
+
+--- PAGE 48 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 5 – Currency Maintenance 
+ 
+ 
+5-5 
+ PWC Operator To maintain currency, a certified PWC operator must log a total of 12 
+hours underway, on orders, each calendar year.  
+If PWC operator is also certified as a crewmember, see paragraph A.3. 
+If PWC operator is also certified as a coxswain, see paragraph A.4. 
+Time spent serving as a QE counts toward currency maintenance 
+requirements for PWC operator. 
+PWC operators are not authorized to operate during nighttime 
+hours.  
+Additionally, the currency maintenance tasks listed below for this 
+position are required to be performed annually and documented in 
+accordance with Chapter 5, Section A, Paragraph A.6..Associated 
+TASK requirements can be found in reference (c). 
+• 
+Conduct a Pre-Underway Check of a PWC 
+• 
+Man Overboard 
+• 
+Moor PWC to a pier 
+• 
+Tow another PWC Astern 
+• 
+Demonstrate procedures to be followed in the event of a fire 
+• 
+Demonstrate procedures to be followed in the event of a 
+grounding or   striking of a submerged object. 
+ Currency 
+Maintenance 
+Documentation 
+Requirement 
+Member shall use the appropriate enclosure to document completion of 
+annual currency maintenance hours and task requirements. Upon 
+completion of ALL required annual currency maintenance hours and 
+task, members must submit, in accordance with enclosure instructions or 
+local district policy, for documentation entry into AUXDATA II. 
+The deadline for completion and submission of annual currency 
+maintenance hours and task requirements is December 31st of each 
+calender year in order to maintain certification and not be placed into 
+REYR status. 
+Currency maintenance requires the lead coxswain to “self-certify” 
+completed tasks on the appropriate enclosure listed below for themselves 
+and for their crew. 
+• Boat Crewmember, Enclosure (4)  
+• Coxswain, Enclosure (5)   
+• Personal Watercraft Operator, Enclosure (6)  
+ Nighttime 
+Defintion 
+Nighttime hours begin ½ hour after sunset and ends no later than ½ an 
+hour before sunrise. 
+ 
+ 
+
+--- PAGE 49 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 5 – Currency Maintenance 
+ 
+ 
+5-6 
+ TCT/RM 
+Training  
+IAW reference (h), there are two TCT/RM training requirements: Initial 
+and Refresher training. Initial training is required once at the beginning 
+of the member’s career (before obtaining ANY Boat Crew 
+Certifications). Refresher training is required annually. 
+TCT/BRM Refresher Training:  Must complete Refresher training 
+annually, no later than the end of the 15th month, following TCT/RM 
+Initial or subsequent TCT/RM Refresher training. This training will be 
+developed by the National Operations program and published annually 
+(normally no later than 01 January of each year).  It will be designed to 
+be delivered at the local level by someone designated by the OTO. 
+ Navigation 
+Rules Exam 
+An open-book Navigation Rules examination (NAVRULES) must be 
+administered to Auxiliarist who have previously passed an Initial 
+Examination (NAV70) (closed-book) or a Renewal Examination 
+(NAV95) (open-book) within the last five years.  This five-year period 
+of eligibility commences on the date of their last successful examination.  
+The only authorized NAV70 and NAV95 tests to be administered can be 
+found in the National Testing Center - United States Coast Guard 
+Auxiliary (cgaux.org).  The NAV70 test is required to be proctored.  
+Proctors shall be appointed by the cognizant District Director of 
+Auxiliary (DIRAUX). 
+Auxiliarist who have taken a commercial course approved by the 
+National Maritime Center (NMC) should submit a copy of a signed 
+certificate from the course provider to their DIRAUX to apply for credit.  
+A current list of approved courses may be found on the NMC website: 
+https://www.dco.uscg.mil/nmc/training_assessments/. 
+Click 
+on 
+"Approved Courses," then search for “USCG Deck Watch 
+Officer."(DWO). Only these course providers meet the Coast Guard 
+requirement for NAVRULES/DWO exams. 
+For the NAVRULES/DWO commercial equivalency, AUXDATA II 
+will use (NAVRULES-COMMERCIAL SOURCE (70)) to document an 
+Auxiliarist completion of the NAVRULES/DWO exam equivalent via a 
+commercial provider when entering in AUXDATA II. 
+Coxswains who have exceeded a period of five years since the date of 
+their last examination will lose their certification and be placed in REYR 
+status until they have passed the Initial Examination (closed-book). 
+For example: An Auxiliary coxswain takes the Initial Examination 
+(closed-book) on 30 January 2020.  The open-book renewal exam 
+anniversary date is 30 January 2025. If the Auxiliarist fails to take and 
+pass an open-book renewal exam on or before 30 January 2025, then 
+their certification will lapse, they will be placed in REYR status, and they 
+
+--- PAGE 50 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 5 – Currency Maintenance 
+ 
+ 
+5-7 
+will be required to take the Initial Examination (closed-book) in order to 
+be removed from REYR status and recertify as a coxswain. 
+It is not the intent of this policy to penalize Auxiliarist for taking an open-
+book exam on a regular basis (i.e., annually) in order to “restart” their 
+five-year period. If an Auxiliarist fails an interim attempt, the original 
+successful completion date remains in effect until the five-year period is 
+exceeded. 
+ Operational 
+Workshops 
+Operational Workshops are not specific qualification tasks or 
+requirements in the Auxiliary boat crew programs.  A workshop is 
+published annually (normally no later than 01 January of each year) to 
+address pertinent Auxiliary operational topics.  If the workshop is 
+required training, it will be published as an ALAUX.  The workshop 
+provides training for all certified Auxiliary Crewmembers, Coxswains, 
+and PWC Operators.  Mentors of boat crew programs should encourage 
+their trainee/candidates to receive the workshop at the first available 
+opportunity, regardless of their degree of completion towards 
+qualification or certification. 
+  
+Documentation of 
+Training 
+Documentation of attendance for training, when required, is entered into 
+AUXDATA II. Accordingly, if the member fails to attend a Required 
+Workshop (REWK) by the designated deadline specified (usually 31 
+May), that member will become unable to receive patrol orders and listed 
+as REWK until the training has been documented as received. If 
+Required Yearly Requirement (REYR) training is not completed by 31 
+December, the member is placed in REYR status. Specific waivers are 
+possible via Directors on a case-by-case basis. 
+
+--- PAGE 51 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+6-1 
+CHAPTER 6 
+Qualification Examiner 
+Introduction 
+The highest appointment in the Boat Crew and Personal Watercraft 
+Programs is that of the Qualification Examiner (QE). QEs are 
+outstanding Coxswains or Personal Watercraft Operators having strong 
+operational backgrounds, exceptional instructor abilities, effective 
+interpersonal skills, and impeccable integrity. 
+In this Chapter 
+This chapter contains the following information: 
+Section 
+Title 
+Page 
+A 
+What is a Qualification Examiner 
+6-2 
+B 
+Qualification Examiner Positions 
+6-4 
+C 
+Application Process and Training 
+6-8 
+D 
+Qualification Process 
+6-11 
+E 
+Boat Crew Qualification Sessions 
+6-13 
+F 
+Complaints and Disputes 
+6-17 
+ 
+ 
+
+--- PAGE 52 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-2 
+Section A. 
+What is a Qualification Examiner 
+Introduction 
+This section will discuss the role and requirements of a Qualification 
+Examiner. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Qualification Examiner’s Role 
+6-2 
+Active Duty/Reserve QE 
+6-2 
+General QE Requirements 
+6-3 
+ 
+  
+Qualification 
+Examiner’s Role 
+The role of the QE is to verify that Boat Crew trainees are able to 
+satisfactorily perform as specified in reference (c) and all applicable Boat 
+Crew Handbooks by evaluating members through Dockside Oral 
+Examinations and Underway Check Rides. QEs also verify currency 
+maintenance requirements for recertification and perform other tasks 
+such as verify performance criteria for the Award of Operational 
+Excellence. 
+ Active 
+Duty/Reserve QE 
+Boat Forces unit Commanding Officers/Officers-In-Charge are 
+encouraged to participate in the Qualification Examiner program by 
+recommending their active duty/reserve Coxswains to serve as Boat 
+Crew QEs and assisting the Auxiliary in qualifying personnel for the 
+Boat Crew Program. 
+The role of the Active/Reserve QEs shall be the same as their Auxiliary 
+counterparts to verify a trainee’s qualification level for performing 
+prescribed tasks.  Below are requirements to be an Active/Reserve QE:   
+(01) Recommendations must be in writing (email preferred) and 
+submitted to the Boat Forces unit’s District Operations Training 
+Officer (OTO). 
+(02) The QE appointee must be a qualified coxswain. 
+(03) Adhere to the requirements in this instruction and be familiar 
+with references (a) through (j).  
+(04) QEs must be appointed by OTO and will function under the 
+guidance of the Area QE Coordinator (AQEC). 
+(05) Will undergo a familiarization session with the AQEC 
+regarding District QE policies and practices. 
+(06) Shall keep the AQEC advised of all QE activities and missions. 
+
+--- PAGE 53 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-3 
+ General QE 
+Requirements 
+All QEs must complete the TCT-BRM course annually. Record of 
+completed TCT training is to be kept in AUXDATA II.  
+All QEs must go through an evaluation by the OTO or his/her designee 
+every three years.  This evaluation is usually done by the OTO but may 
+be delegated, if necessary, to the Chief QE Coordinator (CQEC) or an 
+AQEC.  The evaluation will require the OTO or his/her designee 
+observing the QE performing a dockside oral exam and an underway 
+check ride of a crew or coxswain candidate.  The QE must complete these 
+tasks to the satisfaction of the observer to remain certified as a QE.  
+QEs must maintain coxswain currency and the expected levels of QE 
+activity, as defined by the OTO, to remain qualified as a QE. 
+ 
+ 
+
+--- PAGE 54 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-4 
+Section B. 
+Qualification Examiner Positions 
+Introduction 
+This section will discuss the different positions in the QE program. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Operations Training Officer (OTO) 
+6-4 
+The Chief QE Coordinator (CQEC) 
+6-4 
+Area QE Coordinator (AQEC) 
+6-5 
+Qualification Examiner 
+6-6 
+Boat Crew Advisory Board 
+6-7 
+ 
+ Operations 
+Training Officer 
+(OTO) 
+The OTO represents the Director as the primary manager and mentor of 
+the QEs and the Boat Crew Training Program. 
+ The Chief QE 
+Coordinator 
+(CQEC) 
+Appointment. - The CQEC is nominated by the District Commodore 
+(DCO) in consultation with the OTO and appointed by DIRAUX for a 
+term not to exceed three years and is the Executive Auxiliary 
+Coordinator of the QE Program responsible to the OTO. Reappointments 
+are recommended by the OTO and are approved by DIRAUX.  Dismissal 
+of this position is at DIRAUX discretion. 
+Responsibilities 
+(01) Work directly with the OTO in all aspects of the Boat Crew 
+Qualification Program. 
+(02) Maintain appropriate records necessary to administer the Boat 
+Crew Qualification Program.  
+(03) In consultation with the members of the Boat Crew Advisory 
+Board, recommend the number of QEs required to carry out the 
+Boat Crew Program.  
+(04) Recommend to OTO or his/her designee, the appointment of 
+Area QE Coordinators (AQEC) after due consideration of input 
+received from appropriate sources.  
+(05) Manage AQECs and conduct recertification of the AQECs.  
+(06) Provide District/Region wide training for AQECs and QEs.  It 
+is recommended that there be an Annual QE Workshop for all 
+QEs.  
+(07) Oversee any and all investigations of complaints regarding the 
+Boat Crew Program, QEs, check rides, etc.  
+
+--- PAGE 55 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-5 
+(08) Review any request for QE travel orders before forwarding to 
+the DCO or OTO.  
+(09) Inform the OTO when the need for additional training is 
+identified during a Currency Maintenance Session. 
+ Area QE 
+Coordinator 
+(AQEC) 
+Appointment. - The CQEC will review the performance records and 
+submit nominations for each AQEC to the OTO for approval. Approved 
+members are appointed by DIRAUX for a period not to exceed three 
+years.  For regions with a limited number of QEs the CQEC may also be 
+the AQEC.   Reappointment is subject to OTO approval and dismissal of 
+this position is at DIRAUX discretion.  
+Responsibilities.  
+(01) Act as the CQECs direct representative for an assigned area of 
+responsibility. 
+Areas 
+of 
+responsibility 
+may 
+differ in 
+requirements based on the number of QEs needed to support 
+Boat Crew and Personal Watercraft qualification missions. 
+(02) Evaluate the number of QEs required to adequately administer 
+the QE Program within their area of responsibility. Requests for 
+additional QEs will be submitted to the CQEC for action. 
+(03) Assign QEs for all requested check rides, exams, or other QE 
+missions. These assignments should be made equally among 
+QEs within an area to ensure a uniform workload and the 
+amount of travel involved. QEs may be assigned to do flotilla 
+signoffs per district policy as established by the OTO. 
+(04) AQECs are also responsible for assigning active-duty QE 
+missions. 
+(05) Active-duty QEs should not be used as a means of selecting a 
+desired QE or as a means of bypassing this assignment process. 
+(06) AQECs may be used to review QE paperwork before being sent 
+to the OTO. 
+(07) Forward to the CQEC any request for travel orders for a QE 
+mission.  
+(08) With the CQEC organize and conduct QE workshops annually 
+or more often as necessary for their area. 
+(09) Conduct Training programs for new QEs and assign a mentor 
+QE to QEs In-Training (QE-IT) within their area. 
+(10) Act as the liaison for Division and Flotilla Member Training 
+Officers, scheduling QE missions and, if necessary, assign a 
+QE-In-Charge (QEIC) to head each mission.  
+(11) Maintain accurate records for each mission as performed by 
+QEs in their area, including the number of hours and missions 
+and the number of members qualified by each QE. 
+
+--- PAGE 56 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-6 
+(12) Copy these records to the CQEC. Keep the CQEC appraised of 
+any problems and how the Boat Crew Program is working in 
+their area.  
+(13) AQECs should arrange for Boat Crew Training classes in their 
+AOR. This training may be developed in-house or imported 
+from another area or district.  
+(14) AQEs and QE should actively support and/or arrange for formal 
+training classes in their areas. Provide support and training to 
+the Boat Crew Program mentors throughout his/her Area of 
+Responsibility (AOR).  
+(15) Provide a list to the CQEC and the OTO for upcoming check-
+rides within their AOR.  
+(16) Conduct recertification check-rides for QEs as directed by the 
+OTO. 
+(17) Communicate to a member’s leader (FC or FSO-MT) any 
+additional training requirements identified during a QE Session. 
+The AQEC should also inform the OTO, via the CQEC when 
+the need for additional training is identified during a Currency 
+Maintenance Session. 
+(18) Conduct recertification check-rides for QEs as directed by the 
+OTO. 
+ Qualification 
+Examiner 
+Appointment. - Qualification Examiners are recommended by the OTO 
+and appointed by DIRAUX for a period not to exceed three years, with 
+the option of reappointment. Before QEs are reappointed, their 
+performance should be thoroughly evaluated by both the DIRAUX and 
+OTO. Dismissal of members in the position of QE is at DIRAUX 
+discretion. A diverse and robust QE population is highly encouraged and 
+should be sought after as much as possible. 
+Elected leaders may recommend Auxiliarists for appointment as a QE. 
+Area QE Coordinators working with elected leaders may recruit 
+Auxiliarists who meet the requirements to become a QE. QEs assigned 
+to areas bordering other region(s) may be appointed to more than one 
+region with approval from the DIRAUX/OTOs of each region. 
+Responsibilities. 
+(01) Evaluate Boat Crew and/or Personal Watercraft programs 
+candidates for compliance with the standards established by the 
+Boat Crew Qualification Program. 
+(02) Verify that Patrol Orders have been issued for all facilities 
+being used in a QE session.  No QE session requiring the use 
+of a facility is to be performed without CG Patrol Orders. 
+
+--- PAGE 57 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-7 
+(03) Submit required paperwork to the OTO with a copy to the 
+AQEC within 5 business days of the mission. 
+(04) Report to the AQEC any unsatisfactory performance observed 
+on the part of any certified Boat Crewmember(s) and assist the 
+AQEC in determining the course of action that should be taken.  
+(05) Notify the OTO in writing, through the QE chain of 
+communication, when a certified crewmember or coxswain 
+demonstrates unsatisfactory performance for reasons of 
+incompetence, questionable qualification, or physical inability 
+to perform mission requirements. 
+(06) Act as a mission safety officer. 
+(07) Evaluate Boat Crews for the “Operational Excellence Award” 
+or for any other similar CG programs (Selecting Boat Crew 
+Teams for ISAR Competition, etc.). 
+ Boat Crew 
+Advisory Board 
+The Boat Crew Advisory Board (BCAB) shall consist of the following 
+members: 
+(01) OTO Responsible for the area (Shall also chair the BCAB)  
+(02) Chief QE Coordinator (CQEC), DCO or his/her designee   
+(03) District Staff Officer, Operations (DSO-OP)  
+(04) District Staff Officer, Member Training (DSO-MT) 
+The responsible OTO and the CQEC constitute a quorum for any 
+meeting of the BCAB. 
+Responsibilities: 
+(01) Review district policies and procedures governing the 
+Qualification Examiner Program.  Make recommendations to 
+the Surface Stan Team for review and implementation. 
+(02) Evaluate QE Applicants. 
+(03)  Administer QE Reappointments.  
+(04) Determine Boat Crew certification for a member due to 
+questionable actions or performance.  
+(05) Review complaints referred by the CQEC. 
+ 
+ 
+
+--- PAGE 58 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-8 
+Section C. 
+Application Process and Training 
+Introduction 
+This section will discuss the application process and training 
+requirements for QE. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+6-8 
+Boat Crew Program QE 
+6-8 
+Personal Watercraft Program QE 
+6-8 
+QE Applicant Application Review 
+6-9 
+Initial Training 
+6-10 
+Final Qualification 
+6-10 
+ 
+ General 
+Applications can be submitted at any time using the form found in 
+Appendix G.  Appointments will be made as needed by the OTO. The 
+OTO will hold applications for two years. 
+The appointment term for a QE will be for a period not to exceed three 
+years, with the option of reappointment. The reappointment time period 
+can be for one to three years. 
+ Boat Crew 
+Program QE 
+To become a Qualification Examiner (QE) in the Boat Crew Program, 
+the candidate must: 
+(01) Be a currently certified Coxswain for at least one year.  
+(02) Have completed the TCT/BRM training requirements and be 
+current.  
+(03) Complete the QE application form (see Appendix G) and 
+submit it to the CQEC via the AQEC with endorsements as 
+specified by the BCAB.  
+(04) Complete any additional courses/tasks as specified by the 
+BCAB. (e.g., IT, AUXOP, additional TCT training) 
+ Personal 
+Watercraft Program 
+QE 
+To become a Qualification Examiner (PWC-QE) in the Personal 
+Watercraft Operator Program, the candidate must: 
+(01) Be a currently certified PWC Operator for at least one year.  
+(02) Have completed the TCT/BRM training requirements and be 
+current.  
+
+--- PAGE 59 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-9 
+(03) Complete the QE application form (see Appendix G) and 
+submit it to the CQEC via the AQEC with endorsements as 
+specified by the BCAB.  
+(04) Complete any additional courses/tasks as specified by the 
+BCAB. (e.g., IT, AUXOP, additional TCT training) 
+ QE Applicant 
+Application Review 
+All applications are reviewed by the BCAB.  
+The OTO will review the candidate’s personnel file.  A printout from 
+AUXDATA II will also be obtained to review the member’s current 
+qualifications and activity levels.  
+Each applicant will be either accepted for further evaluation or rejected 
+by the BCAB.  
+The BCAB will notify unsuccessful applicants in writing. Unsuccessful 
+applicants may reapply one year after the date of notification.  
+The CQEC will notify, in writing, those applicants accepted for an 
+interview 
+The BCAB will interview each applicant. The interview with the 
+applicant shall include questions about theoretical QE situations, 
+member training related topics, and points relating to the following 
+publications:  
+• Auxiliary Operations Policy Manual, COMDTINST M16798.3 
+(series). 
+• Auxiliary Boat Crew Qualification Handbook, ABQH 16794.52 
+(series)  
+• Boat Crew Handbook: Rescue and Survival Procedures, 
+BCH16114.2 (series) 
+• Boat 
+Crew 
+Handbook: 
+Navigation 
+and 
+Piloting, 
+BCH16114.3(series) 
+• Boat 
+Crew 
+Handbook: 
+Seamanship 
+Fundamentals, 
+CH16114.4(series) 
+• Boat Crew Handbook: First Aid, BCH16114.5(series) 
+• Chapter 4 of the U.S. Coast Guard Addendum to the United States 
+National Search and Rescue Supplement (NSS) to the 
+International Aeronautical and Maritime Search and Rescue 
+Manual (IAMSAR), COMDTINST   M16130.2 (series)  
+• Any other relevant District policies.  
+• On completion of the interview, the BCAB shall discuss each 
+applicant and decide on the member’s acceptance or rejection. A 
+successful applicant will be designated a QE-in-Training (QE-IT). 
+ 
+ 
+
+--- PAGE 60 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-10 
+ Initial Training The QE-IT will have one year to complete the training program during 
+which he/she will demonstrate before a QE Mentor (QE Mentor is 
+another active QE selected by the AQEC) the following skills: 
+(01) Knowledge and understanding of the Auxiliary Boat Crew 
+Training Guide and the Qualification Guides for Crewman and 
+Coxswain.  (Also included for PWC-QEs is the PWC 
+Operator’s Qualification Guide).  
+(02) Set up, under the guidance of a QE Mentor, a dockside oral 
+exam of both a crew and coxswain candidate. 
+(03) Set up, under the guidance of a QE Mentor, an underway check 
+ride of both a crew and coxswain candidate. 
+(04) Demonstrate to the QE Mentor the following qualities expected 
+of QEs: integrity, diplomacy, experience, and expertise while 
+assisting at qualification sessions. 
+(05) Demonstrate the ability to fill out all appropriate and required 
+paperwork. 
+ Final 
+Qualification 
+Upon successful completion of the QE Training Program: 
+(01) The QE Mentor will notify the AQEC in writing of the QE-IT’s 
+successful completion. 
+(02) The AQEC will then recommend to the CQEC that the QE-IT 
+be appointed a QE. The CQEC will forward this 
+recommendation along with his/her endorsement to the OTO. 
+(03) The OTO will evaluate the QE-IT during a QE session and 
+make the final decision. If travel in a timely manner is 
+prohibitive then this evaluation may be delegated. 
+(04) DIRAUX will send a letter of appointment to the new QE. 
+ 
+ 
+
+--- PAGE 61 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-11 
+Section D. 
+Qualification Process 
+Introduction 
+This section will discuss the qualification process for the boat crew 
+program. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+6-11 
+Initial Qualification Process 
+6-11 
+Three Year Maintenance Sessions 
+6-12 
+Other Programs 
+6-12 
+ 
+ General  
+The Flotilla Leadership in conjunction with the support of the FSO-MT 
+and Mentor are responsible for guiding the candidate through the 
+learning process.  When the candidate has completed the training 
+process, the FC or FSO-MT must request the services of a QE, using the 
+QE Request Form in Appendix F, to complete the qualification process. 
+Member must acknowledge if nighttime will be part of the qualification 
+process.  Each member must perform all required tasks as outlined in this 
+Handbook and to the standards required in reference (c). 
+ Initial 
+Qualification 
+Process 
+A Qualification Examiner (QE) is required for dockside oral 
+examinations, underway check rides for Crewman, Coxswains, and 
+PWC Operators, and completion of the Operational Excellence Program.  
+Intitial Qualifications must be completed in accordance with reference 
+(c): 
+• Boat Crewmember Task BCM-08-03-AUX and BCM-08-04-
+AUX. 
+• Coxswain Task COXN-09-05-AUX and COXN-09-06-AUX. 
+• PWC Operator Task PWC 08-04-AUX and PWC 08-05-AUX. 
+The sign off sessions are for the sole purpose of qualifying candidates, 
+not training!    
+See Chapter 6, Section E, paragraph E.5 for certification documentation. 
+Members that fail to perform the required tasks at the prescribed level 
+should be informed immediately and the sign off session terminated.  
+The member’s leader (FC or FSO-MT) should also be informed via the 
+AQEC so that they may help the member get additional training. 
+ 
+ 
+
+--- PAGE 62 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-12 
+ Three Year 
+Maintenance 
+Sessions 
+A QE is required for the sole purpose of renewing a certified Crewman, 
+Coxswains, and PWC Operators qualification.  The FSO-MT shall 
+complete the appropriate sections on the Third Year Currency 
+Maintenance form in Appendix E and provide it to the member for 
+review and submission to the QE at the time of the check ride.  Once the 
+Third Year Currency Maintenance form has been provided to the 
+member the FSO-MT or FC may submit a request for a QE using the QE 
+Request Form in Appendix F to the Area QE Coordinator who will then 
+assign a QE to conduct a Currency Maintenance check ride. Each 
+member must perform all required tasks as outlined in the appropriate 
+enclosure found in this Handbook. 
+See Chapter 6, Section E, paragraph E.5 for certification documentation. 
+Members that fail to perform the required tasks at the prescribed level 
+should be informed immediately and the sign off session terminated.  
+The member’s leader (FC or FSO-MT) should also be informed via the 
+AQEC so that they may help the member get additional training.  The 
+AQEC should also inform the OTO via the CQEC. 
+ Other 
+Programs 
+QEs are required or often asked to function as examiners for other than 
+the Boat Crew Qualification Program.  This includes the Coast Guard 
+Auxiliary Operational Excellence Program, COMDTINST 16794.4 
+(series), International Search and Rescue (ISAR), local Ready for 
+Operations (RFOs), etc.  The QE will continue to apply the same degree 
+of integrity to these programs as is required by the Boat Crew 
+Qualification Program.  The QE should refer to the program instructions 
+for the applicable criteria. 
+ 
+ 
+
+--- PAGE 63 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-13 
+Section E. 
+Boat Crew Qualification Sessions 
+Introduction 
+This section will discuss the qualification session requirements for QE’s. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+6-13 
+Task Interpretation 
+6-13 
+Session Planning 
+6-14 
+Session Kickoff 
+6-15 
+Session Wrap Up and Documentation 
+6-16 
+ 
+ General 
+Underway check rides will only be performed under orders.  
+QEs are expected to be dressed in a proper uniform and to set a good 
+example.  Candidates and all involved boat crewmembers will be in 
+proper uniform.  QEs are expected to always maintain a professional 
+attitude.  Avoid inappropriate language and do not get involved in 
+debates/arguments with other QEs, the candidates or Flotilla/Division 
+representatives.  
+No initial Check Ride shall be given to a candidate until they have 
+successfully completed all other required tasks. 
+ Task 
+Interpretation 
+The QE is to use good judgment on whether the candidate has 
+demonstrated the desired level of expertise, considering that safety is 
+paramount.  
+• 
+The term “Moderate seas” are waves 1 to 4 feet.  
+• 
+The term “Strong currents” are currents that have a visible effect 
+on the vessel and are normally found in bays, inlets, and rivers.  
+• 
+In cases where a candidate cannot perform a task because of 
+extenuating circumstances beyond their control (Ex. no locks in 
+the area), the candidate should be able to explain how to perform 
+the task to the QE. 
+The QE should note on the check ride form what the sea and weather 
+conditions were at the time of the check ride.  The QE should also note 
+the type and size of the facility that was used for the check ride. 
+ 
+ 
+
+--- PAGE 64 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-14 
+ Session 
+Planning 
+A QE-In Charge (QEIC) is assigned by the AQEC when there are 
+multiple boats involved in a check-ride session requiring a QE on each 
+boat. 
+The QE shall: 
+(01) Manage all tasks, facilities, and members involved in a specific 
+mission.  
+(02) Determine the number of assigned candidates, the number (if 
+any) of walk-in candidates, the number of facilities and 
+equipment available.  Work with the Flotilla/division personnel 
+to solve any problems encountered.  While the QE Team should 
+attempt to audit walk-in candidates, if possible, their primary 
+focus should be on the candidates who were scheduled for the 
+mission.  If time or other factors do not allow for this, tell the 
+walk-ins early on so as not to waste their time. 
+(03) Ensure that only QEs and candidates are present in the testing 
+area, whether a classroom or dockside. 
+(04) Arrange for lodging when needed.  All QE missions requiring 
+an overnight stay must have approval from DIRAUX.  Under 
+NO circumstances will a QE accept offers of lodging or meals 
+at a candidate’s private home during a QE mission. 
+The QEIC (if required) shall: 
+(01) Just prior to a session contact the AQEC for any special 
+directions, comments, or information regarding the session that 
+may have developed since being assigned as the QEIC. 
+(02) Provide lodging information to other QEs, if necessary 
+(03) QEIC assigns QEs to facilities if there is more than one QE 
+present. 
+(04) No later than thirty (30) minutes prior to the scheduled start of 
+the mission, conduct a preliminary briefing with other assigned 
+QEs and the Flotilla/Division representative. 
+(05) Do not release any QEs until all candidates have been audited. 
+Before starting a check-off session the QE or QEIC shall conduct a Risk 
+Assessment using the G.A.R. /SPE Model and discuss what he/she will 
+do if he/she recognizes a danger to the crew or facility.  The QE should 
+always ensure that the coxswain, crew, and candidate complete a 
+thorough briefing, including “Risk Management.”  If the candidate is 
+receiving a check ride for coxswain or PWC operator the candidate 
+should conduct the briefing. 
+
+--- PAGE 65 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-15 
+The QE should be sure the coxswain and crew are fully aware of the 
+dangers of performing tasks with an uncertified member.  They should 
+be extra observant of potential problems and not leave the total 
+responsibility to the QE. 
+The coxswain is designated by higher authority as being responsible for 
+the mission, crew, and facility.  Because our members very often look to 
+the QE as a very senior or experienced operational member, they may 
+look to the QE for direction instead of the coxswain.  The QE’s function 
+is to give the tasks and grade the candidate.  However, the QE is an 
+observer and may very well be in a position to see a problem evolving 
+before the coxswain or crew.  QEs should always exercise RM principals 
+and notify the coxswain and crew whenever they see a problem or 
+potential problem.  Once a QE recognizes this, he/she should stop the 
+activity before there is an incident. 
+ Session Kickoff 
+(01) 
+Introduce yourself as the QE/QEIC and explain how the session 
+will proceed.  
+(02) 
+Meet the member(s). Put the candidate at ease. Spend a few 
+minutes to become acquainted before starting the session.  
+(03) 
+Review the candidates Record of Completed Tasks; verify that 
+all required tasks in the Qualification Guide have been signed.  
+The QE reserves the right to examine the candidates 
+Qualification Guidebook to ensure all tasks have been completed 
+and signed with the name and member number of the mentor(s) 
+for each task.  
+(04) 
+Determine and examine a candidate’s knowledge and skills as 
+they relate to the Auxiliary Boat Crew Program with a dockside 
+oral exam.  It is important to emphasize the positive.  
+(05) 
+A pre-underway check of the facility and personal safety 
+equipment must be done with the QE present before starting the 
+check ride.  If a facility does not have the required equipment on 
+board (includes personal safety equipment for the crew) at the 
+time of the check ride, the QE will cancel the check ride and 
+another date will have to be scheduled.  
+(06) 
+Stress Safety!  Appropriate PPE is to be properly always worn 
+while onboard a facility.  QEs must always act as a Safety Officer 
+and be on guard to prevent an accident.  A major safety violation 
+will immediately end the session.  Many times, coxswains will 
+fail to act thinking the QE is in charge.  Before the check ride 
+starts, the QE should review TCT with the crew and re-enforce 
+his responsibility towards the safety of the facility and the 
+personnel on them. 
+
+--- PAGE 66 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-16 
+(07) 
+Make sure all radios work before leaving the dock and establish 
+a working channel on which participants are to communicate.  
+The controlling land station shall be informed of the channel that 
+will be used during the evolution.  
+(08) 
+QEs working together on paired vessels should discuss 
+coordination before getting underway (i.e., which vessel will do 
+the task first).  
+(09) 
+Explain that the QE, Coxswain, or Facility Owner can abort any 
+evolution at any time.  (At the option of the QE or QEIC, they 
+may explain the error(s) and provide the opportunity to re-
+perform the task.).  
+(10) 
+Stress mutual communication on board.    
+(11) 
+No see, No hear, No sign.  Unless a QE sees a task accomplished 
+or hears the correct answer, he/she may not sign off the task.  
+Competence, dedication, diplomacy and integrity are the QEs 
+watchwords. 
+ Session Wrap 
+Up and 
+Documentation 
+The QE that signs off the last task for a candidate at a given qualification 
+level (Crew, Coxswain, PWC Operator) will then complete the follow 
+documentation (as applicable): 
+Intial Certifiation in accordance with this Handbook and reference (c): 
+(1) 
+APPENDIX B (Qualification Form Letter) 
+(2) 
+Boat Crewmember: Task BCM-08-03-AUX and BCM-08-04-
+AUX. 
+(3) 
+Coxswain: Task COXN-09-05-AUX and COXN-09-06-AUX. 
+(4) 
+PWC Operator: Task PWC 08-04-AUX and PWC 08-05-AUX. 
+Three Year Maintenance Sessions in accordance with this Handbook: 
+(1) 
+Appendix E (Third Year Currency Maintenance) 
+(2) 
+ENCLOSURE (1) - Crewmember 
+(3) 
+ENCLOSURE (2) - Coxswain 
+(4) 
+ENCLOSURE (3) – PWC Operator.  
+These are forwarded to the OTO with a copy to the AQEC and the CQEC 
+within five working days. Copies should be kept at each level before 
+forwarding. The member keeps the Qualification Guide with the signed 
+tasks.  
+Submit to DIRAUX travel orders associated with the mission. 
+ 
+ 
+
+--- PAGE 67 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 6 – Qualification Examiner 
+ 
+ 
+6-17 
+ 
+Section F. 
+Complaints and Disputes 
+Introduction 
+This section describes the responsibilities of Auxiliary Staff officers. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+6-17 
+Failures 
+6-17 
+ 
+ General 
+All complaints or disputes concerning the QE process, mission, or a 
+CQEC, AQEC or a QE must be submitted in writing to the OTO. 
+ Failures 
+If a candidate fails a scheduled QE Check ride or Dockside oral exam, 
+the member should have the reason explained to them with an emphasis 
+on corrective action required.  Recommendations for areas where 
+improvement is necessary should be given.  This same information 
+should also be given to the mentor or the unit training officer.  Also, the 
+QE should send a report of the failure to the AQEC.  
+On rare occasions a candidate may fail their check ride due to the lack of 
+ability on the part of the certified coxswain or crew.  When this happens, 
+the QE should re-schedule the candidate with a different facility, 
+coxswain, and/or crew.  The QE (or QEIC) should then contact the 
+AQEC and have the problem addressed.  The candidates FC should also 
+be made aware of the problem.  The AQEC, through the CQEC and the 
+OTO, may schedule the deficient member for a check ride.  This would 
+be a condition of the member’s certification.  The OTO may require the 
+member to get additional training before recertification. 
+ 
+
+--- PAGE 68 ---
+Auxiliary Training Handbook – Boat Crew 
+ 
+ 
+ 
+7-1 
+ 
+CHAPTER 7 
+Auxiliary Surface Operations Standardization Team 
+Introduction 
+This chapter describes the requirements for currency maintenance. Initial 
+certification is the demonstration of the minimum knowledge and skills 
+necessary to perform the associated competency. Proficiency is 
+developed after initial certification. The purpose of currency is to build 
+and maintain proficiency.   
+In this Chapter 
+This chapter contains the following information: 
+Section 
+Title 
+Page 
+A 
+Auxiliary Surface Operations Standardization 
+Team 
+7-2 
+ 
+ 
+
+--- PAGE 69 ---
+Auxiliary Training Handbook – Boat Crew 
+Chapter 7 – Auxiliary Surface Operations Standardization Team 
+ 
+ 
+7-2 
+Section A. 
+Auxiliary Surface Operations Standardization Team 
+Introduction 
+This section describes the responsibilities of Auxiliary Staff officers. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Overview 
+7-2 
+Mission 
+7-2 
+Objectives 
+7-2 
+Team Members 
+7-3 
+ 
+ Overview  
+The Auxiliary Surface Operations Stan Team was established by the 
+Chief Director of Auxiliary to review existing practices and to solicit 
+input from the field concerning the Auxiliary Boat Crew program.  All 
+members are nominated by the DIR-R and BSX and are appointed by the 
+Chief Director. 
+ Mission 
+The mission of the USCG Auxiliary Surface Operations Standardization 
+Team is to promote safety, standardization and “Best Practices” for all 
+aspects of Auxiliary Surface Operations. 
+ Objectives 
+• 
+Periodically review the Auxiliary Boat Crew Training Program 
+including proposed changes received from the field.  
+• 
+Review Auxiliary Surface mishap reports and determine system 
+wide interventions to reduce risk as appropriate.  
+• 
+Suggest content for the Annual Operations Workshop when 
+required.  
+• 
+Identify the need for program enhancements (i.e., Qualification 
+Examiner 
+Guide, 
+Mentoring 
+Template, 
+etc.) 
+and 
+make 
+recommendations as appropriate.  
+• 
+Review the Operations Policy Manual, COMDTINST M16798.3 
+(series) as needed and make recommendations for policy changes.  
+• 
+Identify “Best Practices” from the field and promulgate to the 
+surface community as appropriate.  
+• 
+Recommend additional training for the surface operations program 
+as needed.  
+• 
+Review new procedures and mandates of the Coast Guard Boat 
+Crew Program and determine if and how these apply to Auxiliary 
+Operations. 
+• 
+Other assignments as needed. 
+
+--- PAGE 70 ---
+Auxiliary Training Handbook– Boat Crew 
+Chapter 7 – Auxiliary Surface Operations Standardization Team 
+ 
+ 
+7-3 
+ Team Members The Stan Team normally consists of the following members: 
+(01) Director Response Directorate (DIR-R)  
+(02) Division Chief – Surface (DVC-RS) 
+(03) Branch Chief – Surface, Qualifications (BC-RSQ) (Chair) 
+(04) One operational Training Officer (OTO)  
+(05) COMDT (CG-BSX-12) Surface Operations  
+(06) COMDT (CG-731) Boat Forces (as needed for consultation) 
+(07) Member at Large 
+ 
+
+--- PAGE 71 ---
+Auxiliary Training Handbook– Boat Crew 
+Enclosure (1) 
+ 
+ 
+1 
+ENCLOSURE (1)  
+Underway Currency Maintenance / Recertification Check ride:  
+CREWMEMBER 
+NOTE  
+ 
+ 
+Reference 
+a. 
+Auxiliary Boat Crew Qualification Handbook – ABQH 16794.52 (series)  
+b. 
+Boat Crew Handbook – Boat Operations, BCH16114.1 (series)  
+c. 
+Boat Crew Handbook - Rescue and Survival Procedures, BCH 16114.2 (series) 
+d. 
+Boat Crew Handbook – Navigation and Piloting, BCH16114.3 (series)  
+e. 
+Boat Crew Handbook – Seamanship Fundamentals, BCH16114.4 (series) 
+f. 
+Boat Crew Handbook – First Aid, BCH 16114.5 (series) 
+g. 
+Auxiliary Operations Policy Manual, COMDTINST M16798.3 (series) 
+h. 
+District Standard Operating Procedures, Policy Manuals, and other local Instructions 
+Conditions 
+Performed triennially while underway on an Auxiliary Facility in calm sea conditions.  Member 
+must accomplish task without prompting or use of a reference. 
+Standards 
+In response to the QE and as directed by the coxswain, trainee must answer questions on, and 
+perform the below listed evolutions as the crewmember.  
+(Note 1): For candidate’s wanting to be “Night Certified” Performance Criteria  #8, #9, and #16 
+must be part of the check ride conducted at night 
+ 
+ 
+Performance Criteria 
+Completed 
+(Initials) 
+1. 
+Ensure TASK BCM-02-02-AUX: Personal Physical Fitness and Vision in reference (a) has 
+been completed and/or updated every three years. 
+___________ 
+2. 
+Assist coxswain with a pre-underway check-off. 
+ 
+3. 
+Participate in a pre-underway brief. 
+___________ 
+4. 
+Correctly don a PFD and demonstrate an understanding of the use of personnel survival equipment. 
+___________ 
+5. 
+Efficiently and safely handle mooring lines while getting underway and secure the boat for sea. 
+___________ 
+6. 
+Stand an alert helm watch, with the correct responses to the coxswain’s commands. 
+___________ 
+7. 
+Stand an alert lookout watch, correctly report distance and relative bearings of objects and sounds 
+encountered. 
+___________ 
+8. 
+(Note 1) Correctly respond to and act as a pointer in a Man Overboard drill. 
+Day:________ 
+Night:_______ 
+9. 
+(Note 1) Correctly respond to and act as a recovery/pickup man in a Man Overboard drill. 
+Day:________ 
+Night:_______ 
+10. Demonstrate proficiency and safety while performing duties during a stern tow and a towing watch. 
+___________ 
+11. Demonstrate proficiency and safety while performing duties during an alongside tow. 
+___________ 
+The QE may add tasks to the performance criteria if he/she feels it necessary to evaluate a 
+trainee’s readiness for recertification.  The addition of any tasks will be reported to 
+Commandant (CG-BSX-12) via the Director of Auxiliary for possible inclusion in future 
+revisions of the program. 
+
+--- PAGE 72 ---
+Auxiliary Training Handbook – Boat Crew 
+Enclosure (1) 
+ 
+ 
+2 
+ 
+ 
+ 
+Accomplished: 
+ 
+ 
+ 
+Qualification Examiner’s 
+Signature: 
+ 
+Date 
+ 
+Qualification Examiner’s 
+Signature: 
+ 
+Date 
+ 
+NOTE  
+ 
+ 
+ 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+12. Demonstrate proficiency in knot tying and line handling. 
+a. 
+Bowline 
+b. 
+Clove Hitch 
+c. 
+Sheet bend 
+d. 
+Round Turn and Half Hitch 
+___________ 
+13. Demonstrate proficiency in line handling. 
+___________ 
+14. Demonstrate proficiency in anchoring and weighing anchor. 
+___________ 
+15. Assist the coxswain with safe navigation, identify aids to navigation and local landmarks encountered on 
+a chart of the operating area. 
+___________ 
+16. (Note 1) Perform as a Crewmember During a Navigation and Piloting Exercise  TASK BCM-08-02-
+AUX. 
+Day:________ 
+Night:_______ 
+17. Correctly make a scheduled Position and Ops Normal report, on the facility’s VHF-FM radiotelephone. 
+___________ 
+18. Efficiently and safely position fenders and handle mooring lines while the boat moored. 
+___________ 
+19. Satisfactorily answer QEs questions on policies and procedures. Questions should pertain to knowledge 
+required by the above qualification tasks. 
+___________ 
+Comments should be made in detail.  Tasks that were not performed to standards require 
+specific comments addressing what the deficiencies were and why, and what corrective 
+action must be taken to be successful at the next check ride.  Each QE should initial on 
+the line by the task that was successfully accomplished during the check ride they 
+evaluated and then sign on the “Signature” and “Date” line.  A copy of this task sheet 
+should accompany the letter for Recommend for Certification, to the Operations 
+Training Officer. 
+
+--- PAGE 73 ---
+Auxiliary Training Handbook– Boat Crew 
+Enclosure (2) 
+ 
+ 
+1 
+ENCLOSURE (2) 
+Underway Currency Maintenance / Recertification Check ride:  
+COXSWAIN 
+NOTE  
+ 
+Reference 
+a. 
+Auxiliary Boat Crew Qualification Handbook – ABQH 16794.52 (series) 
+b. 
+Boat Crew Handbook – Boat Operations, BCH16114.1 (series)  
+c. 
+Boat Crew Handbook – Rescue and Survival Procedures, BCH 16114.2 (series) 
+d. 
+Boat Crew Handbook – Navigation and Piloting, BCH16114.3 (series)  
+e. 
+Boat Crew Handbook – Seamanship Fundamentals, BCH16114.4 (series) 
+f. 
+Boat Crew Handbook – First Aid, BCH 16114.5 (series) 
+g. 
+Auxiliary Operations Policy Manual, COMDTINST M16798.3 (series) 
+h. 
+District Standard Operating Procedures, Policy Manuals, and other local Instructions 
+Conditions 
+Performed triennially while underway on an Auxiliary Facility in calm sea conditions.  Member 
+must accomplish task without prompting or use of a reference. 
+Standards 
+In response to the QE and being overseen by the Coxswain, the trainee must answer questions 
+on, and perform the below listed evolutions, for the Coxswain position. 
+(Note 1): For candidate’s wanting to be “Night Certified” Performance Criteria  #9 and #17 
+must be part of the check ride conducted at night 
+Performance Criteria 
+Completed 
+(Initials) 
+1. 
+Ensure TASK BCM-02-02-AUX: Personal Physical Fitness and Vision in reference (a) has been 
+completed and/or updated every three years. 
+___________ 
+2. 
+Conducted a pre-underway check off and confirmed the facility was within its stated operational limitations 
+to perform the assigned mission. 
+___________ 
+3. 
+Conducted a pre-underway brief.  Assessed crewmembers physical capabilities to perform mission, 
+discussed safety issues, such as: 
+a. 
+Wearing of jewelry. 
+b. 
+Risk Management/TCT. 
+c. 
+Effective Communication. 
+ 
+ 
+___________ 
+4. 
+Ensured use of proper PPE. 
+___________ 
+5. 
+Demonstrate proficiency in knot tying and line handling. 
+a. 
+Bowline 
+b. 
+Clove Hitch 
+c. 
+Sheet bend 
+d. 
+Round Turn and Half Hitch 
+ 
+ 
+___________ 
+ 
+ 
+The QE may add tasks to the performance criteria if he/she feels it necessary to evaluate a 
+trainee’s readiness for recertification. The addition of any tasks will be reported to 
+Commandant (CG-BSX-12) via the Director of Auxiliary for possible inclusion in future 
+revisions of the program. 
+
+--- PAGE 74 ---
+Auxiliary Training Handbook – Boat Crew 
+Enclosure (2) 
+ 
+ 
+2 
+6. 
+Efficiently and safely handled the facility and communicated effectively with the crew while getting 
+underway. 
+___________ 
+7. 
+Gave proper commands to the helm watch, used navigational charts, aids to navigation, and installed 
+electronic navigation gear. 
+___________ 
+8. 
+Assigned lookout watch(es) and verified the safety of the facility based on the reports made by lookout. 
+___________ 
+9. 
+(Note 1) Responded to a Man-Overboard drill, and safely recovered a simulated PIW. 
+Day:________ 
+Night:_______ 
+10. Demonstrated proficiency and safety during a stern tow, including: 
+a. 
+Making preparations for taking a vessel in tow. 
+b. 
+Communication with crewmembers. 
+c. 
+Towing approach and station keeping. 
+d. 
+Proper speed and towline considered. 
+e. 
+Safety of and communications with personnel on towed boat. 
+ 
+ 
+ 
+___________ 
+11. Demonstrated proficiency and safety during an alongside tow. 
+___________ 
+12. Safely moored a disabled vessel in tow to a float or a pier. 
+___________ 
+13. Correctly plotted and ran three legs of a search pattern designated by the QE. 
+___________ 
+14. Demonstrated proficiency while anchoring and weighing anchor. 
+___________ 
+15. Operated boat IAW Navigation Rules and Regulations. 
+___________ 
+16. Correctly plotted and labeled navigational charts or electroic navigation sytem during a three leg course run 
+given by the QE.  Some or all of the following were demonstrated, as needed, during the run: 
+a. 
+Correctly converted from true to compass course. 
+b. 
+Speed, Time, and Distance computed. 
+c. 
+ETA computed within a reasonable time. 
+d. 
+Set and Drift calculated to correct course and speed. 
+e. 
+Fixes taken and properly labeled to verify facility’s position. 
+ 
+ 
+ 
+___________ 
+17. (Note 1) Perform a Navigation and Piloting Exercise TASK COXN-09-04-AUX. 
+Day:________ 
+Night:_______ 
+18. Kept the controlling unit informed of mission operations and conducted scheduled Position and Ops Normal 
+Reports. 
+___________ 
+19. Efficiently and safely moored the boat. 
+___________ 
+20. Satisfactorily answered QEs questions on policies and procedures.  Questions are limited to knowledge 
+required by the qualification guide tasks, (e.g. engine casualties, SAR organization and responsibilities, 
+MSAP, salvage policy, patrol commander’s duties). 
+ 
+___________ 
+21. Discussed and demonstrated knowledge of filling out and processing required reports. 
+___________ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 75 ---
+Auxiliary Training Handbook– Boat Crew 
+Enclosure (2) 
+ 
+ 
+3 
+Accomplished: 
+ 
+ 
+ 
+Qualification Examiner’s 
+Signature: 
+ 
+Date 
+ 
+Qualification Examiner’s 
+Signature: 
+ 
+Date 
+ 
+NOTE  
+ 
+ 
+ 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Comments should be made in detail.  Tasks that were not performed to standards require 
+specific comments addressing what the deficiencies were and why, and what corrective 
+action must be taken to be successful at the next check ride.  Each QE should initial on 
+the line by the task that was successfully accomplished during the check ride they 
+evaluated and then sign on the “Signature” and “Date” line.  A copy of this task sheet 
+should accompany the letter for Recommend for Certification, to the Operations Training 
+Officer. 
+
+--- PAGE 76 ---
+Auxiliary Training Handbook– Boat Crew 
+Enclosure (3) 
+ 
+ 
+1 
+ENCLOSURE (3)  
+Underway Currency Maintenance / Recertification Check ride:  
+PWC OPERATOR 
+NOTE  
+ 
+Reference 
+a. 
+Auxiliary Boat Crew Qualification Handbook – ABQH 16794.52 (series) 
+b. 
+Boat Crew Handbook – Boat Operations, BCH16114.1 (series)  
+c. 
+Boat Crew Handbook - Rescue and Survival Procedures, BCH 16114.2 (series) 
+d. 
+Boat Crew Handbook – Navigation and Piloting, BCH16114.3 (series)  
+e. 
+Boat Crew Handbook – Seamanship Fundamentals, BCH16114.4 (series) 
+f. 
+Boat Crew Handbook – First Aid, BCH 16114.5 (series) 
+g. 
+Auxiliary Training Handbook – Boat Crew, 16794.51 (series) 
+h. 
+Auxiliary Operations Policy Manual, COMDTINST M16798.3 (series) 
+i. 
+District Standard Operating Procedures, Policy Manuals, and other local Instructions 
+Conditions 
+Performed triennially while underway on an Auxiliary PWC Facility in calm sea conditions.  
+Member must accomplish task without prompting or use of a reference. 
+Standards 
+In response to the QE, the trainee must answer questions on, and perform the below listed 
+evolutions, for the PWC Operator position. 
+Performance Criteria 
+Completed 
+(Initials) 
+1. 
+Ensure TASK BCM-02-02-AUX: Personal Physical Fitness and Vision in reference (a) has been 
+completed and/or updated every three years. 
+___________ 
+2. 
+Conducted a pre-underway check off and confirmed the facility was within its stated operational limitations 
+to perform the assigned mission. 
+___________ 
+3. 
+Conducted a pre-underway brief.  Assessed crewmembers physical capabilities to perform mission, 
+discussed safety issues, such as: 
+d. 
+Wearing of jewelry. 
+e. 
+Risk Management/TCT. 
+f. 
+Effective Communication. 
+ 
+___________ 
+4. 
+Ensured use of proper PPE. 
+___________ 
+5. 
+Efficiently and safely handled the PWC and communicated effectively with the tandem facility while 
+getting underway 
+___________ 
+6. 
+Demonstrated ability to remount PWC in deep water. 
+___________ 
+7. 
+Demonstrated ability to complete five buoy slalom course. 
+___________ 
+8. 
+Responded to and safely recovered a Person In the Water (PIW). 
+___________ 
+9. 
+Demonstrated proficiency and safety during a stern tow, including: 
+a. 
+Making preparations for taking another PWC in tow. 
+b. 
+Safety of and communications with personnel on towed PWC. 
+ 
+___________ 
+The QE may add tasks to the performance criteria if he/she feels it necessary to evaluate a 
+trainee’s readiness for recertification.  The addition of any tasks will be reported to 
+Commandant (CG-BSX-12) via the Director of Auxiliary for possible inclusion in future 
+revisions of the program. 
+
+--- PAGE 77 ---
+Auxiliary Training Handbook – Boat Crew 
+Enclosure (3) 
+ 
+ 
+2 
+10. Kept the controlling unit informed of mission operations and conducted scheduled Position and Ops Normal 
+Reports. 
+___________ 
+11. Operated boat IAW Navigation Rules and Regulations. 
+___________ 
+12. Efficiently and safely moored the PWC. 
+___________ 
+13. Satisfactorily answered QEs questions on policies, procedures and requirements practiced by an Auxiliary 
+PWC Operator.  Questions are limited to knowledge required by the qualification guide tasks (e.g. engine 
+casualties, SAR organization and responsibilities, MSAP, and salvage policy). 
+ 
+___________ 
+14. Discussed and demonstrated knowledge of filling out and processing required reports. 
+__________ 
+ 
+Accomplished: 
+ 
+ 
+ 
+Qualification Examiner’s 
+Signature: 
+ 
+Date 
+ 
+Qualification Examiner’s 
+Signature: 
+ 
+Date 
+ 
+NOTE  
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Comments should be made in detail.  Tasks that were not performed to standards require 
+specific comments addressing what the deficiencies were and why, and what corrective 
+action must be taken to be successful at the next check ride.  Each QE should initial on 
+the line by the task that was successfully accomplished during the check ride they 
+evaluated and then sign on the “Signature” and “Date” line.  A copy of this task sheet 
+should accompany the letter for Recommend for Certification, to the Operations Training 
+Officer. 
+
+--- PAGE 78 ---
+ Auxiliary Training Handbook – Boat Crew 
+Enclosure (4) 
+ 
+ 
+1 
+ENCLOSURE (4) 
+Annual Currency Maintenance Task Tracker, Crewmember 
+Task Currency Calendar Year: 
+ 
+Member Unit Number: 
+ 
+Member Name: 
+ 
+Member ID: 
+ 
+For each Task completed, record the following information in the corresponding Task section below: 
+• 
+The AUXDATA II Patrol # during which the Task was completed (example: PO-123456). 
+• 
+The date of the Patrol during which the Task was completed. 
+• 
+The initials of the person authorized to sign off on the Task. 
+NOTE: Crewmembers who choose to maintain nighttime certification shall complete all day and night currency 
+Tasks listed in the Task Sections below. 
+Task Section: (BCM) ANNUAL DAY TASKS 
+Task: 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+Perform a Navigation and Piloting Exercise / TASK BCM-08-02-AUX 
+ 
+ 
+ 
+Man Overboard 
+ 
+ 
+ 
+Assist the Coxswain with a Pre-Check off of an Auxiliary Facility 
+ 
+ 
+ 
+Towing Astern 
+ 
+ 
+ 
+Towing Alongside 
+ 
+ 
+ 
+Boat Handling 
+ 
+ 
+ 
+Assist in anchoring and weighing the Boat’s Anchor 
+ 
+ 
+ 
+Demonstrate proficiency in knot tying and line handling 
+ 
+ 
+ 
+Demonstrate procedures to be followed in the event of a fire 
+ 
+ 
+ 
+Demonstrate procedures to be followed in the event of a grounding or 
+striking of a submerged object 
+ 
+ 
+ 
+Task Section: (BCM) ANNUAL NIGHT TASKS 
+Task 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+Perform a Navigation and Piloting Exercise / TASK BCM-08-02-AUX 
+ 
+ 
+ 
+Man Overboard 
+ 
+ 
+ 
+Task Section: (BCM) ANNUAL NIGHT U/W HOURS 
+Note: This cumulative time may be split across multiple patrols. Record each patrol until you reach 2 hours. 
+Sunset Start Time 
+Sunrise Start Time 
+Time U/W at night in 
+HH:MM 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When all Task Sections are completed as necessary, members shall submit this form to the FSO-IS to be recorded. 
+
+--- PAGE 79 ---
+Auxiliary Training Handbook – Boat Crew 
+Enclosure (4) 
+ 
+ 
+2 
+Member ID: 
+ 
+Task Currency Calendar Year: 
+ 
+Persons authorized to sign off on Tasks completed shall record their name, signature, and initials in the table below. 
+Sign Off Name 
+Sign Off Signature 
+Sign Off 
+Initials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ROLLUP TASK NAMES IN AUXDATA II 
+The Annual Currency Maintenance Tasks shall be recorded in AUXDATA II as the rollup Tasks listed below, 
+acknowledging all Tasks within a requirement section are complete: 
+• 
+(BCM) ANNUAL DAY TASKS 
+• 
+(BCM) ANNUAL NIGHT TASKS 
+• 
+(BCM) ANNUAL NIGHT U/W HOURS 
+ROLLUP TASK DATES IN AUXDATA II 
+When all Annual Currency Maintenance Tasks within a requirement section are completed within the designated Task 
+Currency Calendar Year, the Task completion date for the rollup Task shall be recorded in AUXDATA II as the latest 
+date listed in the corresponding requirement section. 
+If one or more Currency Maintenance Tasks are completed for a requirement section after the designated Task 
+Currency Calendar Year, the Task completion date for the rollup Task shall be recorded in AUXDATA II as December 
+31st of the Task Currency Calendar Year listed on this form regardless of the latest date listed in the corresponding 
+requirement section. Example: 
+• 
+Task Currency Calendar Year = 2023 
+• 
+One or more Tasks are completed during Calendar Year 2023, but the final Task for a requirement section 
+is completed on 5/25/2024. 
+• 
+The completion date to be recorded for the rollup Task = 12/31/2023 
+FAILS TO MEET ANNUAL CURRENCY REQUIREMENTS (ATH 16794.51 Ch. 4, Section C)   
+When a member fails to meet annual currency requirements, their certification will lapse, and they will be placed in 
+Required Yearly Requirement (REYR) status. A member whose certification has lapsed may participate as a 
+designated trainee on an ordered patrol. A member who fails to meet annual currency requirements for the year shall 
+make up the missing hours and/or currency maintenance tasks (listed in the Task Sections on Page 1) as a trainee, 
+under the supervision of a certified coxswain the following calendar year.   
+Coxswain shall document completion of all missing hours and/or annual currency requirements utilizing the Task 
+Sections on Page 1. Upon completion of the missing task or hours, this may serve as the formal letter from the FC to 
+the OTO documenting completion.  
+1. The member has completed the missing requirement and (2) request that the member be re-instated. 
+Position: 
+Name: (print) 
+Signature: 
+Date: 
+Trainee: 
+ 
+ 
+ 
+Coxswain: 
+ 
+ 
+ 
+FC 
+ 
+ 
+ 
+OTO: 
+ 
+ 
+ 
+Members should keep a copy of the form for their records 
+
+--- PAGE 80 ---
+ Auxiliary Training Handbook – Boat Crew 
+Enclosure (5) 
+ 
+ 
+1 
+ENCLOSURE (5) 
+Annual Currency Maintenance Task Tracker, Coxswain 
+Task Currency Calendar Year: 
+ 
+Member Unit Number: 
+ 
+Member Name: 
+ 
+Member ID: 
+ 
+For each Task completed, record the following information in the corresponding Task section below: 
+• 
+The AUXDATA II Patrol # during which the Task was completed (example: PO-123456). 
+• 
+The date of the Patrol during which the Task was completed. 
+• 
+The initials of the person authorized to sign off on the Task. 
+NOTE: Coxswains who choose to maintain nighttime certification shall complete all day and night currency Tasks 
+listed in the Task Sections below. 
+Task Section: (COX) ANNUAL DAY TASKS 
+Task: 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+Perform a Navigation and Piloting Exercise / TASK COXN-09-04-AUX 
+ 
+ 
+ 
+Man Overboard 
+ 
+ 
+ 
+Towing Astern 
+ 
+ 
+ 
+Towing Alongside 
+ 
+ 
+ 
+Moor a Disabled Vessel to a Pier or float 
+ 
+ 
+ 
+Anchoring and weigh the boat’s anchor 
+ 
+ 
+ 
+Plot and Execute three legs of one of the following Search Patterns  
+(PS, CS, or TSR) 
+ 
+ 
+ 
+Conduct a Pre-Underway Check-off of the Boat 
+ 
+ 
+ 
+Moor to a Pier  
+ 
+ 
+ 
+Demonstrate procedures to be followed in the event of a fire 
+ 
+ 
+ 
+Demonstrate procedures to be followed in the event of a grounding or 
+striking of a submerged object 
+ 
+ 
+ 
+Task Section: (COX) ANNUAL NIGHT TASKS 
+Task 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+Perform a Navigation and Piloting Exercise / TASK COXN-09-04-AUX 
+ 
+ 
+ 
+Man Overboard 
+ 
+ 
+ 
+Task Section: (COX) ANNUAL NIGHT U/W HOURS 
+Note: This cumulative time may be split across multiple patrols. Record each patrol until you reach 2 hours. 
+Sunset Start Time 
+Sunrise Start Time 
+Time U/W at night in 
+HH:MM 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When all Task Sections are completed as necessary, members shall submit this form to the FSO-IS to be recorded. 
+
+--- PAGE 81 ---
+Auxiliary Training Handbook – Boat Crew 
+Enclosure (5) 
+ 
+ 
+2 
+Member ID: 
+ 
+Task Currency Calendar Year: 
+ 
+Persons authorized to sign off on Tasks completed shall record their name, signature, and initials in the table below. 
+Sign Off Name 
+Sign Off Signature 
+Sign Off 
+Initials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ROLLUP TASK NAMES IN AUXDATA II 
+The Annual Currency Maintenance Tasks shall be recorded in AUXDATA II as the rollup Tasks listed below, 
+acknowledging all Tasks within a requirement section are complete: 
+• 
+(COX) ANNUAL DAY TASKS 
+• 
+(COX) ANNUAL NIGHT TASKS 
+• 
+(COX) ANNUAL NIGHT U/W HOURS 
+ROLLUP TASK DATES IN AUXDATA II 
+When all Annual Currency Maintenance Tasks within a requirement section are completed within the designated Task 
+Currency Calendar Year, the Task completion date for the rollup Task shall be recorded in AUXDATA II as the latest 
+date listed in the corresponding requirement section. 
+If one or more Currency Maintenance Tasks are completed for a requirement section after the designated Task 
+Currency Calendar Year, the Task completion date for the rollup Task shall be recorded in AUXDATA II as December 
+31st of the Task Currency Calendar Year listed on this form regardless of the latest date listed in the corresponding 
+requirement section. Example: 
+• 
+Task Currency Calendar Year = 2023 
+• 
+One or more Tasks are completed during Calendar Year 2023, but the final Task for a requirement section 
+is completed on 5/25/2024. 
+• 
+The completion date to be recorded for the rollup Task = 12/31/2023 
+FAILS TO MEET ANNUAL CURRENCY REQUIREMENTS (ATH 16794.51 Ch. 4, Section C)   
+When a member fails to meet annual currency requirements, their certification will lapse, and they will be placed in 
+Required Yearly Requirement (REYR) status. A member whose certification has lapsed may participate as a 
+designated trainee on an ordered patrol. A member who fails to meet annual currency requirements for the year shall 
+make up the missing hours and/or currency maintenance tasks (listed in the Task Sections on Page 1) as a trainee, 
+under the supervision of a certified coxswain the following calendar year.   
+Coxswain shall document completion of all missing hours and/or annual currency requirements utilizing the Task 
+Sections on Page 1. Upon completion of the missing task or hours, this may serve as the formal letter from the FC to 
+the OTO documenting completion.  
+1. The member has completed the missing requirement and (2) request that the member be re-instated. 
+Position: 
+Name: (print) 
+Signature: 
+Date: 
+Trainee: 
+ 
+ 
+ 
+Coxswain: 
+ 
+ 
+ 
+FC 
+ 
+ 
+ 
+OTO: 
+ 
+ 
+ 
+Members should keep a copy of the form for their records.
+
+--- PAGE 82 ---
+ Auxiliary Training Handbook – Boat Crew 
+Enclosure (6) 
+ 
+ 
+1 
+ENCLOSURE (6) 
+Annual Currency Maintenance Task Tracker, PWC Operator 
+Task Currency Calendar Year: 
+ 
+Member Unit Number: 
+ 
+Member Name: 
+ 
+Member ID: 
+ 
+For each Task completed, record the following information in the corresponding Task section below: 
+• 
+The AUXDATA II Patrol # during which the Task was completed (example: PO-123456). 
+• 
+The date of the Patrol during which the Task was completed. 
+• 
+The initials of the person authorized to sign off on the Task. 
+Task Section: (PWC) ANNUAL TASKS 
+Task: 
+Patrol # 
+Date 
+Sign Off 
+Initials 
+Conduct a Pre-Underway Check of a PWC 
+ 
+ 
+ 
+Man Overboard 
+ 
+ 
+ 
+Moor PWC to a pier 
+ 
+ 
+ 
+Tow another PWC Astern 
+ 
+ 
+ 
+Demonstrate procedures to be followed in the event of a fire 
+ 
+ 
+ 
+Demonstrate procedures to be followed in the event of a grounding or   
+striking of a submerged object. 
+ 
+ 
+ 
+When all Task Sections are completed as necessary, members shall submit this form to the FSO-IS to be recorded. 
+Persons authorized to sign off on Tasks completed shall record their name, signature, and initials in the table below. 
+Sign Off Name 
+Sign Off Signature 
+Sign Off 
+Initials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 83 ---
+Auxiliary Training Handbook – Boat Crew 
+Enclosure (6) 
+ 
+ 
+2 
+Member ID: 
+ 
+Task Currency Calendar Year: 
+ 
+ROLLUP TASK NAMES IN AUXDATA II 
+The Annual Currency Maintenance Tasks shall be recorded in AUXDATA II as the rollup Tasks listed below, 
+acknowledging all Tasks within a requirement section are complete: 
+• 
+(PWC) ANNUAL TASKS 
+ROLLUP TASK DATES IN AUXDATA II 
+When all Annual Currency Maintenance Tasks within a requirement section are completed within the designated Task 
+Currency Calendar Year, the Task completion date for the rollup Task shall be recorded in AUXDATA II as the latest 
+date listed in the corresponding requirement section. 
+If one or more Currency Maintenance Tasks are completed for a requirement section after the designated Task 
+Currency Calendar Year, the Task completion date for the rollup Task shall be recorded in AUXDATA II as December 
+31st of the Task Currency Calendar Year listed on this form regardless of the latest date listed in the corresponding 
+requirement section. Example: 
+• 
+Task Currency Calendar Year = 2023 
+• 
+One or more Tasks are completed during Calendar Year 2023, but the final Task for a requirement section 
+is completed on 5/25/2024. 
+• 
+The completion date to be recorded for the rollup Task = 12/31/2023 
+FAILS TO MEET ANNUAL CURRENCY REQUIREMENTS (ATH 16794.51 Ch. 4, Section C)   
+When a member fails to meet annual currency requirements, their certification will lapse, and they will be placed in 
+Required Yearly Requirement (REYR) status. A member whose certification has lapsed may participate as a 
+designated trainee on an ordered patrol. A member who fails to meet annual currency requirements for the year shall 
+make up the missing hours and/or currency maintenance tasks (listed in the Task Sections on Page 1) as a trainee, 
+under the supervision of a certified PWC Operator and /or Coxswain the following calendar year.   
+PWC Operator and/or Coxswain shall document completion of all missing hours and/or annual currency requirements 
+utilizing the Task Sections on Page 1. Upon completion of the missing task or hours, this may serve as the formal 
+letter from the FC to the OTO documenting completion.  
+1. The member has completed the missing requirement and (2) request that the member be re-instated. 
+Position: 
+Name: (print) 
+Signature: 
+Date: 
+Trainee: 
+ 
+ 
+ 
+PWC Operator: 
+ 
+ 
+ 
+FC 
+ 
+ 
+ 
+OTO: 
+ 
+ 
+ 
+Members should keep a copy of the form for their records.
+
+--- PAGE 84 ---
+ Auxiliary Training Handbook – Boat Crew 
+Appendix A 
+ 
+ 
+A-1 
+  
+Auxiliary Surface Operations Program Concept of Operations 
+(CONOP) 
+Introduction 
+This appendix discusses the Auxiliary Surface Operations Program Concept of 
+Operations. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+General 
+A-1 
+Missions 
+A-2 
+ 
+A.1. General 
+The Auxiliary Surface Operations Program enlists a group of dedicated 
+volunteers and their vessels to promote boating safety, extend the Coast 
+Guard’s maritime domain awareness, and provide search and rescue 
+capability to the citizens of the United States and its territories.  The 
+Auxiliary’s surface operation fleet provides a visible Coast Guard 
+presence in the nation’s ports, coastal areas and other waterways.  By 
+virtue of their training and qualification, this force stands ready to 
+respond providing a surge capacity for the US Coast Guard. 
+Auxiliary multi mission patrols are conducted aboard vessels accepted 
+for use and equipped to conduct the mission profile.  Vessels of all sorts, 
+including power, sail and personal watercraft, can be Auxiliary 
+platforms. Auxiliary members train to rigorous standards, patterned after 
+the Coast Guard’s own boat qualification program.  
+Assignment to duty to conduct multi-mission patrols is made by the order 
+issuing authority based on Coast Guard need and the availability of a 
+suitable Auxiliary platform.  All mission assignment by the Coast Guard 
+and mission acceptance by the Auxiliary coxswain should be governed 
+by the principles of risk assessment and operational risk management. 
+The CG Auxiliary’s Surface Operations program provides a ready 
+resource to assist the Coast Guard in ensuring the safety of America’s 
+waterways by maintaining vigilance, increasing maritime domain 
+awareness and assisting the recreational boating public. 
+ 
+ 
+
+--- PAGE 85 ---
+Auxiliary Training Handbook – Boat Crew 
+Appendix A 
+ 
+ 
+A-2 
+A.2. Missions 
+Maritime Safety – Promote safe boating, provide search and rescue 
+response and render assistance in the marine environment.  
+Maritime Observation – Record information about ships, facilities, and 
+critical infrastructure as directed by cognizant Coast Guard authority, 
+identify hazards or potential hazards on the water, and report any 
+discrepancy to the Coast Guard. 
+Aids to Navigation/Chart Updating – Verify aids to navigation, report 
+discrepancies, support Coast Guard ATON efforts and verify the 
+accuracy and completeness of information found in charts and other 
+navigation publications. 
+Ice Reconnaissance – Observe and report ice conditions. 
+Bridge Administration – Support and augment bridge surveys, 
+investigate and provide information regarding waterways safety and 
+navigation situations pertaining to the bridge program.   
+Waterways Management – Assist in Coast Guard waterways 
+management responsibilities by providing platforms and personnel for 
+Coast Guard and other agencies and providing input/information into the 
+Waterways Management System (WAMS) analysis process. 
+Marine Environmental Protection – Support to Coast Guard units by 
+assisting in pollution response, conducting marine environmental 
+missions, and providing educational and community outreach programs.  
+In addition to the missions listed above, Auxiliary surface facilities 
+participate in regatta patrols, augment Coast Guard safety zones, and 
+respond to search and rescue call out, in addition, provide stand-by 
+search and rescue crews.  
+Coast Guard Auxiliary facilities cannot be used in direct law 
+enforcement activities or in military operations.  Auxiliary members 
+should not be placed in imminent danger or situations where law 
+enforcement activities are planned or deemed likely. 
+
+--- PAGE 86 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix B 
+ 
+ 
+B-1 
+  
+U. S. Coast Guard Auxiliary Boat Crew Program Qualification 
+Letter 
+From: _____________________________________________  
+Date: _______________________                          
+ 
+  
+ 
+(Print QE Name)   
+To:  Operations Training Officer, District: _________________  
+Via: _______________________________________________  Area: ______________________  
+  
+  
+  
+(Print AQEC)  
+Subject: TASK COMPLETION (Circle one) CREW / COXSWAIN / PWC OPERATOR  
+ 
+Member completed Nighttime certification requirements (Circle one): YES/NO   
+  
+___________________________  
+__________________        
+____________________  
+   
+(Print Member’s Name)  
+(Member’s 7 digit Number)        (Division & Flotilla)  
+___________________________________________________  ____________________________  
+  
+  
+  
+(QE’s Signature)  
+  
+  
+  
+ (Date Completed)  
+ 
+FIRST ENDORSEMENT  
+  
+  
+  
+  
+  
+  
+  
+  
+Date: ___________________  
+  
+__________________________________________________  Area: ______________________ 
+ 
+ 
+ 
+ 
+(Print AQEC)    
+  
+  
+  
+  
+(Area)  
+  
+To Operations Training Officer, ______________  
+  
+Forwarded for certification and entry into AUXDATA II.   A check of my records indicates all tasks for 
+this qualification have been completed.  
+  
+__________________________________________________  
+  
+  
+  
+(AQEC’s Signature)  
+  
+  
+  
+  
+ 
+SECOND ENDORSEMENT  
+  
+  
+  
+  
+  
+  
+  
+  
+Date: _________________ 
+From Operations Training Officer, _________________   
+  
+  
+  
+  
+To: 
+ 
+  
+(Member’s Name)  
+I approved and certified as a CREW / COXSWAIN / PWC Operator in the USCG Auxiliary Boat Crew  
+Program.  
+  
+  
+  
+(Circle one)  
+  
+  
+  
+ 
+Member certified night in AUXDATA II (Circle one): YES/NO 
+  
+___________________________________________________ (OTO’s Signature) 
+ 
+Copy:   Member’s file
+
+--- PAGE 87 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix C 
+ 
+ 
+C-1 
+  
+Letter of Certification 
+ 
+Commander  
+United States Coast Guard 
+Coast Guard District______ 
+ 
+ 
+Street Address 
+City, St. Zip Code 
+Phone: (XXX) XXX-XXXX 
+Email: 
+BQH 16794.53A 
+dd Mmm yyyy 
+ 
+MEMORANDUM 
+ 
+From: B. A. Director 
+CGD __________(dpa)  
+ 
+To: 
+Name of Member 
+Subj: 
+CERTIFICATION AS CREW/COXSWAIN/PWC OPERATOR 
+ 
+Ref: 
+(a) Auxiliary Boat Crew Qualification Handbook, ABQH 16794.52 (series) 
+ 
+1. Congratulations!  Having completed all qualification requirements in accordance with 
+reference (a), you are hereby certified to perform the duties of (__) Crewmember, (__) 
+Coxswain, (__) PWC Operator aboard Coast Guard Auxiliary boat facilities. 
+2. To ensure your capability to perform the duties that may be encountered while under orders, 
+you are required to maintain the ability, mobility, and endurance to safely perform all standard 
+qualifying tasks as trained for each certified position.  If at any time you are unable to perform 
+these duties or recommended by a physician not to perform these duties or physical equivalent of 
+these duties for any reason, either temporary or permanently, you must notify this office. 
+3. This letter will start the annual and third-year currency maintenance cycle beginning  
+01 January ________. 
+                      ( year)  
+
+--- PAGE 88 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix D 
+ 
+ 
+D-1 
+  
+Qualification Examiner Appointment Letter 
+Commander  
+United States Coast Guard 
+Coast Guard District______ 
+ 
+ 
+Street Address 
+City, St. Zip Code 
+Phone: (XXX) XXX-XXXX 
+Email: 
+BQH 16794.53A 
+dd Mmm yyyy 
+ 
+MEMORANDUM 
+ 
+From: B. A. Director 
+CGD __________(dpa)  
+ 
+To: 
+Name of Member 
+Subj: 
+APPOINTMENT AS QUALIFICATION EXAMINER (QE) 
+ 
+Ref: 
+(a) Auxiliary Boat Crew Qualification Handbook, ABQH 16794.52 (series) 
+ 
+1. Congratulations!  Having completed all qualification requirements in accordance with 
+reference (a), you are hereby appointed a Qualification Examiner in the __________Coast Guard 
+District. 
+2. To ensure your capability to perform the duties that may be encountered while under orders, 
+you are required to maintain the ability, mobility, and endurance to safely perform all standard 
+qualifying tasks as trained for each certified position.  As a Qualification Examiner (QE) you are 
+charged with the responsibility to professionally and accurately evaluate trainees based on their 
+ability to safely complete the qualifying tasks required, in the manner prescribed in the 
+appropriate qualification guide(s) without bias for any reason.  If at any time you are unable to 
+perform these duties, or recommended by a physician not to perform these duties or the physical 
+equivalent of these duties for any reason, either temporary or permanently, you must notify this 
+office. 
+3. You will be scheduled for QE missions by ______________________________.  Prior to getting 
+underway in any Auxiliary surface facility, you must verify that the Order Issuing Authority has issued 
+appropriate orders. 
+4. Your appointment as a Qualification Examiner is effective as of the date of this letter and 
+will remain in effect for ________ years unless rescinded by this office or higher authority. 
+# 
+Copy:   District ________ Commodore 
+
+--- PAGE 89 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix E 
+ 
+ 
+E-1 
+  
+Third Year Currency Maintenance 
+DATE: ______________  
+  
+Member Name: _______________________________________   Member Number: ______________  
+Dist: ________   Div: __________   Flotilla:___________  
+Ref: (a) Auxiliary Training Handbook – Boat Crew, ATH 16794.51 (series)  
+Verification of required underway hours/annual currency maintenance TASK and Navigation Rules 
+testing must be completed by the FSO-IS prior to requesting a Qualification Examiner (QE).  QE is to 
+submit the completed form and appropriate enclosure to the OTO for review/approval and entry into 
+AUXDATA II.  
+The above-named Auxiliarist has demonstrated in my presence that they are physically and 
+mentally capable of performing the currency maintenance requirements as marked below. 
+COXSWAIN  
+ 
+Current Nav-Rules Test ________________  
+                                        (Date Completed) 
+Not in REYR for Underway Hours/Annual Currency Maintenance TASK _______________________ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+     FSO-IS Signature 
+Enclosure (1) of Ref (a) _________________    _________________________    __________________________ 
+                                            Month / Year  
+              Q.E. Print Name                              Q.E. Signature 
+ 
+CREW  
+Not in REYR for Underway Hours/Annual Currency Maintenance TASK _______________________  
+                                                     FSO-IS Signature 
+Enclosure (2) of Ref (a) _________________    _________________________    __________________________ 
+                                            Month / Year  
+              Q.E. Print Name                               Q.E. Signature 
+ 
+PWC OPERATOR  
+ 
+Current Nav-Rules Test ________________ 
+                                        (Date Completed) 
+Not in REYR for Underway Hours/Annual Currency Maintenance TASK _______________________ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+FSO-IS Signature  
+Enclosure (1) of Ref (a) _________________    _____________________    __________________________ 
+                                            Month / Year  
+              Q.E. Print Name                         Q.E. Signature 
+ 
+Reviewed / Approved ____________________________________________     __________  
+ AUXDATA II ______________  
+ 
+                            OTO Signature                                           Date                                          Entered                 
+
+--- PAGE 90 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix F 
+ 
+ 
+F-1 
+  
+QE Request Form 
+From: __________________________________________________________________  
+  
+  
+  
+  (FC/FSO-MT)  
+To: ____________________________________________________________________  
+  
+  
+  
+ (Area/Chief QE Coordinator)  
+AQEC Phone No.: _______________________________________  
+Area: _________________________  Date: ___________________  
+I am requesting a QE for the following purposes (Check all that apply):  
+TASK 
+  
+TASK  
+ 
+Nav Rules Testing 
+ 
+Operational Excellence 
+ 
+Coxswain Oral 
+ 
+Coxswain Underway 
+ 
+Crew Oral 
+ 
+Crew Underway 
+ 
+PWC Oral 
+ 
+PWC Underway 
+ 
+Third Year Crew 
+ 
+Third Year Coxswain 
+ 
+Third Year PWC 
+ 
+Night Underway 
+(COX, BCM) 
+ 
+The requested time and date is: ___________________________________________________ 
+Alternate time and date: 
+Requesting Division/flotilla: ____________              Number of candidates: ___________  
+Please list candidate names, Auxiliary Member Number, and Division/Flotilla below:  
+NAME  
+MEMBER #  
+DIV / 
+FLTA  
+E-MAIL 
+PHONE # 
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+The Record of completed tasks displays mentor signatures and dates for each task. The candidate has 
+completed all reading assignments and exercises. Candidate’s name and mentor signature and date appear 
+on each task as required. Candidate possesses proof of completion of special tasks (Nav-Rules, RM/TCT, 
+etc.) Candidate has been trained to the standards set forth in the appropriate publication. FSO-IS has 
+verified that member is not in REYR for underway hours/annual currency maintenance TASK.  
+ 
+______________________________________                             ____________ 
+(NAME OF PERSON REQUEST)                                                                              (DATE)
+
+--- PAGE 91 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix G 
+ 
+ 
+G-1 
+ 
+  
+QE Application Form 
+NAME   
+   
+   
+   
+   
+   
+   
+ADDRESS  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Member Number:  
+   
+   
+   
+   
+   
+   
+Home PH:  
+   
+   
+   
+   
+   
+   
+Work.PH:  
+   
+   
+   
+   
+   
+   
+Cell. PH:  
+   
+   
+   
+   
+   
+   
+e-mail  
+   
+   
+   
+   
+   
+   
+ 
+District.:     
+Division.: 
+   
+Flotilla.:  
+   
+   
+ 
+ 
+ 
+EXPERIENCE(YEARS)  
+ 
+ 
+MBR  
+CRW  
+COX  
+PWC  
+IT  
+Watch 
+Stander  
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+OPERATIONAL HOURS  
+ 
+ 
+  
+Last Year 
+2 Years 
+Ago  
+3 Years 
+Ago  
+4 Years 
+Ago  
+5 Years 
+Ago  
+YEAR OF 
+LAST 
+TCT 
+COX  
+   
+   
+   
+   
+   
+ 
+CREW  
+   
+   
+   
+   
+   
+ 
+PWC  
+   
+   
+   
+   
+   
+ 
+IT  
+   
+   
+   
+   
+   
+ 
+W/S  
+   
+   
+   
+   
+   
+ 
+
+--- PAGE 92 ---
+Auxiliary Training Handbook – Boat Crew 
+Appendix G 
+ 
+ 
+G-2 
+ 
+ 
+ 
+YEAR QUALIFIED  
+ 
+ 
+AUXOP  
+AUXCOM  
+AUXPAT  
+AUXSAR  
+AUXSEA  
+AUXNAV  
+AUXWEA  
+   
+   
+   
+   
+   
+   
+   
+ 
+AUX.  
+OFFICES  
+HELD  
+   
+   
+   
+   
+   
+   
+ 
+OTHER  
+JOBS  
+& SKILLS  
+   
+   
+   
+    
+By signing below the applicant acknowledges the time 
+commitment required to be a QE 
+ 
+APPLICANT'S SIGNATURE  
+DATE  
+  
+   
+ 
+  REVIEWING SIGNATURES  
+ 
+DATE 
+APPROVED  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+DCO  
+  
+ 
+YES/NO  
+ACQE  
+  
+ 
+YES/NO  
+BCAB/CQE  
+  
+  
+YES/NO  
+ 
+Please attach a page explaining why you want to be a Boat Crew Program Qualification 
+Examiner (QE).
+
+--- PAGE 93 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix H 
+ 
+ 
+H-1 
+  
+Qualification Examiner In Training (QE-IT) 
+_________________________________________________________________            __________________  
+  
+  
+  
+(QE-IT NAME)    
+  
+  
+  
+      (QE-IT AUX MEMBER NO.) 
+ 
+1. You must contact your AQEC for instructions; they will instruct you on how you will be 
+notified to participate on QE sessions, assignments of your mentors, and what will be expected 
+of you while you are assigned on each QE-IT training session. 
+2. Initially you will participate in two evaluation sessions, one Dockside Oral Exam and an 
+Underway Check Ride.   An assigned QE Mentor will evaluate you on your seamanship 
+knowledge and people skills.   You must receive a favorable evaluation of these initial sessions 
+in order to continue with the QE-IT Program. 
+Dockside session: __________________  
+____________________________________  
+  
+                  
+DATE  
+  
+ 
+ 
+                        QE MENTOR SIGNATURE  
+  
+  
+Underway session: _________________  
+____________________________________  
+  
+  
+  
+  DATE    
+  
+ 
+                 
+QE MENTOR SIGNATURE 
+  
+3. You must participate in two (2) Dockside signoff sessions with a QE: 
+Session #1 (Crew): _________________  
+____________________________________  
+ 
+  
+  
+DATE 
+ 
+ 
+ 
+  
+              QE SIGNATURE  
+  
+  
+Session #2 (Cox): __________________  
+____________________________________  
+ 
+ 
+  
+  DATE    
+  
+ 
+ 
+ 
+QE SIGNATURE  
+4. You must participate in two (2) underway check ride sessions with a QE: 
+Session #1 (Crew): _________________  
+____________________________________  
+ 
+  
+  
+DATE 
+ 
+ 
+ 
+  
+              QE SIGNATURE  
+  
+  
+Session #2 (Cox): __________________  
+____________________________________  
+ 
+ 
+  
+  DATE    
+  
+ 
+ 
+ 
+QE SIGNATURE  
+5. You must plan and coordinate one of the above underway QE sessions.   You will establish 
+initial contact with the qualifying member, schedule the sign-off session, and you will evaluate 
+each performed task and provide your recommendation to your QE Mentor. 
+________________ 
+  
+____________________________________  
+           DATE  
+ 
+ 
+ 
+ 
+ 
+  
+              QE SIGNATURE  
+
+--- PAGE 94 ---
+Auxiliary Training Handbook – Boat Crew 
+Appendix H 
+ 
+ 
+H-2 
+6. You must participate in one (1) sign-off session. 
+________________ 
+  
+____________________________________  
+           DATE  
+ 
+ 
+ 
+ 
+ 
+  
+              QE SIGNATURE  
+7. You must successfully complete and submit a complete set of all forms. 
+________________ 
+  
+____________________________________  
+           DATE  
+ 
+ 
+ 
+ 
+ 
+  
+              QE SIGNATURE  
+8. You must successfully complete and submit a candidate completion letter. 
+________________ 
+  
+____________________________________  
+           DATE  
+ 
+ 
+ 
+ 
+ 
+  
+              QE SIGNATURE 
+
+--- PAGE 95 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix I 
+ 
+ 
+I-1 
+  
+Glossary 
+Introduction 
+This appendix contains a list of terms that may be useful when reading 
+this Manual. 
+In this Section 
+This section contains the following information: 
+Title 
+Page 
+Glossary 
+I-2 
+ 
+ 
+ 
+
+--- PAGE 96 ---
+Auxiliary Training Handbook – Boat Crew 
+Appendix I 
+ 
+ 
+I-2 
+TERM 
+DEFINITION 
+AOR 
+Area of responsibility.  Refers to a geographic area in which a Coast 
+Guard commander is responsible for carrying out missions. 
+AUXDATA II  
+Auxiliary Data Information System.  The national membership, 
+qualification, and mission performance database. 
+Boat Crew 
+Includes the Coxswain, Boat Crewmembers, and all other personnel 
+required on board a boat acting in an official capacity. 
+Boat Crew 
+Program 
+A general term referring to the overall program of training, qualifying, 
+and certifying members in any boat crew position: crewmember, 
+coxswain, or PWC operator. 
+Certification 
+Formal command verification that an individual has met all requirements 
+and is authorized to perform the boat crew duties at a specific level aboard 
+an Auxiliary Facility. 
+COMDTINST 
+Commandant Instruction.  A directive issued by the Commandant to 
+establish policies and procedures.   
+Commander 
+A Coast Guard officer in command of a Coast Guard unit.  As used in this 
+handbook, refers to any Coast Guard Unit Commander, Commanding 
+Officer, or Officer in Charge. 
+Concept of 
+Operations 
+A fundamental or underlying procedural or philosophical statement of 
+how a mission is accomplished or how an objective reached; how means 
+are used to achieve ends.  Also referred to as a CONOP. 
+Controlling 
+Authority 
+A public safety agency that assumes the communications guard for a 
+facility on patrol.  This term is used in locations not covered by the active-
+duty command and control system. 
+Coxswain 
+The person in charge of a boat, responsible for the safety and conduct of 
+the crew and passengers and the completion of the assigned mission. 
+Crewmember 
+A person embarked in a boat to assist with boat handling and carrying out 
+the assigned tasks of the mission. 
+Currency 
+Requirements 
+Tasks which are required to be repeated a certain number of times at 
+regular intervals to maintain currency. 
+Director 
+Director of Auxiliary.  An officer assigned to a district commander's staff, 
+responsible for directing and managing Auxiliary programs in the 
+Auxiliary district or region.  Also referred to as DIRAUX. 
+
+--- PAGE 97 ---
+Auxiliary Training Handbook– Boat Crew 
+Appendix I 
+ 
+ 
+I-3 
+TERM 
+DEFINITION 
+Facility 
+A boat, aircraft, or radio station owned by an Auxiliary member or unit 
+and Appendix A of reference (b). Offered for use by the Coast Guard. 
+Mentor 
+An Auxiliary member who partners with a boat crew program trainee to 
+assist and coach the development of the trainee's knowledge and skills.  
+Operational 
+Commander 
+For the purpose of this Handbook, Operational Commanders are defined 
+as those who exercise direct operational control of a Boat Force units and 
+Coast Guard Auxiliary units within their geographic area of operations. 
+Operational commanders can issue orders and maintain overall guidance 
+of operational policy over assets in their area of operations. 
+Operational 
+Control (OPCON) 
+Those functions involving the composition of subordinate forces, the 
+assignment of tasks, the designation of objectives, & the authoritative 
+direction necessary to accomplish the mission. It does not include such 
+functions as administration, discipline, internal organization, and unit 
+training, except when a subordinate commander requests assistance. 
+Operations 
+Training Officer 
+(OTO) 
+A member assigned to the Director's staff to coordinate and support the 
+boat crew training program in that district or region.  Support includes 
+serving as a trainer. Normally the rank of Chief Warrant Officer (W-2 
+through W-4). 
+Operational 
+Workshop 
+An Operational Workshop is published annually as a Commandant 
+Notice to address pertinent Auxiliary operational safety topics and 
+contain a mandatory Team Coordination Training (TCT)/Risk 
+Management annual refresher.  The workshop normally requires that all 
+certified Auxiliary crewmembers, coxswains and PWC Operators attend 
+the workshop, however, the workshop Notice may require other 
+operational members to attend.  Any member attending the workshop 
+must ensure their attendance is documented in AUXDATA II.  
+Order Issuing 
+Authority (OIA) 
+Active-duty unit commanders authorized to issue operational orders.  
+Unit commanders and directors may designate certain civil service, active 
+duty and District level Auxiliary officers to issue orders on their behalf. 
+Patrol 
+The movement of an Auxiliary operational vessel facility, on 
+reimbursable or non-reimbursable orders, to carry out an assigned 
+mission. 
+Proficiency 
+Status of a crew currency. 
+PWC 
+Personal watercraft (PWC) is a vessel less than 16 feet in length which is 
+designed to be operated by a person or persons sitting, standing, or 
+
+--- PAGE 98 ---
+Auxiliary Training Handbook – Boat Crew 
+Appendix I 
+ 
+ 
+I-4 
+TERM 
+DEFINITION 
+kneeling on, rather than within the confines of a hull, normally propelled 
+and steered by a directional water jet apparatus. 
+Qualification 
+The satisfactory completion of the appropriate qualification tasks. 
+Qualification 
+Examiner (QE) 
+A certified Auxiliary, active duty, or reserve coxswain appointed by the 
+Director to verify that trainees can perform qualification tasks to specified 
+standards. 
+Risk Management 
+A continuous, systematic process of identifying and controlling risks in 
+all activities according to a set of preconceived parameters by applying 
+appropriate management policies and procedures.  This process includes 
+detecting hazards, assessing risks, and implementing and monitoring risk 
+controls to support effective, risk-based decision-making. 
+Station 
+A Station is a shore facility with a designated OPFAC, Command Cadre, 
+permanently assigned duty-standards, unit boat allowance and 
+equipment. 
+Task 
+A separate training step learned in order to perform a particular job skill. 
+Task Code 
+A four-element code used to identify the applicability of tasks listed in 
+the Auxiliary Boat Crew Qualification Guide. 
+Team 
+Coordination 
+A set of leadership, communication and decision-making skills intended 
+to coordinate the actions of individuals making up a team, such as a boat 
+crew, in order to more safely and effectively carry out a mission.  Often 
+referred to as team coordination training, or TCT. 
+Trainee 
+An Auxiliary member in the boat crew training program as a candidate 
+for qualification. 
+Triennial 
+Taking place every three years. 
+Type 
+The type of boat for which a particular qualification task applies.  All 
+Auxiliary facilities are designated "AUX." 
+Vessel Facility 
+A boat owned by an Auxiliary member or Auxiliary unit and offered for 
+use on patrols.  It must meet certain equipment standards and be inspected 
+annually.  In some cases, boats owned by corporations may also be 
+accepted as facilities. (See Section 1.D of reference (b) for guidance on 
+corporate ownership.) 
+ 
+

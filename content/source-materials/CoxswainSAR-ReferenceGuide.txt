@@ -1,0 +1,713 @@
+# CoxswainSAR-ReferenceGuide.pdf
+# Pages: 10
+# Source: USCG Sea School training materials
+
+--- PAGE 1 ---
+20 
+Small Boat Capacities 
+Boat 
+Speed 
+RPM’s 
+Fuel Used 
+Range 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+______________________________________________________ 
+ 
+Acknowledgement: 
+Many thanks for the reintroduction of this guide by Mr. Jim 
+Emery, USCG Auxiliary (D5-North, Flotilla 74) and Mr. Jim Shea, 
+USCG Auxiliary (D7, Flotilla 69). Working with their partners and 
+SAR School, the Coxswain SAR Guide was updated and 
+brought out of retirement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Guide for Boat Coxswains
+01 October 2006 
+1st Edition: Updated Time/Speed/Distance Table Jan 07 
+PROVIDED BY:  
+ 
+ 
+ 
+ 
+ 
+ 
+Search and Rescue 
+
+--- PAGE 2 ---
+Table of Contents 
+Introduction ....................................................................................3 
+Risk Management..........................................................................4 
+Briefing...........................................................................................5 
+En Route........................................................................................5 
+On Scene.......................................................................................6 
+First SRU On Scene ......................................................................7 
+Speed / Time table in Minute : Seconds....................................... 8 
+Search Patterns .............................................................................9 
+Trackline, Single Unit, Return (TSR).....................................10 
+Parallel, Single Unit (PS).......................................................11 
+Creeping Line, Single Unit (CS)............................................12 
+Sector, Single Unit (VS) ........................................................13 
+Expanding Square, Single Unit (SS).....................................14 
+Sightings and Identification..........................................................15 
+Completing the Mission ...............................................................15 
+Rescue Planning ...................................................................16 
+Debriefing the Survivors........................................................18 
+Handling Private Property .....................................................19 
+Towing...................................................................................19 
+Small Boat Capacities..................................................................20 
+References: 
+COMDTINST M5000.3B UNITED STATES COAST GUARD 
+REGULATIONS 1992 
+COMDTINST M16114.5C BOAT CREW SEAMANSHIP MANUAL 
+COMDTINST M16114.32A U.S. COAST GUARD BOAT 
+OPERATIONS AND TRAINING (BOAT) MANUAL, VOLUME I 
+COMDTINST M16114.33 U.S. COAST GUARD BOAT 
+OPERATIONS AND TRAINING (BOAT) MANUAL, VOLUME II 
+COMDTINST M16130.2D U.S. COAST GUARD ADDENDUM TO 
+THE UNITED STATES NATIONAL SEARCH AND RESCUE 
+SUPPLEMENT (NSS) TO THE INTERNATIONAL AERONAUTICAL 
+AND MARITIME SEARCH AND RESCUE MANUAL (IAMSAR) 
+19 
+Handling Private Property 
+Private property which becomes the possession of the SAR system 
+should be safeguarded, inventoried, then returned to its rightful 
+owner, and a receipt obtained. 
+Trespassing is an entry without right onto land or property that 
+belongs to another.  Trespassing by SAR personnel is excused or 
+justified if it is necessary to save life or property. 
+Towing 
+When towing any vessel, ensure: 
+• 
+Everyone is wearing a PFD, 
+• 
+You pass all tow lines, 
+• 
+You tend all tow lines, 
+• 
+You have a sharp knife ready, 
+• 
+You tow alongside for only short distances and in calm 
+water, 
+• 
+You adjust the tow so that it rides the second or third wave 
+aft of the towing vessel’s wake.  Heavy boats will require 
+longer tow lines, 
+• 
+You use chafing gear on the tow line, 
+• 
+You occasionally let out a few feet of tow line on extended 
+tows to reduce chaffing from the taff rail or tow bitt in one 
+spot of the tow line. 
+• 
+You use heaving lines, 
+• 
+You avoid sudden bursts of speed, 
+• 
+You slow down gradually, especially on heavy tows, 
+• 
+You avoid placing your vessel in a position where the wind 
+or current will cause you to drift over the tow line, 
+• 
+You avoid passing lines to vessels with too much way on, 
+• 
+You advise the operator of your plans or procedures before 
+taking action, and 
+• 
+You remember haste makes waste.  Think out your moves 
+prior to executing them. 
+
+--- PAGE 3 ---
+18 
+Debrief the Survivors 
+Make sure you’ve accounted for everyone before leaving the scene.  
+If there’s someone missing, question the survivors to see if they can 
+give you any leads to the search.  Have a member of your crew take 
+notes so you’ll be able to recount the incident at a later time.  If the 
+survivors were in the water for any length of time, have them 
+describe in detail their emergency and survival procedures.  This 
+information might be helpful in later SAR cases. 
+Once the survivors are cared for, then and only then can you shift 
+your attention to any property in danger.  Again there are a few 
+things that you must consider before taking action: 
+• 
+Are you in danger of losing the property?  Can the damage 
+be repaired by the crew? 
+• 
+Can the property be towed?  What is the best method of 
+towing for this property, alongside or astern? 
+• 
+If you decide to tow the vessel, maintain communications 
+with the people aboard the boat that you’re towing.  Stay 
+informed of their needs.  They may have needed a tow in the 
+beginning, but after you take them in tow, they may need a 
+pump.  Keep the operator informed of your intentions. 
+Always keep in mind that people are far more important than 
+property.  If a survivor needs medical attention, you must forget 
+about towing and get the victim ashore as quickly and safely as 
+possible.  Keep your station informed of your intentions.  Let them 
+know where you are and where you will moor.  Keep them informed 
+of any changes. 
+After you’ve brought the survivors and the property back safely, then 
+board the boat and complete the procedures prescribed by your 
+station or sector.  Make sure you retrieve all of the gear that you may 
+have loaned the operator.  When all these actions have been 
+completed, the SMC may consider the case closed. 
+3 
+Disclaimer: 
+All information found in this guide is subject to change or 
+update. It is the Coxswain’s responsibility to ensure 
+compliance with the most current guidance and regulations 
+found in the applicable Coast Guard Instruction. This guide is 
+not a substitute for good headwork and situational awareness. 
+The ultimate responsibility for the safety of the passengers 
+and crew rests with the coxswain. 
+ 
+Introduction 
+In accordance with Coast Guard 
+Regulations, COMDTINST M5000.3 
+(series), the coxswain shall be responsible 
+for, in order of precedence: 
+1. The safety and conduct of passengers 
+and crew; 
+2. The safe operation and navigation of the boat assigned; and 
+3. The completion of the sortie or mission(s) assigned or 
+undertaken pursuant to Coast Guard policy and regulations. 
+The SAR Mission Coordinator (SMC) has several tools available to 
+help develop the optimum Search Action Plan (SAP).  Computer 
+based tools along with an extensive search planning protocol help 
+guide the SMC through the planning stage of the case.  Yet, the 
+SMC’s best laid plan, based upon the most accurate datum 
+calculations and using the best resources available, will likely fail to 
+locate and rescue the survivors if the coxswain does not apply the 
+best practices to the case. 
+Although experience is the best teacher, sometimes we don’t have 
+all the experience we need.  This guide has one purpose – to help 
+coxswains conduct the best searches.  The results of the case are in 
+your hands. 
+“The results of the 
+case are in your 
+hands.” 
+
+--- PAGE 4 ---
+4 
+Risk Management 
+In order to understand the risk assessment and management 
+process, it is necessary to define safety.  One definition is “the 
+identification and control of risk.”  Risk management identifies and 
+controls risk, according to a set of predetermined parameters.  It is 
+one tool for maintaining an acceptable level of safety.  The 
+parameters and the acceptable limits vary with the type of operation; 
+rescue operations, buoy tending, ice breaking, law enforcement, etc.  
+Controlling risk means we eliminate or reduce hazards that can lead 
+to mishaps.  Remember, risk management is the responsibility of 
+everyone involved! 
+ 
+The risk assessment and management program assumes: 
+• 
+Every event/evolution has some degree of risk; 
+• 
+All of the risks will never be known; 
+• 
+Every event/evolution requires balancing risk by applying 
+adequate control; and 
+• 
+Resources available to identify and manage risks are limited. 
+ 
+The goal is to control or eliminate all unacceptable risk in each 
+event/evolution.  Follow these steps to manage risk: 
+1. Define The Mission – T.O.W., MEDEVAC, Flare, OVDU, etc. 
+2. Identify Hazards – Use the PEACE model. 
+3. Assess Risks – Use the GAR model. 
+4. Identify Options – Use the STAAR model. 
+5. Evaluate Risk vs. Gain – Never accept high risk for low gain! 
+6. Execute The Mission – Keep evaluating. 
+7. Monitor The Situation – Risk management is a continuous 
+process. 
+Note: Refer to Chapter 1 of the Coast Guard Addendum for a 
+detailed description of the PEACE, GAR, and STAAR models and 
+how to use them.
+17 
+information is provided by Coast Guard Flight Surgeons, but may 
+also be from hospitals contacted by the shipping agent or 
+international organizations such as the International Radio Medical 
+Center (CIRM), located in Rome, Italy. 
+Medical Evacuation (MEDEVAC) – Always think HIGH-RISK when 
+considering a MEDEVAC mission.  A Flight Surgeon must be 
+consulted prior to performing the mission.  The Flight Surgeon may 
+recommend a MEDEVAC.  However, it is not an order.  The final 
+decision on performing a MEDEVAC always rests with you, the 
+coxswain on scene. 
+If you take survivors on your boat, never leave them alone, and 
+ensure they are properly put into a lifejacket.  People who are 
+saved are sometimes panic stricken, thinking irrationally or in a state 
+of shock.  If left alone, survivors might do something that would 
+threaten the safety of your boat, your crew, and their lives.  Make 
+them comfortable and keep a member of your crew with them.  
+Remember to handle all survivors with care.  Rough handling while 
+trying to get them aboard your boat could make a serious injury fatal. 
+Treat all survivors for shock, whether they show the symptoms or 
+not.  This will make them more comfortable.  If any of the survivors 
+have been seriously injured, you should consider a MEDEVAC by 
+helicopter or call to have an ambulance awaiting your arrival. 
+
+--- PAGE 5 ---
+16 
+results of their actions complicated the case.  If, for instance, you 
+feel that a larger SRU is required for towing, or that more pumps are 
+required, or that you will need a medical evacuation, you must tell 
+your station that this is so.  Don’t try to do it all yourself if you feel 
+that you could use some help.  If you feel the case is within your 
+capabilities, then the following information should be considered. 
+Rescue Planning 
+During most cases, the actual rescue of survivors is the easiest part 
+of the mission.  SRU’s are normally able to recover the survivors 
+without any problems.  Sometimes, however, the SRU is unable to 
+perform the rescue themselves, and rescue planning becomes 
+essential.  Examples of when an SRU might not be able to perform 
+the rescue include: 
+• 
+Too many survivors for one SRU to carry; 
+• 
+Weather conditions exceed the capabilities of the SRU; 
+• 
+Locating the survivors by a fixed wing aircraft; and 
+• 
+The distance from shore exceeds the capabilities of the 
+SRU. 
+When the SRU cannot perform the rescue, the SMC must develop 
+an effective rescue plan.  Rescue planning includes the following 
+elements: 
+• 
+Evaluating the survivability of the incident; 
+• 
+Evaluating the environment; 
+• 
+Selecting the rescue method; 
+• 
+Selecting the rescue facilities; and 
+• 
+Developing the optimum and attainable rescue plan. 
+ 
+Chapter 6 of the National SAR Supplement (NSS) provides a 
+detailed discussion on the elements of rescue planning.  Chapter 4 
+of the Coast Guard Addendum to the NSS provides policy on 
+providing distress and non-distress assistance, general salvage 
+(other than towing), firefighting activities and navigational assistance. 
+Medical Communication (MEDICO) – A MEDICO consists of 
+providing emergency medical advice to the crew of a ship at sea.  
+This is normally accomplished by radio or satellite telephone.  
+MEDICO is an international term and can be used with foreign 
+flagged vessels.  Under normal circumstances, the medical 
+5 
+Briefing 
+Whenever possible, the Coxswain should brief the crew of the SRU 
+prior to departing.  However, the urgency of the call may require a 
+briefing while en route.  Before you launch, or while en route, make 
+sure you obtain the following information: 
+1. Nature of distress; 
+2. Last known position; 
+3. Description of the search object; 
+4. Number of people on board (or involved); 
+5. Specific tasking from the SMC; and 
+6. On scene and forecast weather. 
+Gather as much information as possible before launching, so you’ll 
+be sure to select the right resources and bring any additional 
+equipment needed, such as a dewatering pump, stokes liter, hand-
+held radio, extra life jackets, etc. 
+En Route 
+Preparations – SRU Crewmembers should make every effort to 
+prepare for the search prior to arrival in the search area.  
+Preparations include briefing and assigning lookouts and 
+establishing a relief/rotation schedule if appropriate.  Charts of the 
+area should be prepared for use, with the search area boundaries, 
+search pattern, and turning points plotted.  Homing, monitoring, and 
+on scene radio frequencies should be tuned.  Depending upon the 
+resource used and the weather conditions, equipment necessary to 
+perform the rescue should also be prepared for immediate use. 
+Searching En Route – There is always a possibility that the search 
+object is outside the assigned search area, therefore, searching 
+while en route to the assigned search area is one way the SRU can 
+increase the search area size.  By posting lookouts while en route to 
+and from the search area, effective trackline searching can be 
+accomplished and the results should be passed to SMC through the 
+On Scene Coordinator (OSC). 
+
+--- PAGE 6 ---
+6 
+Checking In – Check in with the SMC or OSC 15-minutes before 
+arriving on scene to report your status and limitations, and to obtain 
+a search update or any additional instructions/tasking. 
+On Scene 
+Datum Marker Buoy (DMB) – When necessary, the SMC will instruct 
+one of the SRU’s to deploy a DMB to measure Total Water Current 
+(TWC).  If tasked to deploy a DMB, make sure you record and report 
+the time and position where it was inserted, the beacon frequency for 
+a radio DMB, or the serial number for a Self-Locating DMB.  You will 
+typically use a fender or life ring with a strobe light as your DMB. 
+Search Action Plan (SAP) – You should make every effort to follow 
+the SAP.  When the SAP needs to be modified, report the problem to 
+the SMC along with recommendations to 
+correct the problem.  Situations requiring a 
+SAP to be modified include hazards to 
+navigation in the search area; insufficient 
+water depth; inappropriate track spacing 
+based upon prevailing weather conditions; 
+and the position of the sun in relation to the 
+lookouts.  Anytime the SAP doesn’t make 
+sense on scene, report it to the SMC along with your 
+recommendations. 
+Search Pattern Summary – You may be tasked with completing a 
+search using a search pattern summary printed from the SAR Tools 
+software.  Like the SAP, if the search pattern doesn’t make sense on 
+scene, report it to the SMC along with your recommendations. 
+Reporting The Weather – On scene weather affects both sweep 
+width and track spacing.  You should report on scene weather to the 
+SMC as you start your search and report any weather changes as 
+your search progresses. 
+Navigation – Make every effort to remain on track during your 
+search.  Subsequent searches assume you searched as planned. 
+Visual Distress Signals (VDS) – A distressed vessel has a limited 
+number of VDS’s, if any at all, and experienced mariners usually do 
+not activate these signals until they actually see or hear an SRU.  
+You should consider the use of audible signals such as an air horn 
+or whistle when searching to encourage the distressed vessel to use 
+its VDS’s while the SRU is in the area.  Pyrotechnic devices may be 
+used to make the SRU’s presence known to the distressed vessel.  
+However, any signal used, whether visual or audible, must not be 
+mistaken by other SRU’s as a distress signal. 
+“Follow the SAP 
+or recommend 
+changes to the 
+SMC.” 
+15 
+Sightings and Identification 
+While searching, you may encounter objects that need to be 
+investigated.  If you need to divert and leave the search pattern, do 
+so only after recording or marking the position and progress in the 
+search pattern to which you are assigned.  Once sighting 
+identification is complete, and the results are negative, return to the 
+position recorded and continue the search.  Notify SMC how much 
+time is spent evaluating sightings. 
+Completing the Mission 
+The SAR System is activated in the awareness stage, upon first 
+notification of an actual or potential SAR incident.  The report may 
+come directly from the distress party, a third party, or from an 
+electronic signal, such as an Emergency Position Indicating Radio 
+Beacon (EPIRIB). 
+The SAR System is deactivated or shut down under one of the 
+following situations: 
+• 
+Case Closed – The distressed person or craft is located and 
+necessary assistance is rendered; 
+• 
+False Alarm – The person or craft reported to be in distress 
+has been determined not to be in distress and does not need 
+further assistance; and 
+• 
+Active Search Suspended (ACTSUS) – Suspending the 
+search after exhausting all possible hope for locating 
+survivors with the information known. 
+In many cases, only the SAR Coordinator (SC) is authorized to 
+suspend a search.  However, depending upon the type of case, the 
+SMC might have the authority.  Consult your District SAR Plan for 
+further guidance. 
+For the purpose of this guide, let’s say you find the search object.  
+What are the most important things you must do?  The single most 
+important thing is to notify your station, the OSC and other SRU’s 
+that you’ve found the search object and the position where you found 
+it. 
+ 
+Once you’ve found the search object and reported it, stop for a 
+moment and think the case through.  A very important question at 
+this time is – can you, with the personnel and equipment that you 
+have with you, complete this mission successfully?  On a number of 
+cases, coxswains have thought they could but actually couldn’t.  The 
+
+--- PAGE 7 ---
+14 
+Expanding Square, Single Unit (SS) 
+Designation: Sierra Sierra (SS) 
+Used when 
+• 
+The search area is small, 
+• 
+The location of the search object is known within relatively close 
+limits, but some doubt exists about the distress position, and 
+• 
+A concentrated search is desired. 
+Description: 
+The SRU goes to the best known location of the search object.  This 
+becomes the center (datum) of the search area.  Datum should be 
+marked with a buoy, life ring, strobe light, etc.  The first leg will begin 
+from datum in the direction of drift for one track space (S).  If there is 
+no drift, the first leg will be true north, 000°T; the second leg is 
+090°T, the next is 180°T and so on.  All course changes are 90° to 
+the right.  Search leg length is increased by one track space on 
+every other leg.  Multiply your track space (S) by the numbers shown 
+in the search pattern below to determine leg length.  A second 
+search is performed by rotating the search pattern 45° to the right. 
+ 
+7 
+Aural Searches – Surface SRU’s should make every effort to reduce 
+background noises, and occasionally stop the engines to permit faint 
+calls for help to be heard.  If possible, lookouts should be posted 
+away from the engines and radios. 
+Reports – Situation Reports (SITREP’s) (normally over the radio) 
+should be sent to the SMC upon arrival on scene and whenever 
+important information needs to be passed. 
+Lookouts – Effective scanning by lookouts, is accomplished with a 
+series of short, regularly space eye movements that bring 
+successive areas of the water into the central visual field.  Each 
+movement should not exceed 10 degrees.  Each area should be 
+observed for at least two seconds, plus time to refocus if necessary. 
+First SRU On Scene 
+Without specific tasking from the SMC, you should report on scene 
+weather conditions to the SMC and prepare for your initial search.  
+Refer to the following table for initial track spacing: 
+Initial Track Spacing (NM) 
+Search Object 
+Good Conditions
+Winds < 15 Knots 
+Seas < 3 Feet 
+Poor Conditions 
+Winds ≥ 15 Knots 
+Seas ≥ 3 Feet 
+PIW 
+0.1 
+0.1 
+Vessels < 15 Feet 
+0.5 
+0.2 
+Vessels ≥ 15 Feet 
+1.0 
+0.5 
+
+--- PAGE 8 ---
+8 
+Timing Chart: 
+This chart shows the time required to run each of the first two legs of 
+an Expanding Square (SS) search pattern and each leg of a Sector 
+Search (VS) at different speeds according to the initial track spacing. 
+To calculate the time required to complete one sector search (VS), 
+multiply the leg time by nine. 
+Speed / Time Table in Minutes : Seconds 
+ 
+Track 
+Spacing 
+6 
+Kts 
+7 
+Kts 
+8 
+Kts 
+9 
+Kts 
+10 
+Kts 
+11 
+Kts 
+12 
+Kts 
+0.1 
+01:00 00:51 
+00:45 
+00:40 00:36
+00:33
+00:30
+0.2 
+02:00 01:43 
+01:30 
+01:20 01:12
+01:05
+01:00
+0.3 
+03:00 02:34 
+02:15 
+02:00 01:48
+01:38
+01:30
+0.4 
+04:00 03:26 
+03:00 
+02:40 02:24
+02:11
+02:00
+0.5 
+05:00 04:17 
+03:45 
+03:20 03:00
+02:44
+02:30
+0.6 
+06:00 05:09 
+04:30 
+04:00 03:36
+03:16
+03:00
+0.7 
+07:00 06:00 
+05:15 
+04:40 04:12
+03:49
+03:30
+0.8 
+08:00 06:51 
+06:00 
+05:20 04:48
+04:22
+04:00
+0.9 
+09:00 07:43 
+06:45 
+06:00 05:24
+04:55
+04:30
+1.0 
+10:00 08:34 
+07:30 
+06:40 06:00
+05:27
+05:00
+13 
+Sector, Single Unit (VS) 
+Designation: Victor Sierra 
+Used when: 
+• 
+The search area is small, 
+• 
+The location of the search object is well known, and 
+• 
+A concentrated search is desired. 
+Description: 
+The SRU goes to the best known location of the search object.  This 
+becomes the center (datum) of the search area.  Datum should be 
+marked with a buoy, life ring, strobe light, etc.  The first leg will begin 
+from datum in the direction of drift for one track space (S).  If there is 
+no drift, the first leg will be true north, 000°T, the second leg is 
+120°T, the next is 240°T and so on.  On the 3rd, 6th, and 9th legs, 
+steer on your marker, once passed, return to your base course.  All 
+course changes are 120° to the right and the length of all legs are 
+equal to one S.  A second search (with the same SRU – VS) is 
+performed by rotating the search pattern 30° to the right beginning at 
+datum.  A second search (with a second SRU – VM) is performed by 
+rotating the search pattern 90° to the left beginning at datum. 
+ 
+
+--- PAGE 9 ---
+12 
+Creeping Line, Single Unit (CS) 
+Designation: Charlie Sierra 
+Used when: 
+• 
+The search area is large, 
+• 
+The location of the search object is approximate, but there is 
+a greater chance that the search object is at one end of the 
+search area versus the other (i.e. debris was found on one 
+end during a previous search), and 
+• 
+Uniform coverage is desired. 
+Description: 
+The SRU searches parallel to the short side (minor axis) of the 
+search area, moving over one track on the return.  This process 
+continues until the entire search area has been searched or the 
+search object is located.  The Commence Search Point (CSP) is 
+located ½ track space (S) inside the search area in the specified 
+corner. 
+ 
+ 
+9 
+Search Patterns 
+Each search pattern has a specific use.  Some are better suited for 
+small, confined areas, while others are better suited to larger areas.  
+Regardless of the type of search pattern selected, as a coxswain, 
+you are expected to understand the SMC’s SAP and be able to 
+complete the assigned search.  Once the SMC determines the 
+search area, a systematic search for the object must be planned.  
+The SMC will consider weather, search area size, search object size, 
+numbers of SRU’s available, search area location, and time 
+limitations in deciding which pattern to use. 
+Search patterns are designated by letters.  The first letter indicates 
+the general pattern group: 
+T = Trackline 
+P = Parallel 
+C = Creeping Line 
+V = Sector 
+S = Square 
+The second letter indicates the number of SRU’s assigned to that 
+pattern: 
+S = Single Unit 
+M = Multi-unit 
+The third letter indicates specialized patterns or instructions; the two 
+most commonly used are: 
+R = Return 
+N = Non-return 
+
+--- PAGE 10 ---
+10 
+Trackline, Single Unit, Return (TSR) 
+Designation: Tango Sierra Romeo 
+Used when: 
+• 
+The intended route of the search object is known, and 
+• 
+A rapid and reasonably thorough coverage of the missing craft’s 
+intended track and the area immediately adjacent, such as along 
+a datum line (intended track corrected for drift) is desired. 
+Description: 
+Usually the first search effort in an overdue case since it’s assumed 
+that the search object is near track and either it will be easily seen or 
+the survivors will signal.  The SRU searches out ½ track space (S) in 
+the direction of the intended track from the origin to the destination 
+and ends ½ S on the other side of the origin. 
+ 
+ 
+11 
+Parallel, Single Unit (PS) 
+Designation: Papa Sierra 
+Used when: 
+• 
+The search area is large, 
+• 
+The location of the search object is approximate, and 
+• 
+Uniform coverage is desired. 
+Description: 
+The SRU searches parallel to the long side (major axis) of the 
+search area, moving over one track on the return.  This process 
+continues until the entire search area has been searched or the 
+search object is located.  The Commence Search Point (CSP) is 
+located ½ track space (S) inside the search area in the specified 
+corner. 
+ 
+ 
+
