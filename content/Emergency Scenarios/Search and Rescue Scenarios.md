@@ -4,6 +4,8 @@ type: moc
 tags: [moc/scenarios]
 created: 2026-06-27
 status: active
+---
+
 # Scenarios
 
 Real rescue situations Beacon is designed for. Each scenario maps current technologies, identifies gaps, and shows Beacon's design response. Coalition footnotes attribute knowledge to contributing organizations.

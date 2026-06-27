@@ -9,6 +9,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # Strobe vs Constant-On
 
 Beacon supports both flashing (SOS pattern) and continuous illumination modes. The choice of mode depends on the search context — different SAR disciplines have different preferences, and the analysis below reflects current USCG, MRA, and IMO doctrine.

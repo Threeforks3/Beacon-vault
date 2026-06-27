@@ -4,6 +4,8 @@ type: moc
 tags: [moc/public, moc/outdoor]
 created: 2026-06-27
 status: active
+---
+
 # Outdoor Enthusiasts
 
 SAR professionals train for rescue. The rest of us train to avoid needing one. But when things go wrong — a capsized kayak, a lost trail, a hunting accident miles from help — the gap between "I need help" and "they can see me" is where outcomes are decided.

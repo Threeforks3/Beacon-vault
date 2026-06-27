@@ -9,6 +9,8 @@ tags:
   - source/mra
 created: 2026-06-27
 status: active
+---
+
 # Paddlecraft Separation
 
 A paddler becomes separated from their craft — capsized in wind, swamped by wake, or ejected in current. The craft blows downwind faster than they can swim. They are now alone in the water with no buoyancy aid beyond their PFD.

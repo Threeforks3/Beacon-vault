@@ -7,6 +7,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # USCG — Boat Crew Operations
 
 **Source:** Boat Crew Handbook — Boat Operations, BCH16114.1. USCG training materials. Chapter 6: Air Operations (Helicopter Rescue), Chapter 2: Boat Crew Duties (Lookout, NVG, Thermal Imaging).

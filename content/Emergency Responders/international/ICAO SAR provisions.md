@@ -7,6 +7,8 @@ tags:
   - source/icao
 created: 2026-06-27
 status: active
+---
+
 # ICAO SAR Provisions
 
 The International Civil Aviation Organization establishes global standards for aeronautical search and rescue. ICAO Annex 12 defines the SAR framework for civil aviation — including alerting, search, and rescue phases. 

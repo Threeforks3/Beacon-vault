@@ -7,6 +7,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # USCG SAR Doctrine
 
 The United States Coast Guard is the primary maritime search and rescue authority in U.S. waters. Their doctrine, equipment standards, and operational patterns directly inform Beacon's design requirements.

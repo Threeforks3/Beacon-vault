@@ -9,6 +9,8 @@ tags:
   - source/aca
 created: 2026-06-27
 status: active
+---
+
 # Coastal Fog Navigation
 
 Thick fog rolls in along a coastline. Vessels — commercial fishing boats, recreational sailboats, kayaks — are navigating by GPS but invisible to each other. A vessel in distress or adrift is a collision hazard and a search challenge.

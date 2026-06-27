@@ -12,6 +12,8 @@ source-pages: "18 pages"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T15:30:00
+---
+
 # MRA Situational Awareness in Mountain Rescue
 
 **Source:** "Situational Awareness in Mountain Rescue" by Charley Shimanski, Mountain Rescue Association, © 2017.

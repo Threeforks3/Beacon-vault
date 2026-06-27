@@ -8,6 +8,8 @@ tags:
   - source/bsa
 created: 2026-06-27
 status: active
+---
+
 # Hunting Accident
 
 A hunter is injured in a remote location — gunshot wound, fall from a tree stand, or medical emergency. They may be alone or with a partner who can't leave them. Cell service is typically absent. The search area is defined by "they were hunting somewhere in this national forest" — thousands of acres.

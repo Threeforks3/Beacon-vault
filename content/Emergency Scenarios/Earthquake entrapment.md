@@ -7,6 +7,8 @@ tags:
   - source/insarag
 created: 2026-06-27
 status: active
+---
+
 # Earthquake Entrapment
 
 A major earthquake strikes an urban area. Buildings collapse. Victims are trapped in rubble — in basements, under collapsed floors, in stairwells. They may be conscious, injured, and unable to move. They can hear rescue teams working nearby but can't call out — or rescuers can't hear them over heavy equipment.

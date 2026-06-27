@@ -12,6 +12,8 @@ tags:
   - source/bsa
 created: 2026-06-27
 status: active
+---
+
 # Wilderness Lost Hiker
 
 A hiker, hunter, or backpacker is off-trail in remote terrain — no cell service, no trail markings, possibly injured. Daylight is fading. SAR has been notified, but the search area spans hundreds of square miles of forest, mountain, or desert.

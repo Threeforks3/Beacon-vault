@@ -9,6 +9,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # Visibility Range
 
 Beacon's white strobe is visible from 2-3+ nautical miles at night from search altitude. The SOS pattern is distinctive — immediately recognizable as a distress signal, not a navigation light or shore marker.

@@ -16,6 +16,8 @@ source-type: "International Standard"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T23:30:00
+---
+
 # COSPAS-SARSAT Handbook of Beacon Regulations (S.007)
 
 **Source:** *Handbook of Beacon Regulations*, C/S S.007, Issue 2, Revision 4, October 2022. International Cospas-Sarsat Programme.

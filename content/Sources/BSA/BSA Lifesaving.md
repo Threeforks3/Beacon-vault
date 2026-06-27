@@ -17,6 +17,8 @@ source-type: "Merit Badge Pamphlet"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T23:30:00
+---
+
 # BSA Lifesaving
 
 **Source:** *Lifesaving*, Scouting America Merit Badge Series, 2026 printing, 96 pages. ISBN 978-0-8395-3297-2.

@@ -7,6 +7,8 @@ tags:
   - source/wms
 created: 2026-06-27
 status: active
+---
+
 # Wilderness Medical Society
 
 The Wilderness Medical Society (WMS) is the leading organization for wilderness medicine — hypothermia, trauma, altitude illness, and prolonged field care in remote settings. WMS publishes practice guidelines used by SAR medics worldwide.

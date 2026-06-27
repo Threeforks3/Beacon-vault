@@ -7,6 +7,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # IR Detection Surfaces
 
 Beacon emits 850nm near-infrared from Vishay TSHG6400 LEDs. The 850nm wavelength was chosen for NVG compatibility, but the detection surface is far larger than aviation night vision. Silicon photodiodes — the foundation of every CCD and CMOS image sensor — are sensitive from roughly 350nm to 1100nm, peaking near 850nm. Beacon sits at their sweet spot.

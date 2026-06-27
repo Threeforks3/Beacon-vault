@@ -9,6 +9,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # Battery Life Targets
 
 Beacon's runtime is physics-governed — 2x AAA cell capacity divided by LED drive current. 26+ hours continuous SOS. Replaceable in seconds.

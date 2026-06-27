@@ -11,6 +11,8 @@ created: 2026-06-27
 status: active
 source: "7 merit badge pamphlets"
 source-organization: "Scouting America"
+---
+
 # Boy Scouts of America (Scouting America)
 
 Scouting America (formerly Boy Scouts of America) is the largest youth outdoor education organization in the United States. Through its merit badge program, it formally trains Scouts in search and rescue, emergency preparedness, first aid, lifesaving, and wilderness survival — skills that directly intersect with SAR operations.

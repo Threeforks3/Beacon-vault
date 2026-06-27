@@ -7,6 +7,8 @@ tags:
   - source/mra
 created: 2026-06-27
 status: active
+---
+
 # Mountain Rescue Association
 
 The Mountain Rescue Association (MRA) is the national organization of volunteer mountain search and rescue teams in the United States. MRA teams conduct the majority of wilderness and high-angle SAR operations in the U.S. Their operational patterns, training standards, and equipment preferences are directly relevant to Beacon's land-scenario design requirements.

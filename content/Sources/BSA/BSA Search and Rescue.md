@@ -19,6 +19,8 @@ source-type: "Merit Badge Pamphlet"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T23:30:00
+---
+
 # BSA Search and Rescue Merit Badge
 
 **Source:** *Search and Rescue*, Scouting America Merit Badge Series, 2026 printing, 100 pages. ISBN 978-0-8395-0014-8.

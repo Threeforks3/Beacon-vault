@@ -12,6 +12,8 @@ tags:
   - source/cap
 created: 2026-06-27
 status: active
+---
+
 # Aircraft Ditching
 
 An aircraft — small private plane, commercial airliner, or military helicopter — makes an emergency water landing. Survivors may be in life rafts, in the water, or clinging to debris. The search area can span dozens of square miles.

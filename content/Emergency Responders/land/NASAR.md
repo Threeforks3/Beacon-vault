@@ -7,6 +7,8 @@ tags:
   - source/nasar
 created: 2026-06-27
 status: active
+---
+
 # NASAR
 
 The National Association for Search and Rescue (NASAR) is the U.S. national organization for SAR education, certification, and advocacy. Unlike MRA (team accreditation), NASAR focuses on individual certification and training standards.

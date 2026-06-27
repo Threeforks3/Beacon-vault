@@ -11,6 +11,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # Swift Water Rescue
 
 Fast-moving water — river, flood channel, dam release — sweeps a victim downstream. They may be pinned against an obstacle, trapped in a hydraulic, or carried faster than they can self-rescue. Shore-based rescue teams must track the victim's position as they move downstream.

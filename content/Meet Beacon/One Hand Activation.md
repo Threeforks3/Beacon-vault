@@ -9,6 +9,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # One-Hand Activation
 
 Beacon uses a single-button press-and-hold interface. Press and hold for 2 seconds to activate. The button is tactile — a raised dome findable by feel in complete darkness, through gloves, with cold or wet hands.

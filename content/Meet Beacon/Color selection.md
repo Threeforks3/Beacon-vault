@@ -9,6 +9,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # Color Selection
 
 Beacon uses white light for visible signaling. No red, no blue, no green. The choice is driven by international signal conventions and SAR operational doctrine.

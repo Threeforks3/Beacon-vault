@@ -11,6 +11,8 @@ source-pages: "37 pages"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T15:30:00
+---
+
 # MRA Helicopters in Search and Rescue
 
 **Source:** "Helicopters in Search and Rescue — Basic Level" by Charley Shimanski and Dr. Charlie Mize, Mountain Rescue Association, Rev. 12 Nov 2021.

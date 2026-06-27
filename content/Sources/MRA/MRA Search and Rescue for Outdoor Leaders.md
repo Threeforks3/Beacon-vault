@@ -9,6 +9,8 @@ source-organization: "Mountain Rescue Association"
 source-author: "Charley Shimanski, MRA President and Education Director"
 source-date: "2008"
 source-pages: "16 pages"
+---
+
 # MRA Search and Rescue for Outdoor Leaders
 
 **Source:** "Search and Rescue for Outdoor Leaders" by Charley Shimanski, Mountain Rescue Association, 2008. Developed for experiential education programs that may be required to respond to SAR emergencies.

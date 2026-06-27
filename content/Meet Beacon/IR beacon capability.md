@@ -8,6 +8,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # IR Beacon Capability
 
 Beacon emits on two channels simultaneously: visible white light for the naked eye, and 850nm near-infrared for electronic sensors. Silicon sees what the eye cannot. The IR signal is detected by night vision goggles, FLIR systems, digital cameras, smartphone sensors, drone cameras, security cameras, digital night scopes, and range finders — essentially every CCD and CMOS sensor fielded today. This turns every electronic eye in the area into a detection surface.

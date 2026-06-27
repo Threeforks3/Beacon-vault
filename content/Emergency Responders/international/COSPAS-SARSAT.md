@@ -7,6 +7,8 @@ tags:
   - source/cospas-sarsat
 created: 2026-06-27
 status: active
+---
+
 # COSPAS-SARSAT
 
 The International Satellite System for Search and Rescue. A satellite network that detects and locates 406 MHz emergency beacons (EPIRBs, ELTs, PLBs). COSPAS-SARSAT is the global standard for satellite-based distress alerting.

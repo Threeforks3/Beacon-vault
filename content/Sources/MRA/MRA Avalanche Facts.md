@@ -8,6 +8,8 @@ source: "avalanchefactsheet.pdf"
 source-organization: "Alpine Rescue Team / Mountain Rescue Association"
 source-date: "Unknown"
 source-page: "1 page"
+---
+
 # MRA Avalanche Facts
 
 **Source:** Alpine Rescue Team — Avalanche Awareness factsheet. Fully accredited MRA member since 1962.

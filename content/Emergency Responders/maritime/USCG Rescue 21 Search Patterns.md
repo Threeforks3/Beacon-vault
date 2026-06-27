@@ -7,6 +7,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # USCG Rescue 21 and Search Patterns
 
 Operational contribution from USCG surface search perspective. Describes the search planning pipeline and where the visual acquisition bottleneck occurs.

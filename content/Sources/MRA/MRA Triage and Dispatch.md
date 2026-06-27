@@ -12,6 +12,8 @@ source-pages: "63 pages"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T15:30:00
+---
+
 # MRA SAR-Related Triage and Dispatch Guidelines
 
 **Source:** "SAR-Related Triage and Dispatch Guidelines for Emergency Managers, Incident Commanders and Communications Personnel" by Tim Kovacs, Mountain Rescue Association, © 2001-2005, last updated December 11, 2009. Approved by MRA Medical Committee and Education Committee, 2004.

@@ -4,6 +4,8 @@ type: permanent-note
 tags: [beacon/identity, beacon/regulatory]
 created: 2026-06-27
 status: evergreen
+---
+
 # Regulatory Strategy
 
 Every electronic device that emits a signal faces a regulatory path. Beacon chose its path deliberately — not by avoiding regulation, but by designing to qualify for exemptions where possible and meeting standards where required.

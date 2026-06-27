@@ -7,6 +7,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # USCG — Coxswain SAR Reference Guide
 
 **Source:** A Guide for Boat Coxswains — Search and Rescue. 1st Edition, October 2006 (Updated January 2007). USCG training materials. Provided by USCG Auxiliary (D5-North, D7).

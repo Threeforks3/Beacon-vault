@@ -7,6 +7,8 @@ tags:
   - source/cap
 created: 2026-06-27
 status: active
+---
+
 # Civil Air Patrol
 
 The Civil Air Patrol (CAP) is the U.S. Air Force auxiliary — a volunteer organization that conducts approximately 85% of inland search and rescue missions in the U.S. CAP operates the largest fleet of single-engine aircraft for SAR in the world.

@@ -12,6 +12,8 @@ tags:
   - source/aca
 created: 2026-06-27
 status: active
+---
+
 # Capsize in Open Water
 
 A small vessel — kayak, canoe, skiff, sailboat — overturns in open water. Crew ends up in the water, possibly separated from the boat. The vessel may be partially submerged and difficult to spot from the air or surface.

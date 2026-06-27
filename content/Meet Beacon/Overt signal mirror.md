@@ -7,6 +7,8 @@ status: active
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T14:00:00
+---
+
 # Overt Signal Mirror
 
 Beacon's mirror is the first signal mirror designed for overt emergency signaling — visible to anyone in the search grid, not targeted at a specific receiver. It inverts 80 years of signal mirror design.

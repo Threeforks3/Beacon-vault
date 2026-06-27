@@ -9,6 +9,8 @@ tags:
   - source/fema
 created: 2026-06-27
 status: active
+---
+
 # Flood Rooftop Rescue
 
 Floodwaters rise rapidly — hurricane storm surge, river overflow, or flash flood. Victims retreat to rooftops, attics, or upper floors. Rescue is by boat or helicopter. Victims must be seen from distance, through rain and spray, by crews scanning dozens of structures.

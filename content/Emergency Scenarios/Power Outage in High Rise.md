@@ -8,6 +8,8 @@ tags:
   - source/nfpa
 created: 2026-06-27
 status: active
+---
+
 # Power Outage in High-Rise
 
 A blackout hits a major city. High-rise buildings lose power — elevators stop, stairwells go dark, emergency lighting runs on battery backup for 90 minutes. Residents who are elderly, disabled, or with young children are trapped on upper floors. First responders are overwhelmed.

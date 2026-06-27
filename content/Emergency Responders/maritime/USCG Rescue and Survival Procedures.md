@@ -7,6 +7,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # USCG — Rescue and Survival Procedures
 
 **Source:** Boat Crew Handbook — Rescue and Survival Procedures, BCH16114.2A, February 2021. USCG training materials.

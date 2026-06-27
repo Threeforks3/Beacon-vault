@@ -11,6 +11,8 @@ tags:
   - source/cap
 created: 2026-06-27
 status: active
+---
+
 # Man Overboard at Night
 
 A person falls from a vessel into dark water. The vessel may not immediately know. They surface alone, drifting, with only what's attached to them.

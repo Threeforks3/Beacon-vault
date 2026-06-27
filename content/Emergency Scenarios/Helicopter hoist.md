@@ -8,6 +8,8 @@ tags:
   - source/uscg-sea-school
 created: 2026-06-27
 status: active
+---
+
 # Helicopter Hoist
 
 A Coast Guard or military helicopter hovers above a victim — in water, on a vessel, or on terrain — and lowers a rescue swimmer or hoist cable. The victim must be visible to the hoist operator, and no equipment can interfere with the cable or create a snag hazard.

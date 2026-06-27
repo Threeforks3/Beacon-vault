@@ -5,6 +5,8 @@ tags: [beacon/identity, moc/beacon]
 created: 2026-06-25
 updated: 2026-06-27
 status: active
+---
+
 # Meet Beacon
 
 Beacon is a methodical answer to a specific problem: in search and rescue, the gap between "someone needs help" and "rescuers can see them" is where people die. Every decision traces to a scenario requirement. Nothing is arbitrary.

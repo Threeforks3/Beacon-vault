@@ -4,6 +4,8 @@ type: moc
 tags: [beacon/contribute]
 created: 2026-06-27
 status: active
+---
+
 # Contribute
 
 This compendium is built on source materials — training manuals, field guides, operational doctrine, incident reports. We've identified what we know exists. We haven't found it all yet. If you have access to any of these materials, we'd welcome the contribution.

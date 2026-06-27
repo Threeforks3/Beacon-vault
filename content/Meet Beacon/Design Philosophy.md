@@ -4,6 +4,8 @@ type: permanent-note
 tags: [beacon/identity, beacon/design-philosophy]
 created: 2026-06-27
 status: evergreen
+---
+
 # Design Philosophy
 
 Beacon was built from first principles — not by looking at what competitors do, but by asking what the problem actually demands.

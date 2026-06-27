@@ -10,6 +10,8 @@ tags:
   - source/recco
 created: 2026-06-27
 status: active
+---
+
 # Avalanche Burial
 
 A backcountry skier, snowboarder, or snowmobiler is caught in an avalanche, carried downhill, and buried under snow. Time to live is measured in minutes. The victim is invisible from the surface.

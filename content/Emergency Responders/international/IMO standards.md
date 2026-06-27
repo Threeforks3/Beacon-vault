@@ -7,6 +7,8 @@ tags:
   - source/imo
 created: 2026-06-27
 status: active
+---
+
 # IMO Standards
 
 The International Maritime Organization sets global standards for maritime safety. IMO regulations relevant to Beacon include the International Code of Signals (recognizes SOS) and SOLAS (Safety of Life at Sea) provisions for visual distress signals.

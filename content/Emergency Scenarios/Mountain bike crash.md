@@ -6,6 +6,8 @@ tags:
   - source/imba
 created: 2026-06-27
 status: active
+---
+
 # Mountain Bike Crash
 
 A mountain biker crashes on remote singletrack — broken collarbone, concussion, or too injured to ride out. No cell service. No one knows which trail they took. They're 10+ miles from the trailhead, possibly off the trail entirely.

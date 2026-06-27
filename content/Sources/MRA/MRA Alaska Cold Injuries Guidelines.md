@@ -12,6 +12,8 @@ source-pages: "53 pages"
 agent-note: true
 agent-model: deepseek-v4-pro
 agent-timestamp: 2026-06-27T15:30:00
+---
+
 # Alaska Cold Injuries Guidelines (2014)
 
 **Source:** "State of Alaska Cold Injuries Guidelines" — developed by an invited expert panel at the Southeast Region EMS Council Conference on Environmental Injuries, Sitka, Alaska. Lead authors: Ken Zafren, MD (State of Alaska Emergency Programs Medical Director) and Gordon Giesbrecht, PhD (Professor of Thermophysiology, University of Manitoba). Panel included USCG Flight Surgeon CDR Leslie Wood, MD.

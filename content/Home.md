@@ -1,9 +1,3 @@
----
-title: "SAR Compendium"
-created: 2026-06-27
-updated: 2026-06-27
----
-
 # Search and Rescue Compendium
 
 > Curated by Beacon.
