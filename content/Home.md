@@ -1,41 +1,57 @@
-# Beacon SAR Knowledge Base
+---
+title: "SAR Compendium"
+created: 2026-06-27
+updated: 2026-06-27
+---
 
-> **Beacon** is a portable emergency signaling device — a compact, waterproof strobe that runs 26+ hours on a single battery. It emits white light visible for 2-3+ nautical miles and infrared visible through night vision. It attaches to PFDs, packs, or any surface via a bar-based architecture with zero moving parts. Search crews can see it. That's the point.
+# Search and Rescue Compendium
 
-A coalition knowledge base for search and rescue signaling. Every scenario page maps current technologies, identifies gaps, and shows how Beacon closes them. Contributions are attributed to their source organizations as footnotes — each partner's voice preserved verbatim.
+> Curated by Beacon.
+> 
+> Search and rescue is built on operational practices, processes, and technologies — things people rely on when lives are at stake. This curated view examines 13 scenarios across water, land, and urban disaster. Each maps what works today, what doesn't, and what's still missing — grounded in real SAR training materials.
+> 
+> The underlying Obsidian vault lets you approach from any direction: by scenario, by organization, by equipment, by source. Everything connects. A USCG coxswain and a mountain rescue volunteer enter through different doors and reach the same body of knowledge. That's by design — SAR isn't one perspective, so this compendium isn't either.
+>
+> Every scenario page maps current technologies, identifies gaps, and preserves coalition partner contributions as attributed footnotes — each voice verbatim.
 
-## Find Your Scenario
+---
+
+### a. Scenarios
 
 **Water**
-- [[Man overboard at night]] — Single person falls from vessel into dark water
-- [[Capsize in open water]] — Vessel overturns, crew adrift
-- [[Aircraft ditching]] — Emergency water landing, life raft survival
-- [[Helicopter hoist]] — Aerial recovery, hoist operator visibility
-- [[Coastal fog navigation]] — Invisible in fog, collision and distress
-- [[Swift water rescue]] — Fast-moving water, tracking a moving victim
+- [[Aircraft ditching|Aircraft Ditching]]
+- [[Capsize in open water|Capsize in Open Water]]
+- [[Coastal fog navigation|Coastal Fog Navigation]]
+- [[Flood rooftop rescue|Flood Rooftop Rescue]]
+- [[Helicopter hoist|Helicopter Hoist]]
+- [[Man overboard at night|Man Overboard at Night]]
+- [[Paddlecraft separation|Paddlecraft Separation]]
+- [[Swift water rescue|Swift Water Rescue]]
 
 **Land**
-- [[Wilderness lost hiker]] — Most common SAR mission. Off-trail, no signal
-- [[Avalanche burial]] — Buried under snow. 15-minute survival window
-- [[Mountain bike crash]] — Remote singletrack, solo, injured
-- [[Hunting accident]] — Camouflaged, remote, silent activation needed
+- [[Avalanche burial|Avalanche Burial]]
+- [[Hunting accident|Hunting Accident]]
+- [[Mountain bike crash|Mountain Bike Crash]]
+- [[Swift water rescue|Swift Water Rescue]]
+- [[Wilderness lost hiker|Wilderness Lost Hiker]]
 
 **Urban / Disaster**
-- [[Earthquake entrapment]] — Trapped in rubble. 72-hour golden window
-- [[Flood rooftop rescue]] — Mass-casualty scanning. Hundreds of rooftops
-- [[Power outage in high-rise]] — Trapped on upper floors. Days without power
+- [[Earthquake entrapment|Earthquake Entrapment]]
+- [[Flood rooftop rescue|Flood Rooftop Rescue]]
+- [[Power Outage in High Rise|Power Outage in High-Rise]]
 
-## Coalition Resources
+### b. Navigate
 
-- [[Emergency Responders]] — Organizations, protocols, and standards
-- [[Beacon]] — Design decisions and tradeoffs
-- [[Regulatory]] — FCC, USCG, UL, and international compliance
-- [[Kickstarter]] — Public-facing campaign materials
+- [[Outdoor Enthusiasts]] — the person who needs to be found
+- [[Meet Beacon]] — the engineering behind the signal
+- [[Emergency Responders]] — SAR organizations, protocols, and training materials
+- [[Search and Rescue Scenarios|All Scenarios]] — 13 rescue situations across water, land, and urban disaster
+- [[Contribute]] — source materials we're looking for, and how to submit them
+
+---
 
 ## Why This Exists
 
-Beacon is not just a strobe. It is a signal designed for specific rescue scenarios, informed by real SAR doctrine, and built to standards that matter. This vault is the evidence base — the intersection where SAR organizations, outdoor educators, outfitters, and emergency responders contribute their expertise to a shared understanding of what it takes to be found.
+This compendium is the evidence base — the intersection where SAR organizations, outdoor educators, outfitters, and emergency responders contribute their expertise to a shared understanding of what it takes to be found. Every footnote is a coalition partner's voice. The empty footnotes are the invitation.
 
-Every footnote is a coalition partner's voice. The empty footnotes are the invitation.
-
-*Maintained by Beacon. Last updated: 2026-06-27.*
+*Curated by Beacon. Last updated: 2026-06-27.*

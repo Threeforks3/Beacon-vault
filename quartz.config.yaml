@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Beacon SAR Knowledge Base"
+  pageTitle: "SAR Compendium"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -116,6 +116,20 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      filterFn: (node) => node.slugSegment !== "Sources"
+      sortFn: |
+        (a, b) => {
+          const order = ["home", "Emergency Scenarios", "Emergency Responders", "Outdoor Enthusiasts", "Meet Beacon"];
+          const ai = order.indexOf(a.displayName || "");
+          const bi = order.indexOf(b.displayName || "");
+          if (ai !== -1 && bi !== -1) return ai - bi;
+          if (ai !== -1) return -1;
+          if (bi !== -1) return 1;
+          if (a.isFolder && !b.isFolder) return -1;
+          if (!a.isFolder && b.isFolder) return 1;
+          return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+        }
     layout:
       position: left
       priority: 50

@@ -1,21 +1,35 @@
 #!/bin/bash
 # Deploy Quartz-built Beacon vault to GitHub Pages
-# Run after: cd /root/beacon-quartz && npx quartz build && cp public/home.html public/index.html
+# Run after: cd /root/beacon-quartz && npx quartz build
+#
+# Post-build steps handled by this script:
+#   1. Rewrite index.html with SAR Compendium title (SPA redirect fix)
+#   2. Remove index.xml if present (RSS conflict)
+#   3. Push to gh-pages
 
 set -e
 cd /root/beacon-quartz/public
 
-# Verify index.html exists
-if [ ! -f index.html ]; then
-  echo "ERROR: index.html missing. Run: cp public/home.html public/index.html"
-  exit 1
-fi
+# Fix page titles: extract from vault frontmatter and patch HTML <title> tags
+python3 /root/beacon-quartz/fix-titles.py
 
-# Verify no index.xml competing
-if [ -f index.xml ]; then
-  echo "ERROR: index.xml present — RSS should be disabled in quartz.config.yaml"
-  exit 1
-fi
+# Rewrite root index.html — Quartz SPA creates a redirect with slug-based title.
+# Bookmark must read "SAR Compendium", not "home".
+cat > index.html << 'EOF'
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>SAR Compendium</title>
+<link rel="canonical" href="./home">
+<meta name="robots" content="noindex">
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=./home">
+</head>
+</html>
+EOF
+
+# Remove RSS index.xml — competes with index.html on gh-pages
+rm -f index.xml
 
 rm -rf .git
 git init -q

@@ -2,7 +2,7 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "Untitled",
+    title: "SAR Compendium",
     description: "No description provided",
   },
   components: {

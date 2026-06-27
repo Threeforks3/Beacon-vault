@@ -43,8 +43,32 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Strip frontmatter from content
+        run: |
+          find content/ -name '*.md' ! -name 'Home.md' -print0 | xargs -0 sed -i '1{/^---$/{:a;n;/^---$/!ba;N;d}}' || true
+
       - name: Build Quartz
         run: npx quartz build
+
+      - name: Fix page titles
+        run: |
+          pip install pyyaml
+          python3 fix-titles.py --public-dir public --vault-dir content --suffix " — SAR Compendium" --home-title "SAR Compendium"
+
+      - name: Write root index.html
+        run: |
+          cat > public/index.html << 'HTMLEOF'
+          <!DOCTYPE html>
+          <html lang="en-us">
+          <head>
+          <title>SAR Compendium</title>
+          <link rel="canonical" href="./home">
+          <meta name="robots" content="noindex">
+          <meta charset="utf-8">
+          <meta http-equiv="refresh" content="0; url=./home">
+          </head>
+          </html>
+          HTMLEOF
 
       - name: Ensure index.html exists
         run: |
