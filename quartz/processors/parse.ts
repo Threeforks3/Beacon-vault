@@ -1,5 +1,6 @@
 import esbuild from "esbuild"
 import remarkParse from "remark-parse"
+import remarkFrontmatter from "remark-frontmatter"
 import remarkRehype from "remark-rehype"
 import { Processor, unified } from "unified"
 import { Root as MDRoot } from "remark-parse/lib"
@@ -25,6 +26,7 @@ export function createMdProcessor(ctx: BuildCtx): QuartzMdProcessor {
     unified()
       // base Markdown -> MD AST
       .use(remarkParse)
+      .use(remarkFrontmatter, ["yaml"])
       // MD AST -> MD AST transforms
       .use(
         transformers.flatMap((plugin) => plugin.markdownPlugins?.(ctx) ?? []),
