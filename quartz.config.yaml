@@ -120,9 +120,9 @@ plugins:
       filterFn: (node) => node.slugSegment !== "Sources"
       sortFn: |
         (a, b) => {
-          const order = ["home", "Emergency Scenarios", "Emergency Responders", "Outdoor Enthusiasts", "Meet Beacon"];
-          const ai = order.indexOf(a.displayName || "");
-          const bi = order.indexOf(b.displayName || "");
+          const order = ["home", "emergency-scenarios", "emergency-responders", "outdoor-enthusiasts", "meet-beacon"];
+          const ai = order.indexOf(a.slugSegment || "");
+          const bi = order.indexOf(b.slugSegment || "");
           if (ai !== -1 && bi !== -1) return ai - bi;
           if (ai !== -1) return -1;
           if (bi !== -1) return 1;
