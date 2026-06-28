@@ -8,6 +8,21 @@
 #   3. Push to gh-pages
 
 set -e
+
+# --- Integrity guard: content/ must mirror vault/ ---
+# Prevents rsync --delete from wiping files that exist only in content/
+ORPHANS=$(comm -13 \
+  <(cd /root/Beacon/sar-knowledge && find . -name '*.md' ! -name 'Home.md' ! -path './.obsidian/*' | sort) \
+  <(cd /root/beacon-quartz/content && find . -name '*.md' ! -name 'Home.md' | sort) \
+  2>/dev/null)
+
+if [ -n "$ORPHANS" ]; then
+  echo "ERROR: content/ has files not in vault. Sync would delete them."
+  echo "$ORPHANS"
+  echo "Save these to vault first, then retry."
+  exit 1
+fi
+
 cd /root/beacon-quartz/public
 
 # Fix page titles: extract from vault frontmatter and patch HTML <title> tags
