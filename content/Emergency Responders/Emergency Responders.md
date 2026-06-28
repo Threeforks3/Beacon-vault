@@ -1,5 +1,5 @@
 ---
-title: "Partner Resources"
+title: "Emergency Responders"
 type: moc
 tags: [moc/organizations, moc/atlas]
 created: 2026-06-27

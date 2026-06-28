@@ -1,5 +1,5 @@
 ---
-title: "Scenarios"
+title: "Emergency Scenarios"
 type: moc
 tags: [moc/scenarios]
 created: 2026-06-27
