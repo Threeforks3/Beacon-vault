@@ -132,6 +132,6 @@ The BSA-specified SAR team gear list includes:
 - [[USCG SAR Doctrine]] — named as SAR authority
 - [[Strobe vs Constant On]] — strobe tactic validated by BSA doctrine
 - [[Overt signal mirror]] — mandatory SAR gear
-- [[Sources/BSA/BSA Emergency Preparedness]] — companion pamphlet
-- [[Sources/BSA/BSA First Aid]] — companion pamphlet
-- [[Sources/BSA/BSA Lifesaving]] — companion pamphlet
+- [[BSA/BSA Emergency Preparedness]] — companion pamphlet
+- [[BSA/BSA First Aid]] — companion pamphlet
+- [[BSA/BSA Lifesaving]] — companion pamphlet

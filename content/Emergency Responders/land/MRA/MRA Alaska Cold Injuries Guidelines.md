@@ -105,10 +105,10 @@ agent-timestamp: 2026-06-27T15:30:00
 
 ## Related
 
-- [[Cold weather performance]]
-- [[Battery life targets]]
+- Cold weather performance
+- Battery life targets
 - [[One Hand Activation]]
-- [[Waterproofing]]
-- [[Buoyancy]]
+- Waterproofing
+- Buoyancy
 - [[MRA Helicopters in SAR]]
 - [[Search and Rescue Scenarios]]

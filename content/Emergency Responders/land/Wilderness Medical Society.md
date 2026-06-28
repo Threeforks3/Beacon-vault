@@ -19,5 +19,5 @@ WMS guidelines on hypothermia and cold-water immersion directly inform Beacon's 
 
 ## Related
 
-- [[Cold weather performance]] — informed by WMS hypothermia guidelines
+- Cold weather performance — informed by WMS hypothermia guidelines
 - [[Avalanche burial]] — WMS burial and asphyxia protocols

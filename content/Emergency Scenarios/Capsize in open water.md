@@ -68,7 +68,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 [²] **COSPAS-SARSAT:** EPIRBs are vessel-mounted. If the vessel sinks with the EPIRB still in its bracket, no alert is generated. If manually activated by a crew member in the water, the fix is a GPS position at the moment of transmission — not a track. The victim drifts from that fix in wind and current. SAR arrives at the last known position and searches visually. No integrated strobe for terminal homing. [[COSPAS-SARSAT]]
 
-[³] **ACA (American Canoe Association):** Paddlesports safety curriculum recommends whistle + signal mirror + light. Gap: no power-independent active strobe in standard paddler kit. [[SAR Coalition partner benefits]]
+[³] **ACA (American Canoe Association):** Paddlesports safety curriculum recommends whistle + signal mirror + light. Gap: no power-independent active strobe in standard paddler kit. SAR Coalition partner benefits
 
 [⁴] **USCG:** Mayday on VHF Ch.16 triggers immediate SAR response. But a handheld VHF in a PFD pocket may be the only radio that survives — and range is limited to 2-5 nautical miles line-of-sight from water level. [[USCG SAR Doctrine]]
 
@@ -84,8 +84,8 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 - [[Man overboard at night]] — single-person variant
 - [[Paddlecraft separation]] — paddler separated from craft
-- [[Waterproofing]] — IP68 design rationale
-- [[Bar-based attachment]] — universal mounting
-- [[Buoyancy]] — floatation design
-- [[Battery life targets]] — runtime modeling
+- Waterproofing — IP68 design rationale
+- Bar-based attachment — universal mounting
+- Buoyancy — floatation design
+- Battery life targets — runtime modeling
 - [[USCG SAR Doctrine]] — search patterns

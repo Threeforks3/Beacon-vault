@@ -79,7 +79,7 @@ agent-timestamp: 2026-06-27T15:30:00
 
 ## Related
 
-- [[SAR exercise integration]]
+- SAR exercise integration
 - [[USCG SAR Doctrine]]
 - [[USCG Rescue 21 Search Patterns]]
 - [[IR detection surfaces]]

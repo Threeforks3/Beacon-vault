@@ -69,11 +69,11 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 [²] **CAP (Civil Air Patrol):** Fixed-wing search aircraft fly contour grids at 1,000-3,000ft AGL. Visual acquisition of a human figure through canopy is the primary detection method. An active strobe visible through canopy gaps dramatically increases detection probability. [[Civil Air Patrol]]
 
-[³] **NPS (National Park Service):** 3,400+ SAR incidents in national parks annually. Most common: day hiker off trail. Most common missing equipment: light source. NPS helicopter operations include FLIR search — thermal signature of stationary human through canopy is minimal. Active strobe provides complementary detection modality. [[SAR Coalition partner benefits]]
+[³] **NPS (National Park Service):** 3,400+ SAR incidents in national parks annually. Most common: day hiker off trail. Most common missing equipment: light source. NPS helicopter operations include FLIR search — thermal signature of stationary human through canopy is minimal. Active strobe provides complementary detection modality. SAR Coalition partner benefits
 
 [⁴] **Universal:** Cell phone is the default emergency device for most hikers. Relies on infrastructure that doesn't exist in wilderness search areas. Battery life is the second failure mode — GPS + screen use drains battery in hours. Beacon: power-independent, no infrastructure, 26+ hours.
 
-[⁵] **BSA Outdoor Ethics / 10 Essentials:** Scouts are taught to carry flashlight and whistle. Gap: neither is visible from search aircraft. The 10 Essentials don't include a dedicated emergency strobe. [[SAR Coalition partner benefits]]
+[⁵] **BSA Outdoor Ethics / 10 Essentials:** Scouts are taught to carry flashlight and whistle. Gap: neither is visible from search aircraft. The 10 Essentials don't include a dedicated emergency strobe. SAR Coalition partner benefits
 
 [⁶] **COSPAS-SARSAT:** PLBs transmit a 406 MHz distress signal with GPS position to the satellite network. The fix is a single point in time — the victim's location when the alert was sent. In water, a person drifts. On land, a lost hiker keeps walking. SAR arrives in the general area (1-3 NM) and must then search visually. PLBs have no integrated strobe — they alert, they don't home. Beacon closes the last mile: the satellite fix gets SAR nearby, the strobe gets them to you. [[COSPAS-SARSAT]]
 
@@ -82,6 +82,6 @@ Is there anything we're missing? Can you help us see what we may be missing?
 - [[Avalanche burial]] — winter backcountry variant
 - [[Mountain bike crash]] — similar terrain, different mechanism
 - [[Hunting accident]] — wilderness with firearm involvement
-- [[Cold weather performance]] — battery and electronics
-- [[Bar-based attachment]] — pack mounting
+- Cold weather performance — battery and electronics
+- Bar-based attachment — pack mounting
 - [[Mountain Rescue Association]] — wilderness SAR protocols

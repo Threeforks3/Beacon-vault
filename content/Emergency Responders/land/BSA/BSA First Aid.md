@@ -73,9 +73,9 @@ The home/patrol first-aid kit adds: adhesive tape, assorted roller bandages, tri
 ## Related
 
 - [[BSA]] — organization page
-- [[Sources/BSA/BSA Search and Rescue]] — SAR gear list includes first-aid kit
-- [[Sources/BSA/BSA Emergency Preparedness]] — disaster kit contents
+- [[BSA/BSA Search and Rescue]] — SAR gear list includes first-aid kit
+- [[BSA/BSA Emergency Preparedness]] — disaster kit contents
 - [[Capsize in open water]] — cold water immersion scenario
 - [[Wilderness lost hiker]] — hypothermia/dehydration risk
-- [[Sources/MRA/MRA Alaska Cold Injuries Guidelines]] — cold injury specialist reference
-- [[Sources/MRA/MRA Triage and Dispatch]] — medical prioritization in SAR
+- [[MRA/MRA Alaska Cold Injuries Guidelines]] — cold injury specialist reference
+- [[MRA/MRA Triage and Dispatch]] — medical prioritization in SAR

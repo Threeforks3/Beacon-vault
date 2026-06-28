@@ -60,7 +60,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 [¹] **Hunter safety organizations (IHEA, state DNR):** Hunter education curriculum includes emergency preparedness. Standard advice: leave hunt plan with someone, carry communication device. Gap: no dedicated emergency strobe in standard hunter equipment recommendations.
 
-[²] **BSA / Scout troops:** Many hunters were scouts. 10 Essentials carry-over to hunting kit is common but incomplete — flashlight included, strobe not. Gap in signaling capability between "wave flashlight" and "satellite messenger." [[SAR Coalition partner benefits]]
+[²] **BSA / Scout troops:** Many hunters were scouts. 10 Essentials carry-over to hunting kit is common but incomplete — flashlight included, strobe not. Gap in signaling capability between "wave flashlight" and "satellite messenger." SAR Coalition partner benefits
 
 [³] **Outfitters / guides:** Professional hunting guides carry satellite communication (InReach/SPOT) and first aid. Client equipment is variable. Guide's kit may not include a strobe distributable to an injured client separated from the group.
 
@@ -73,4 +73,4 @@ Is there anything we're missing? Can you help us see what we may be missing?
 - [[Wilderness lost hiker]] — similar terrain, different context
 - [[Visibility range]] — canopy penetration
 - [[One Hand Activation]] — silent operation
-- [[Bar-based attachment]] — pack and harness mounting
+- Bar-based attachment — pack and harness mounting

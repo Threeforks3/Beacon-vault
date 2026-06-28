@@ -39,10 +39,10 @@ BSA's value to the SAR guidance coalition is **doctrinal amplification.** BSA's 
 
 ### Literature Notes Extracted
 
-- [[Sources/BSA/BSA Search and Rescue]] — gear list, search tactics, POD, clue categories
-- [[Sources/BSA/BSA Emergency Preparedness]] — disaster kits, signaling doctrine, "three of anything = distress"
-- [[Sources/BSA/BSA First Aid]] — hypothermia, heat illness, frostbite, dehydration
-- [[Sources/BSA/BSA Lifesaving]] — rescue hierarchy, victim tracking, paddlesport statistics
+- [[BSA/BSA Search and Rescue]] — gear list, search tactics, POD, clue categories
+- [[BSA/BSA Emergency Preparedness]] — disaster kits, signaling doctrine, "three of anything = distress"
+- [[BSA/BSA First Aid]] — hypothermia, heat illness, frostbite, dehydration
+- [[BSA/BSA Lifesaving]] — rescue hierarchy, victim tracking, paddlesport statistics
 
 ## Key Doctrinal Signals
 
@@ -69,7 +69,7 @@ BSA's value to the SAR guidance coalition is **doctrinal amplification.** BSA's 
 - [[Mountain Rescue Association]] — named as SAR partner in BSA pamphlet
 - [[USCG SAR Doctrine]] — named as SAR authority in BSA pamphlet
 - [[Civil Air Patrol]] — named in BSA pamphlet
-- [[Sources/BSA/BSA Search and Rescue]]
-- [[Sources/BSA/BSA Emergency Preparedness]]
-- [[Sources/BSA/BSA First Aid]]
-- [[Sources/BSA/BSA Lifesaving]]
+- [[BSA/BSA Search and Rescue]]
+- [[BSA/BSA Emergency Preparedness]]
+- [[BSA/BSA First Aid]]
+- [[BSA/BSA Lifesaving]]

@@ -51,7 +51,7 @@ Beacon is not a carriage requirement — no vessel is required to carry it. It i
 
 ## Related
 
-- [[USCG approval pathway]] — detailed regulatory analysis
-- [[SAR exercise integration]] — SAREX participation
+- USCG approval pathway — detailed regulatory analysis
+- SAR exercise integration — SAREX participation
 - [[Helicopter hoist]] — primary air station use case
 - [[IR beacon capability]] — NVG compatibility

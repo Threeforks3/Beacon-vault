@@ -75,7 +75,7 @@ Hypothermia and exhaustion render the victim passive — they cannot wave, shout
 - [[USCG Rescue and Survival Procedures]]
 - [[USCG Coxswain SAR Reference]]
 - [[USCG SAR Doctrine]]
-- [[USCG approval pathway]]
+- USCG approval pathway
 - [[Helicopter hoist]]
 - [[Man overboard at night]]
 - [[Coastal fog navigation]]

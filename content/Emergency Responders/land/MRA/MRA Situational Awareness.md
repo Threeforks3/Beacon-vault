@@ -128,5 +128,5 @@ agent-timestamp: 2026-06-27T15:30:00
 
 - [[MRA Search and Rescue for Outdoor Leaders]]
 - [[Search and Rescue Scenarios]]
-- [[SAR Coalition feedback loop]]
-- [[SAR exercise integration]]
+- SAR Coalition feedback loop
+- SAR exercise integration

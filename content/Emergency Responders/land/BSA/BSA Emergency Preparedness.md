@@ -91,9 +91,9 @@ Includes: poncho, change of clothes, sleeping bag, maps, pocket knife, **flashli
 ## Related
 
 - [[BSA]] — organization page
-- [[Sources/BSA/BSA Search and Rescue]] — companion pamphlet with SAR-specific gear and tactics
-- [[Sources/BSA/BSA First Aid]] — companion pamphlet
-- [[Sources/BSA/BSA Lifesaving]] — companion pamphlet
+- [[BSA/BSA Search and Rescue]] — companion pamphlet with SAR-specific gear and tactics
+- [[BSA/BSA First Aid]] — companion pamphlet
+- [[BSA/BSA Lifesaving]] — companion pamphlet
 - [[Wilderness lost hiker]] — "stay put" doctrine scenario
 - [[Overt signal mirror]] — mirror signaling technique
 - [[Strobe vs Constant On]] — SOS flash pattern validated by BSA

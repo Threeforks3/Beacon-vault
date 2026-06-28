@@ -58,7 +58,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 ## Coalition Footnotes
 
-[¹] **FEMA USAR / INSARAG:** 28 FEMA national task forces. International Search and Rescue Advisory Group standardizes USAR methodology globally. Acoustic listening is primary search technique during breaching operations. Recognized limitation: heavy equipment pauses cost time; faint victims are missed. Active strobe is a detection modality that works DURING breaching — no silence required. [[SAR Coalition partner benefits]]
+[¹] **FEMA USAR / INSARAG:** 28 FEMA national task forces. International Search and Rescue Advisory Group standardizes USAR methodology globally. Acoustic listening is primary search technique during breaching operations. Recognized limitation: heavy equipment pauses cost time; faint victims are missed. Active strobe is a detection modality that works DURING breaching — no silence required. SAR Coalition partner benefits
 
 [²] **FEMA USAR search cameras:** Borescope-style cameras inserted through drilled holes. Optical only — dust and debris obscure the lens. Limited field of view. A strobe visible through the same hole provides positive confirmation before committing breaching resources to that void.
 
@@ -72,7 +72,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 - [[Flood rooftop rescue]] — urban disaster, different mechanism
 - [[Power Outage in High Rise]] — vertical entrapment
-- [[Impact resistance]] — crush and drop testing
-- [[Battery life targets]] — extended standby requirements
+- Impact resistance — crush and drop testing
+- Battery life targets — extended standby requirements
 - [[One Hand Activation]] — tactile button design
-- [[SAR Coalition partner benefits]] — USAR task force partnerships
+- SAR Coalition partner benefits — USAR task force partnerships

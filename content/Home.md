@@ -1,3 +1,9 @@
+---
+title: "SAR Compendium"
+created: 2026-06-27
+updated: 2026-06-27
+---
+
 # Search and Rescue Compendium
 
 > Curated by Beacon.
@@ -37,7 +43,7 @@
 ### b. Navigate
 
 - [[Outdoor Enthusiasts]] — the person who needs to be found
-- [[Meet Beacon]] — the engineering behind the signal
+- Meet Beacon — the engineering behind the signal
 - [[Emergency Responders]] — SAR organizations, protocols, and training materials
 - [[Search and Rescue Scenarios|All Scenarios]] — 13 rescue situations across water, land, and urban disaster
 - [[Contribute]] — source materials we're looking for, and how to submit them

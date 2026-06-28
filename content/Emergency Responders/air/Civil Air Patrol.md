@@ -23,5 +23,5 @@ No current engagement. CAP Florida Wing is a potential coalition partner. The St
 
 ## Related
 
-- [[SAR Coalition]] — CAP as potential partner
+- SAR Coalition — CAP as potential partner
 - [[Visibility range]] — light aircraft search altitude

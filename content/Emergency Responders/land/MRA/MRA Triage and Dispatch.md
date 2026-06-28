@@ -105,4 +105,4 @@ Quoting from an NTSB investigation of a fatal Coast Guard SAR incident: "The ove
 - [[MRA Search and Rescue for Outdoor Leaders]]
 - [[Search and Rescue Scenarios]]
 - [[USCG Rescue 21 Search Patterns]]
-- [[SAR exercise integration]]
+- SAR exercise integration

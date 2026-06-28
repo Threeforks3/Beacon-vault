@@ -71,14 +71,14 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 [⁴] **USCG / CAP / Military:** FLIR systems detect temperature differences. Survivors in water or on a raft present minimal thermal contrast against the water surface. Active IR strobe at 850nm is a bright point source through FLIR — unambiguous.
 
-[⁵] **USCG Air Station Clearwater:** MH-60T crews fly with AN/AVS-9 NVG as standard night equipment. An IR strobe visible through NVG provides positive visual identification before the aircraft reaches hover position. [[USCG approval pathway]]
+[⁵] **USCG Air Station Clearwater:** MH-60T crews fly with AN/AVS-9 NVG as standard night equipment. An IR strobe visible through NVG provides positive visual identification before the aircraft reaches hover position. USCG approval pathway
 
 ## Related
 
 - [[Helicopter hoist]] — recovery from water
 - [[IR beacon capability]] — NVG/FLIR compatibility
-- [[Battery life targets]] — oceanic endurance
-- [[Buoyancy]] — independent floatation
-- [[Waterproofing]] — salt water protection
+- Battery life targets — oceanic endurance
+- Buoyancy — independent floatation
+- Waterproofing — salt water protection
 - [[IMO standards]] — international maritime signal requirements
 - [[COSPAS-SARSAT]] — satellite SAR system

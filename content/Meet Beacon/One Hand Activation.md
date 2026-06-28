@@ -41,5 +41,5 @@ If the button is held down continuously (e.g., compressed in a packed bag), Beac
 
 ## Related
 
-- [[Stuck-button timeout]] — accidental drain prevention
-- [[Battery life targets]] — runtime implications of early activation
+- Stuck-button timeout — accidental drain prevention
+- Battery life targets — runtime implications of early activation

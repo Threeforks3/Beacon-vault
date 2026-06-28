@@ -71,7 +71,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 - [[Earthquake entrapment]] — urban disaster, different mechanism
 - [[Flood rooftop rescue]] — elevated victim, visual search
-- [[Battery life targets]] — extended blackout endurance
+- Battery life targets — extended blackout endurance
 - [[One Hand Activation]] — accessibility design
 - [[Visibility range]] — street-level visibility through glass
 - [[REACT International]] — emergency communications

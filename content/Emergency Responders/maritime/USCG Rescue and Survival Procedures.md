@@ -94,5 +94,5 @@ Standard USCG boat crew survival vest carries:
 - [[Man overboard at night]]
 - [[Capsize in open water]]
 - [[Aircraft ditching]]
-- [[Cold weather performance]]
+- Cold weather performance
 - [[Coastal fog navigation]]

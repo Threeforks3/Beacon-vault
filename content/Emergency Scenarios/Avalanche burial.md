@@ -79,9 +79,9 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 ## Related
 
-- [[Cold weather performance]] — battery chemistry selection
-- [[Bar-based attachment]] — multi-axis force testing
+- Cold weather performance — battery chemistry selection
+- Bar-based attachment — multi-axis force testing
 - [[IR beacon capability]] — NVG compatibility through snow dust
-- [[Impact resistance]] — drop and crush testing
+- Impact resistance — drop and crush testing
 - [[Wilderness lost hiker]] — non-avalanche backcountry scenarios
 - [[Mountain Rescue Association]] — backcountry SAR protocols

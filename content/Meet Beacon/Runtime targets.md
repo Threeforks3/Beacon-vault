@@ -40,5 +40,5 @@ AAA is the most common battery in the world. Available at any gas station, super
 
 ## Related
 
-- [[Cold weather performance]] — alkaline vs lithium AAA
+- Cold weather performance — alkaline vs lithium AAA
 - [[Strobe vs Constant On]] — runtime impact of flash duty cycle

@@ -46,4 +46,4 @@ The Mountain Rescue Association (MRA) is the national organization of volunteer 
 
 - [[Wilderness lost hiker]] — primary MRA scenario
 - [[NASAR]] — complementary organization
-- [[SAR Coalition]] — MRA teams as coalition partners
+- SAR Coalition — MRA teams as coalition partners

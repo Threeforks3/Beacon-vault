@@ -88,8 +88,8 @@ agent-timestamp: 2026-06-27T23:30:00
 - [[BSA]] — organization page
 - [[Man overboard at night]] — primary scenario for water rescue
 - [[Capsize in open water]] — paddlesport capsize scenario
-- [[Sources/BSA/BSA Search and Rescue]] — companion pamphlet
-- [[Sources/BSA/BSA Emergency Preparedness]] — companion pamphlet
+- [[BSA/BSA Search and Rescue]] — companion pamphlet
+- [[BSA/BSA Emergency Preparedness]] — companion pamphlet
 - [[USCG Rescue and Survival Procedures]] — professional rescue doctrine
 - [[Strobe vs Constant On]] — strobe visibility in water rescue
 - [[Visibility range]] — detection distance over water

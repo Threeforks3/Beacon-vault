@@ -62,9 +62,9 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 ## Coalition Footnotes
 
-[¹] **Swift water rescue teams (NFPA 1006):** Technician-level training includes downstream victim tracking, throw bag deployment, and tethered swimmer rescue. Doctrine emphasizes maintaining visual contact. Gap acknowledged: no portable active strobe in standard swift water rescue kit. [[SAR Coalition partner benefits]]
+[¹] **Swift water rescue teams (NFPA 1006):** Technician-level training includes downstream victim tracking, throw bag deployment, and tethered swimmer rescue. Doctrine emphasizes maintaining visual contact. Gap acknowledged: no portable active strobe in standard swift water rescue kit. SAR Coalition partner benefits
 
-[²] **ACA / American Whitewater:** Paddler safety curriculum includes throw bag use, self-rescue, and group rescue. Recommended equipment: PFD, helmet, throw bag, whistle. No strobe. Gap: paddler separated from group at dusk has no active signaling. [[SAR Coalition partner benefits]]
+[²] **ACA / American Whitewater:** Paddler safety curriculum includes throw bag use, self-rescue, and group rescue. Recommended equipment: PFD, helmet, throw bag, whistle. No strobe. Gap: paddler separated from group at dusk has no active signaling. SAR Coalition partner benefits
 
 [³] **ASTM F2680:** Rescue PFD standard requires minimum 22 lbs buoyancy, high-visibility color, and reflective tape. Passive visibility only — works when rescuers are looking at you. Whitewater obscures intermittently.
 
@@ -75,7 +75,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 ## Related
 
 - [[Man overboard at night]] — water rescue, different context
-- [[Bar-based attachment]] — attachment force testing
-- [[Waterproofing]] — IP68 design
-- [[Impact resistance]] — debris impact survival
+- Bar-based attachment — attachment force testing
+- Waterproofing — IP68 design
+- Impact resistance — debris impact survival
 - [[IR beacon capability]] — NVG operations in degraded visual environments

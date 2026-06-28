@@ -64,7 +64,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 [³] **USCG Navigation Rules:** Rule 35 — sound signals in restricted visibility. Power-driven vessel underway: one prolonged blast every 2 minutes. But sound propagation in fog is unpredictable — refraction layers bend sound, creating shadow zones. [[USCG SAR Doctrine]]
 
-[⁴] **ACA / Paddlesports:** Recreational paddlers navigate by GPS and visual reference. In fog, GPS provides position but not collision avoidance. Paddler is invisible to other vessels and cannot see them approaching. [[SAR Coalition partner benefits]]
+[⁴] **ACA / Paddlesports:** Recreational paddlers navigate by GPS and visual reference. In fog, GPS provides position but not collision avoidance. Paddler is invisible to other vessels and cannot see them approaching. SAR Coalition partner benefits
 
 [⁵] **USCG:** VHF Ch.16 monitored continuously. Rescue 21 triangulation on transmission. But small craft in fog may not recognize distress in time to radio, or may lose electrical power before transmitting. [[USCG Rescue 21 Search Patterns]]
 
@@ -72,6 +72,6 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 - [[Capsize in open water]] — vessel distress scenario
 - [[Visibility range]] — fog attenuation
-- [[Waterproofing]] — moisture protection
+- Waterproofing — moisture protection
 - [[Strobe vs Constant On]] — signal pattern rationale
 - [[USCG SAR Doctrine]] — maritime SAR protocols

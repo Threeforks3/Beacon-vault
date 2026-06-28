@@ -88,7 +88,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 - [[Capsize in open water]] — multi-person variant
 - [[Paddlecraft separation]] — craft drifts away, paddler remains
 - [[Helicopter hoist]] — recovery phase
-- [[Cold weather performance]] — battery and electronics in cold water
+- Cold weather performance — battery and electronics in cold water
 - [[One Hand Activation]] — activation design
 - [[Visibility range]] — tested distances
 - [[USCG Rescue 21 Search Patterns]] — full Rescue 21 operational pipeline

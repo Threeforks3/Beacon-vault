@@ -55,7 +55,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 ## Coalition Footnotes
 
-[¹] **IMBA (International Mountain Bicycling Association):** Trail advocacy and rider education. Ride preparation guidance includes tool kit, first aid, and communication device. Gap: no dedicated emergency signal in standard ride kit. Cell phone is default but unreliable in backcountry. [[SAR Coalition partner benefits]]
+[¹] **IMBA (International Mountain Bicycling Association):** Trail advocacy and rider education. Ride preparation guidance includes tool kit, first aid, and communication device. Gap: no dedicated emergency signal in standard ride kit. Cell phone is default but unreliable in backcountry. SAR Coalition partner benefits
 
 [²] **Trailforks / Outside Interactive:** Trail database used by majority of mountain bikers. Offline maps reduce navigation errors but don't solve the signaling problem. Integration opportunity: Beacon as recommended emergency equipment in trail database.
 
@@ -68,6 +68,6 @@ Is there anything we're missing? Can you help us see what we may be missing?
 ## Related
 
 - [[Wilderness lost hiker]] — similar terrain, different activity
-- [[Impact resistance]] — crash survival
-- [[Bar-based attachment]] — pack mounting
+- Impact resistance — crash survival
+- Bar-based attachment — pack mounting
 - [[One Hand Activation]] — post-crash usability

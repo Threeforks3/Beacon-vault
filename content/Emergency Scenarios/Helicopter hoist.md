@@ -59,7 +59,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 ## Coalition Footnotes
 
-[¹] **USCG Air Station Clearwater:** MH-60T Jayhawk crews fly with AN/AVS-9 NVG as standard night equipment. Hoist operator uses NVG throughout night hoist sequence. An IR strobe visible through NVG provides positive ID before hover — reducing time on station and fuel consumption. [[USCG approval pathway]] [[USCG SAR Doctrine]]
+[¹] **USCG Air Station Clearwater:** MH-60T Jayhawk crews fly with AN/AVS-9 NVG as standard night equipment. Hoist operator uses NVG throughout night hoist sequence. An IR strobe visible through NVG provides positive ID before hover — reducing time on station and fuel consumption. USCG approval pathway [[USCG SAR Doctrine]]
 
 [²] **USCG / Military:** FLIR pods on MH-60T and HC-130 provide wide-area thermal search. A human body in water is within 1-2°C of surrounding water — poor discrimination. An active IR strobe at 850nm is a bright point source — thermal contrast orders of magnitude higher than passive body heat.
 
@@ -74,6 +74,6 @@ Is there anything we're missing? Can you help us see what we may be missing?
 - [[Man overboard at night]] — water recovery
 - [[Aircraft ditching]] — multi-survivor variant
 - [[IR beacon capability]] — NVG operations
-- [[Bar-based attachment]] — snag-free design
+- Bar-based attachment — snag-free design
 - [[USCG SAR Doctrine]] — helicopter rescue protocols
 - [[USCG Rescue 21 Search Patterns]] — search pipeline

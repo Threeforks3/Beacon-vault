@@ -26,4 +26,4 @@ No engagement yet. NASAR is a target organization for coalition outreach.
 ## Related
 
 - [[Mountain Rescue Association]] — team accreditation vs individual certification
-- [[SAR Coalition]] — NASAR as potential coalition partner
+- SAR Coalition — NASAR as potential coalition partner

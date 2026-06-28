@@ -47,5 +47,5 @@ The human visual system detects change more readily than steady state. A flashin
 ## Related
 
 - [[Visibility range]] — detection distance by mode
-- [[Battery life targets]] — runtime impact of duty cycle
-- [[USCG approval pathway]] — regulatory context
+- Battery life targets — runtime impact of duty cycle
+- USCG approval pathway — regulatory context

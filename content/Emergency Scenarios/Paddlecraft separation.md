@@ -72,6 +72,6 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 - [[Capsize in open water]] — multi-person capsize variant
 - [[Man overboard at night]] — single-person nighttime separation
-- [[Buoyancy]] — floatation design
-- [[Bar-based attachment]] — universal mounting
+- Buoyancy — floatation design
+- Bar-based attachment — universal mounting
 - [[Visibility range]] — tested distances

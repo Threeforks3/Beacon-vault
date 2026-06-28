@@ -62,7 +62,7 @@ Is there anything we're missing? Can you help us see what we may be missing?
 
 [¹] **USCG / National Guard:** Hurricane Katrina (2005): Coast Guard helicopter crews flew 1,600+ rooftop rescues. Visual spotting was primary location method. Crews reported ANY active light source — flashlight, lantern, flare — dramatically reduced search time per rooftop. NVG-equipped crews can acquire IR strobe through rain at extended range. [[USCG SAR Doctrine]]
 
-[²] **Cajun Navy / Volunteer boat crews:** Hurricane Harvey (2017): civilian boat crews used smartphones and flashlights to coordinate. Battery life was the limiting factor — most devices died within hours of continuous use. A power-independent strobe extends volunteer crew effectiveness through multi-day operations. [[SAR Coalition partner benefits]]
+[²] **Cajun Navy / Volunteer boat crews:** Hurricane Harvey (2017): civilian boat crews used smartphones and flashlights to coordinate. Battery life was the limiting factor — most devices died within hours of continuous use. A power-independent strobe extends volunteer crew effectiveness through multi-day operations. SAR Coalition partner benefits
 
 [³] **Victim signaling behavior:** Post-Katrina and Harvey after-action reports: survivors used phone screens, camera flashes, lighters, and flashlights to signal. All are battery-limited and directional. A dedicated strobe that runs 26+ hours with 360° coverage is not behavior anyone arrives with — it has to be in the go-bag before the water rises.
 
@@ -73,8 +73,8 @@ Is there anything we're missing? Can you help us see what we may be missing?
 ## Related
 
 - [[Earthquake entrapment]] — urban disaster, different mechanism
-- [[Waterproofing]] — immersion and spray protection
-- [[Battery life targets]] — endurance modeling
+- Waterproofing — immersion and spray protection
+- Battery life targets — endurance modeling
 - [[Visibility range]] — precipitation attenuation
 - [[One Hand Activation]] — simplicity under stress
 - [[USCG SAR Doctrine]] — flood response protocols

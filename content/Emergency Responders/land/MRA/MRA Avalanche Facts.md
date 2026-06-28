@@ -49,6 +49,6 @@ source-page: "1 page"
 ## Related
 
 - [[Avalanche burial]] — scenario page
-- [[Cold weather performance]] — battery chemistry in sub-zero conditions
+- Cold weather performance — battery chemistry in sub-zero conditions
 - [[Mountain Rescue Association]] — MRA profile
 - [[Wilderness lost hiker]] — related backcountry SAR scenario

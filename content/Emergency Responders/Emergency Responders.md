@@ -13,8 +13,8 @@ Organizations, protocols, and standards that inform Beacon's design. These are t
 ## United States Coast Guard
 
 - [[USCG SAR Doctrine]] — National Search and Rescue Plan, NVIC references
-- [[USCG approval pathway]] — What USCG acceptance means for a non-carriage device
-- [[SAR exercise integration]] — How Beacon could participate in USCG SAREX events
+- USCG approval pathway — What USCG acceptance means for a non-carriage device
+- SAR exercise integration — How Beacon could participate in USCG SAREX events
 - [[USCG Rescue 21 Search Patterns]] — Rescue 21 triangulation and SAROPS drift modeling
 - [[USCG Rescue and Survival Procedures]] — Strobe spec, cold water survivability, darkness protocol (BCH16114.2A)
 - [[USCG Coxswain SAR Reference]] — Search patterns, datum markers, lookout doctrine, VDS conservation
@@ -40,6 +40,6 @@ Organizations, protocols, and standards that inform Beacon's design. These are t
 
 ## SAR Coalition
 
-- [[SAR Coalition founding]] — Genesis and initial endorsers
-- [[SAR Coalition partner benefits]] — What partners receive
-- [[SAR Coalition feedback loop]] — How partner input shapes Beacon
+- SAR Coalition founding — Genesis and initial endorsers
+- SAR Coalition partner benefits — What partners receive
+- SAR Coalition feedback loop — How partner input shapes Beacon
