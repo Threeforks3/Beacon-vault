@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paddlecraft Separation — SAR Signal Chain</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+
+  .c-coral > rect { fill: #FAECE7; stroke: #993C1D; }
+  .c-coral > .th { fill: #712B13; } .c-coral > .ts { fill: #993C1D; }
+  .c-amber > rect { fill: #FAEEDA; stroke: #854F0B; }
+  .c-amber > .th { fill: #633806; } .c-amber > .ts { fill: #854F0B; }
+  .c-blue > rect { fill: #E6F1FB; stroke: #185FA5; }
+  .c-blue > .th { fill: #0C447C; } .c-blue > .ts { fill: #185FA5; }
+  .c-teal > rect { fill: #E1F5EE; stroke: #0F6E56; }
+  .c-teal > .th { fill: #085041; } .c-teal > .ts { fill: #0F6E56; }
+  .c-gray > rect { fill: #F1EFE8; stroke: #5F5E5A; }
+  .c-gray > .th { fill: #444441; } .c-gray > .ts { fill: #5F5E5A; }
+
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th { fill: #F5C4B3; } .c-coral > .ts { fill: #F0997B; }
+    .c-amber > rect { fill: #633806; stroke: #EF9F27; }
+    .c-amber > .th { fill: #FAC775; } .c-amber > .ts { fill: #EF9F27; }
+    .c-blue > rect { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th { fill: #B5D4F4; } .c-blue > .ts { fill: #85B7EB; }
+    .c-teal > rect { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th { fill: #9FE1CB; } .c-teal > .ts { fill: #5DCAA5; }
+    .c-gray > rect { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th { fill: #D3D1C7; } .c-gray > .ts { fill: #B4B2A9; }
+  }
+
+  .water { fill: none; stroke: #378ADD; stroke-width: 1.5px; stroke-linecap: round; }
+  .drift { stroke: #888780; stroke-width: 0.5px; stroke-dasharray: 4 4; fill: none; }
+  .signal-arc { fill: none; stroke: #EF9F27; stroke-width: 1px; stroke-dasharray: 3 3; }
+  .timeline-bar { fill: none; stroke: var(--border); stroke-width: 1px; }
+  .timeline-dot { fill: var(--bg-primary); stroke: var(--text-secondary); stroke-width: 1px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Paddlecraft separation rescue chain</h1>
+  <p class="subtitle">Wind and current can separate paddler from craft in seconds — the signal bridges the gap</p>
+  <svg width="100%" viewBox="0 0 680 410" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+
+    <!-- Water surface -->
+    <path class="water" d="M 30 185 Q 70 175 110 185 Q 150 195 190 185 Q 230 175 270 185 Q 310 195 350 185 Q 390 175 430 185 Q 470 195 510 185 Q 550 175 590 185 Q 630 195 650 185"/>
+
+    <!-- === STAGE 1: Separation (c-coral) === -->
+    <g class="c-coral">
+      <rect x="15" y="25" width="148" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="89" y="45" text-anchor="middle">Separation event</text>
+    </g>
+    <!-- Paddler in water (left) -->
+    <circle cx="60" cy="178" r="7" fill="none" stroke="#993C1D" stroke-width="1.5"/>
+    <text class="ts" x="60" y="192" text-anchor="middle">Paddler</text>
+    <!-- Kayak drifting away (right) -->
+    <polygon points="130,165 155,165 160,178 125,178" fill="none" stroke="#993C1D" stroke-width="1"/>
+    <text class="ts" x="142" y="172" text-anchor="middle">Craft</text>
+    <!-- Drift arrows -->
+    <line x1="155" y1="160" x2="175" y2="152" class="drift"/>
+    <line x1="160" y1="178" x2="180" y2="178" class="drift"/>
+    <text class="ts" x="89" y="192" text-anchor="middle">Wind &amp; current</text>
+    <text class="ts" x="89" y="206" text-anchor="middle">Rapid separation</text>
+
+    <!-- === STAGE 2: Signal (c-amber) === -->
+    <g class="c-amber">
+      <rect x="175" y="25" width="148" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="249" y="45" text-anchor="middle">Signal bridge</text>
+    </g>
+    <!-- Beacon on paddler -->
+    <rect x="231" y="148" width="36" height="12" rx="3" stroke-width="0.5"/>
+    <text class="ts" x="249" y="157" text-anchor="middle" dominant-baseline="central">Beacon</text>
+    <!-- Signal arcs bridging gap -->
+    <path class="signal-arc" d="M 270 140 Q 290 120 310 130"/>
+    <path class="signal-arc" d="M 270 155 Q 295 145 315 150"/>
+    <path class="signal-arc" d="M 270 170 Q 300 170 320 170"/>
+    <text class="ts" x="249" y="85" text-anchor="middle">Strobe bridges gap</text>
+    <text class="ts" x="249" y="100" text-anchor="middle">Craft location irrelevant</text>
+    <!-- Craft still drifting far right -->
+    <polygon points="325,140 340,140 345,148 320,148" fill="none" stroke="#D3D1C7" stroke-width="0.5"/>
+    <text class="ts" x="249" y="206" text-anchor="middle">Signal stays with victim</text>
+
+    <!-- === STAGE 3: SAR detection (c-blue) === -->
+    <g class="c-blue">
+      <rect x="335" y="25" width="148" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="409" y="45" text-anchor="middle">SAR detection</text>
+    </g>
+    <!-- Rescue vessel -->
+    <polygon points="370,145 400,140 430,145 440,165 360,165" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <text class="ts" x="400" y="160" text-anchor="middle" dominant-baseline="central">SAR vessel</text>
+    <text class="ts" x="409" y="180" text-anchor="middle">RF + strobe fix</text>
+    <text class="ts" x="409" y="195" text-anchor="middle">Homes on signal</text>
+    <text class="ts" x="409" y="206" text-anchor="middle">Paddler located first</text>
+
+    <!-- === STAGE 4: Recovery (c-teal) === -->
+    <g class="c-teal">
+      <rect x="495" y="25" width="100" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="545" y="45" text-anchor="middle">Recovery</text>
+    </g>
+    <circle cx="545" cy="178" r="10" fill="none" stroke="#0F6E56" stroke-width="1.5"/>
+    <text class="ts" x="545" y="181" text-anchor="middle" dominant-baseline="central">✓</text>
+    <text class="ts" x="545" y="206" text-anchor="middle">Onboard</text>
+
+    <!-- Arrows -->
+    <line x1="163" y1="95" x2="173" y2="95" class="arr" marker-end="url(#arrow)"/>
+    <line x1="323" y1="95" x2="333" y2="95" class="arr" marker-end="url(#arrow)"/>
+    <line x1="483" y1="95" x2="493" y2="95" class="arr" marker-end="url(#arrow)"/>
+
+    <!-- === KEY INSIGHT: With vs Without === -->
+    <g>
+      <rect x="20" y="230" width="310" height="58" rx="8" fill="var(--bg-secondary)" stroke="var(--border)" stroke-width="0.5"/>
+      <text class="th" x="175" y="248" text-anchor="middle" dominant-baseline="central">Without beacon</text>
+      <text class="ts" x="175" y="264" text-anchor="middle" dominant-baseline="central">SAR searches for craft — finds empty hull</text>
+      <text class="ts" x="175" y="278" text-anchor="middle" dominant-baseline="central">Restart search from last known position</text>
+    </g>
+    <g>
+      <rect x="350" y="230" width="310" height="58" rx="8" fill="var(--bg-secondary)" stroke="var(--border)" stroke-width="0.5"/>
+      <text class="th" x="505" y="248" text-anchor="middle" dominant-baseline="central">With DayNightSignal</text>
+      <text class="ts" x="505" y="264" text-anchor="middle" dominant-baseline="central">Signal marks paddler — not craft</text>
+      <text class="ts" x="505" y="278" text-anchor="middle" dominant-baseline="central">Straight to victim location</text>
+    </g>
+
+    <!-- === TIMELINE === -->
+    <text class="th" x="340" y="315" text-anchor="middle">Separation to recovery (minutes)</text>
+    <g>
+      <line x1="40" y1="340" x2="640" y2="340" class="timeline-bar"/>
+      <circle cx="89" cy="340" r="5" class="timeline-dot"/>
+      <text class="ts" x="89" y="358" text-anchor="middle">T+0</text>
+      <text class="ts" x="89" y="372" text-anchor="middle">Separation</text>
+      <circle cx="249" cy="340" r="5" class="timeline-dot"/>
+      <text class="ts" x="249" y="358" text-anchor="middle">T+1</text>
+      <text class="ts" x="249" y="372" text-anchor="middle">Signal active</text>
+      <circle cx="409" cy="340" r="5" class="timeline-dot"/>
+      <text class="ts" x="409" y="358" text-anchor="middle">T+10</text>
+      <text class="ts" x="409" y="372" text-anchor="middle">SAR on scene</text>
+      <circle cx="545" cy="340" r="5" class="timeline-dot"/>
+      <text class="ts" x="545" y="358" text-anchor="middle">T+15</text>
+      <text class="ts" x="545" y="372" text-anchor="middle">Recovered</text>
+    </g>
+
+    <g class="c-teal">
+      <rect x="100" y="388" width="480" height="18" rx="6" stroke-width="0.5"/>
+      <text class="ts" x="340" y="400" text-anchor="middle" dominant-baseline="central">Signal on person, not craft = decisive advantage in separation scenarios</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>

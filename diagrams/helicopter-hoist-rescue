@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Helicopter Hoist Rescue — SAR Signal Chain</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .leader { stroke: var(--text-tertiary); stroke-width: 0.5px; stroke-dasharray: 4 3; fill: none; }
+
+  /* Color ramps — light mode */
+  .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #FAECE7; stroke: #993C1D; }
+  .c-coral > .th, .c-coral > text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral > text.ts { fill: #993C1D; }
+  .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #FAEEDA; stroke: #854F0B; }
+  .c-amber > .th, .c-amber > text.th { fill: #633806; }
+  .c-amber > .ts, .c-amber > text.ts { fill: #854F0B; }
+  .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #E6F1FB; stroke: #185FA5; }
+  .c-blue > .th, .c-blue > text.th { fill: #0C447C; }
+  .c-blue > .ts, .c-blue > text.ts { fill: #185FA5; }
+  .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #E1F5EE; stroke: #0F6E56; }
+  .c-teal > .th, .c-teal > text.th { fill: #085041; }
+  .c-teal > .ts, .c-teal > text.ts { fill: #0F6E56; }
+  .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #F1EFE8; stroke: #5F5E5A; }
+  .c-gray > .th, .c-gray > text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray > text.ts { fill: #5F5E5A; }
+  .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #FCEBEB; stroke: #A32D2D; }
+  .c-red > .th, .c-red > text.th { fill: #791F1F; }
+  .c-red > .ts, .c-red > text.ts { fill: #A32D2D; }
+
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th, .c-coral > text.th { fill: #F5C4B3; }
+    .c-coral > .ts, .c-coral > text.ts { fill: #F0997B; }
+    .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #633806; stroke: #EF9F27; }
+    .c-amber > .th, .c-amber > text.th { fill: #FAC775; }
+    .c-amber > .ts, .c-amber > text.ts { fill: #EF9F27; }
+    .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th, .c-blue > text.th { fill: #B5D4F4; }
+    .c-blue > .ts, .c-blue > text.ts { fill: #85B7EB; }
+    .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th, .c-teal > text.th { fill: #9FE1CB; }
+    .c-teal > .ts, .c-teal > text.ts { fill: #5DCAA5; }
+    .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th, .c-gray > text.th { fill: #D3D1C7; }
+    .c-gray > .ts, .c-gray > text.ts { fill: #B4B2A9; }
+    .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #791F1F; stroke: #F09595; }
+    .c-red > .th, .c-red > text.th { fill: #F7C1C1; }
+    .c-red > .ts, .c-red > text.ts { fill: #F09595; }
+  }
+
+  /* Physical shapes */
+  .water { fill: none; stroke: #378ADD; stroke-width: 1.5px; stroke-linecap: round; }
+  .spray { fill: none; stroke: #993C1D; stroke-width: 0.7px; stroke-dasharray: 2 3; opacity: 0.6; }
+  .strobe-beam { fill: none; stroke: #EF9F27; stroke-width: 1.2px; stroke-dasharray: 3 3; }
+  .strobe-burst { fill: none; stroke: #EF9F27; stroke-width: 1px; stroke-dasharray: 2 2; }
+  .heli-body { fill: var(--bg-secondary); stroke: #185FA5; stroke-width: 1px; }
+  .rotor-disc { fill: none; stroke: #85B7EB; stroke-width: 0.5px; stroke-dasharray: 2 2; }
+  .rotor-blur { fill: rgba(133,183,235,0.06); stroke: #85B7EB; stroke-width: 0.3px; }
+  .cable { stroke: var(--text-secondary); stroke-width: 0.7px; stroke-dasharray: 3 2; }
+  .nvg-ring { fill: none; stroke: #185FA5; stroke-width: 1px; stroke-dasharray: 4 3; }
+  .nvg-fov { fill: none; stroke: #85B7EB; stroke-width: 0.5px; stroke-dasharray: 2 4; }
+  .timeline-bar { fill: none; stroke: var(--border); stroke-width: 1px; }
+  .timeline-dot { fill: var(--bg-primary); stroke: var(--text-secondary); stroke-width: 1px; }
+  @media (prefers-color-scheme: dark) {
+    .water { stroke: #85B7EB; }
+    .spray { stroke: #F0997B; }
+    .strobe-beam { stroke: #EF9F27; }
+    .strobe-burst { stroke: #EF9F27; }
+    .heli-body { fill: var(--bg-tertiary); stroke: #85B7EB; }
+    .rotor-disc { stroke: #B5D4F4; }
+    .rotor-blur { fill: rgba(181,212,244,0.06); stroke: #B5D4F4; }
+    .nvg-ring { stroke: #85B7EB; }
+    .nvg-fov { stroke: #B5D4F4; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Helicopter hoist rescue signal chain</h1>
+  <p class="subtitle">From NVG search to positive lock — IR strobe as acquisition aid</p>
+  <svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+
+    <!-- === SCENE: Water surface === -->
+    <path class="water" d="M 30 180 Q 60 172 100 180 Q 140 188 180 180 Q 220 172 260 180 Q 300 188 340 180 Q 380 172 420 180 Q 460 188 500 180 Q 540 172 580 180 Q 620 188 650 180"/>
+
+    <!-- === REGION 1: Distress (x=20–160) === -->
+    <g class="c-coral">
+      <rect x="20" y="30" width="140" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="90" y="50" text-anchor="middle">Distress</text>
+    </g>
+    <!-- Helicopter approaching (tilted left → right) -->
+    <g transform="translate(60, 68) rotate(-8)">
+      <ellipse class="rotor-disc" cx="30" cy="0" rx="38" ry="5"/>
+      <rect x="24" y="-2" width="12" height="5" rx="2" fill="none" stroke="#993C1D" stroke-width="0.5"/>
+      <path class="heli-body" d="M 0 8 L 10 4 L 45 4 L 55 8 L 48 14 L 15 14 Z" stroke="#993C1D"/>
+      <line x1="55" y1="8" x2="65" y2="6" stroke="#993C1D" stroke-width="1"/>
+    </g>
+    <text class="ts" x="60" y="98" text-anchor="middle">Approaching</text>
+    <!-- Rotor wash spray on water -->
+    <path class="spray" d="M 50 180 Q 55 168 65 180 Q 75 170 85 180 Q 95 168 105 180"/>
+    <path class="spray" d="M 60 182 Q 70 172 80 182 Q 90 174 100 182"/>
+    <!-- Victim in water -->
+    <circle cx="120" cy="165" r="6" fill="none" stroke="#993C1D" stroke-width="1.5"/>
+    <path d="M 114 172 Q 120 183 126 172" fill="none" stroke="#993C1D" stroke-width="1"/>
+    <text class="ts" x="120" y="195" text-anchor="middle">Victim in water</text>
+
+    <!-- === REGION 2: Signal emission (x=160–310) === -->
+    <g class="c-amber">
+      <rect x="160" y="30" width="150" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="235" y="50" text-anchor="middle">Signal emission</text>
+    </g>
+    <!-- Victim with IR strobe on PFD -->
+    <circle cx="235" cy="165" r="6" fill="none" stroke="#854F0B" stroke-width="1.5"/>
+    <path d="M 229 172 Q 235 183 241 172" fill="none" stroke="#854F0B" stroke-width="1"/>
+    <!-- PFD / IR strobe on victim -->
+    <rect x="229" y="158" width="12" height="6" rx="2" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+    <circle cx="235" cy="161" r="2" fill="#EF9F27"/>
+    <!-- IR strobe bursts — 850nm -->
+    <path class="strobe-burst" d="M 215 140 Q 205 125 215 110"/>
+    <path class="strobe-burst" d="M 255 140 Q 265 125 255 110"/>
+    <path class="strobe-beam" d="M 235 150 L 235 90"/>
+    <path class="strobe-beam" d="M 220 148 L 210 95"/>
+    <path class="strobe-beam" d="M 250 148 L 260 95"/>
+    <text class="ts" x="235" y="85" text-anchor="middle">850 nm</text>
+    <text class="ts" x="210" y="80" text-anchor="middle">IR strobe</text>
+    <text class="ts" x="260" y="80" text-anchor="middle">IR strobe</text>
+    <!-- NVG visibility note -->
+    <text class="ts" x="235" y="195" text-anchor="middle">Visible NVG 500 ft+</text>
+
+    <!-- === REGION 3: Detection (x=310–460) === -->
+    <g class="c-blue">
+      <rect x="310" y="30" width="150" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="385" y="50" text-anchor="middle">Detection</text>
+    </g>
+    <!-- Helicopter in stable hover above -->
+    <ellipse class="rotor-disc" cx="385" cy="65" rx="45" ry="6"/>
+    <ellipse class="rotor-blur" cx="385" cy="65" rx="46" ry="7"/>
+    <rect x="378" y="62" width="14" height="6" rx="2" fill="none" stroke="#185FA5" stroke-width="0.5"/>
+    <path class="heli-body" d="M 355 72 L 365 64 L 405 64 L 415 72 L 405 80 L 365 80 Z"/>
+    <text class="ts" x="385" y="77" text-anchor="middle" dominant-baseline="central">MH-60T</text>
+    <line x1="415" y1="72" x2="435" y2="68" stroke="#185FA5" stroke-width="1"/>
+    <!-- Hoist operator NVG view -->
+    <circle class="nvg-ring" cx="385" cy="115" r="18"/>
+    <circle class="nvg-fov" cx="385" cy="115" r="22"/>
+    <circle class="nvg-fov" cx="385" cy="115" r="26"/>
+    <!-- Small crosshair inside NVG -->
+    <line x1="380" y1="115" x2="390" y2="115" stroke="#185FA5" stroke-width="0.3"/>
+    <line x1="385" y1="110" x2="385" y2="120" stroke="#185FA5" stroke-width="0.3"/>
+    <!-- IR strobe acquired (small amber dot in NVG) -->
+    <circle cx="385" cy="115" r="1.5" fill="#EF9F27"/>
+    <text class="ts" x="385" y="148" text-anchor="middle">NVG acquisition</text>
+    <!-- Leader line to indicate NVG looking toward victim -->
+    <line class="leader" x1="385" y1="142" x2="385" y2="172"/>
+    <line class="leader" x1="385" y1="172" x2="420" y2="170"/>
+    <text class="ts" x="420" y="168" text-anchor="start">Positive lock</text>
+    <text class="ts" x="385" y="195" text-anchor="middle">Acquired before hover</text>
+
+    <!-- === REGION 4: Response (x=460–610) === -->
+    <g class="c-blue">
+      <rect x="460" y="30" width="150" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="535" y="50" text-anchor="middle">Response</text>
+    </g>
+    <!-- Helicopter (out of detail, represented by cable origin) -->
+    <!-- Rescue swimmer descending on cable -->
+    <line class="cable" x1="535" y1="55" x2="535" y2="140"/>
+    <!-- Rescue swimmer figure -->
+    <ellipse cx="535" cy="142" rx="8" ry="10" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <circle cx="535" cy="132" r="5" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <text class="ts" x="535" y="148" text-anchor="middle" dominant-baseline="central">RS</text>
+    <!-- Descent arrow -->
+    <path d="M 545 110 L 548 120 L 542 120" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <!-- Victim below swimmer -->
+    <circle cx="535" cy="168" r="6" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <path d="M 529 175 Q 535 186 541 175" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <text class="ts" x="535" y="195" text-anchor="middle">Swimmer deploys</text>
+
+    <!-- === REGION 5: Recovery (x=550–660) === -->
+    <g class="c-teal">
+      <rect x="550" y="30" width="110" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="605" y="50" text-anchor="middle">Recovery</text>
+    </g>
+    <!-- Hoist complete — victim in aircraft -->
+    <rect x="580" y="130" width="50" height="40" rx="8" fill="none" stroke="#0F6E56" stroke-width="1"/>
+    <rect x="585" y="135" width="40" height="8" rx="3" fill="none" stroke="#0F6E56" stroke-width="0.5"/>
+    <text class="ts" x="605" y="148" text-anchor="middle" dominant-baseline="central">A/C</text>
+    <!-- Victim figure inside -->
+    <circle cx="605" cy="158" r="4" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <path d="M 600 163 Q 605 170 610 163" fill="none" stroke="#0F6E56" stroke-width="0.6"/>
+    <text class="ts" x="605" y="195" text-anchor="middle">Hoist complete</text>
+
+    <!-- === ARROWS connecting regions === -->
+    <line x1="160" y1="100" x2="208" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="310" y1="100" x2="356" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="460" y1="100" x2="506" y2="100" class="arr" marker-end="url(#arrow)"/>
+
+    <!-- === TIMELINE === -->
+    <text class="th" x="340" y="265" text-anchor="middle">Elapsed time (minutes from on-scene)</text>
+    <g>
+      <line x1="40" y1="295" x2="640" y2="295" class="timeline-bar"/>
+      <!-- T+0 -->
+      <circle cx="90" cy="295" r="5" class="timeline-dot"/>
+      <text class="ts" x="90" y="315" text-anchor="middle">T+0</text>
+      <text class="ts" x="90" y="329" text-anchor="middle">On scene</text>
+      <!-- T+1 -->
+      <circle cx="235" cy="295" r="5" class="timeline-dot"/>
+      <text class="ts" x="235" y="315" text-anchor="middle">T+1</text>
+      <text class="ts" x="235" y="329" text-anchor="middle">IR strobe acquired</text>
+      <!-- T+3 -->
+      <circle cx="385" cy="295" r="5" class="timeline-dot"/>
+      <text class="ts" x="385" y="315" text-anchor="middle">T+3</text>
+      <text class="ts" x="385" y="329" text-anchor="middle">Hover established</text>
+      <!-- T+5 -->
+      <circle cx="535" cy="295" r="5" class="timeline-dot"/>
+      <text class="ts" x="535" y="315" text-anchor="middle">T+5</text>
+      <text class="ts" x="535" y="329" text-anchor="middle">Swimmer deployed</text>
+      <!-- T+8 -->
+      <circle cx="605" cy="295" r="5" class="timeline-dot"/>
+      <text class="ts" x="605" y="315" text-anchor="middle">T+8</text>
+      <text class="ts" x="605" y="329" text-anchor="middle">Hoist complete</text>
+    </g>
+
+    <!-- === KEY INSIGHT === -->
+    <g class="c-amber">
+      <rect x="100" y="358" width="480" height="50" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="376" text-anchor="middle" dominant-baseline="central">NVG search for a dark target in dark water takes minutes — every minute is fuel and risk</text>
+      <text class="ts" x="340" y="395" text-anchor="middle" dominant-baseline="central">IR strobe gives the hoist operator positive acquisition before the aircraft reaches hover</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>

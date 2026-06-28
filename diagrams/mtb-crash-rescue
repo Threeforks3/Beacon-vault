@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mountain Bike Crash Rescue — SAR Signal Chain</title>
+<style>
+  :root {
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #88877f;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f5f0;
+    --bg-tertiary: #eeedeb;
+    --border: rgba(0,0,0,0.15);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #e8e6de;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #888780;
+      --bg-primary: #1a1a18;
+      --bg-secondary: #2c2c2a;
+      --bg-tertiary: #3d3d3a;
+      --border: rgba(255,255,255,0.15);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg-tertiary);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .card {
+    background: var(--bg-primary);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 780px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  h1 { font-size: 18px; font-weight: 500; color: var(--text-primary); margin-bottom: 8px; }
+  .subtitle { font-size: 13px; color: var(--text-tertiary); margin-bottom: 24px; }
+  svg { width: 100%; height: auto; }
+
+  .t  { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); }
+  .ts { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: var(--text-secondary); }
+  .th { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: var(--text-primary); font-weight: 500; }
+  .arr { stroke: var(--text-secondary); stroke-width: 1.5px; fill: none; }
+  .leader { stroke: var(--text-tertiary); stroke-width: 0.5px; stroke-dasharray: 4 3; fill: none; }
+
+  /* Color ramps — light mode */
+  .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #FAECE7; stroke: #993C1D; }
+  .c-coral > .th, .c-coral > text.th { fill: #712B13; }
+  .c-coral > .ts, .c-coral > text.ts { fill: #993C1D; }
+  .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #FAEEDA; stroke: #854F0B; }
+  .c-amber > .th, .c-amber > text.th { fill: #633806; }
+  .c-amber > .ts, .c-amber > text.ts { fill: #854F0B; }
+  .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #E6F1FB; stroke: #185FA5; }
+  .c-blue > .th, .c-blue > text.th { fill: #0C447C; }
+  .c-blue > .ts, .c-blue > text.ts { fill: #185FA5; }
+  .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #E1F5EE; stroke: #0F6E56; }
+  .c-teal > .th, .c-teal > text.th { fill: #085041; }
+  .c-teal > .ts, .c-teal > text.ts { fill: #0F6E56; }
+  .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #F1EFE8; stroke: #5F5E5A; }
+  .c-gray > .th, .c-gray > text.th { fill: #444441; }
+  .c-gray > .ts, .c-gray > text.ts { fill: #5F5E5A; }
+  .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #FCEBEB; stroke: #A32D2D; }
+  .c-red > .th, .c-red > text.th { fill: #791F1F; }
+  .c-red > .ts, .c-red > text.ts { fill: #A32D2D; }
+
+  @media (prefers-color-scheme: dark) {
+    .c-coral > rect, .c-coral > circle, .c-coral > ellipse { fill: #712B13; stroke: #F0997B; }
+    .c-coral > .th, .c-coral > text.th { fill: #F5C4B3; }
+    .c-coral > .ts, .c-coral > text.ts { fill: #F0997B; }
+    .c-amber > rect, .c-amber > circle, .c-amber > ellipse { fill: #633806; stroke: #EF9F27; }
+    .c-amber > .th, .c-amber > text.th { fill: #FAC775; }
+    .c-amber > .ts, .c-amber > text.ts { fill: #EF9F27; }
+    .c-blue > rect, .c-blue > circle, .c-blue > ellipse { fill: #0C447C; stroke: #85B7EB; }
+    .c-blue > .th, .c-blue > text.th { fill: #B5D4F4; }
+    .c-blue > .ts, .c-blue > text.ts { fill: #85B7EB; }
+    .c-teal > rect, .c-teal > circle, .c-teal > ellipse { fill: #085041; stroke: #5DCAA5; }
+    .c-teal > .th, .c-teal > text.th { fill: #9FE1CB; }
+    .c-teal > .ts, .c-teal > text.ts { fill: #5DCAA5; }
+    .c-gray > rect, .c-gray > circle, .c-gray > ellipse { fill: #444441; stroke: #B4B2A9; }
+    .c-gray > .th, .c-gray > text.th { fill: #D3D1C7; }
+    .c-gray > .ts, .c-gray > text.ts { fill: #B4B2A9; }
+    .c-red > rect, .c-red > circle, .c-red > ellipse { fill: #791F1F; stroke: #F09595; }
+    .c-red > .th, .c-red > text.th { fill: #F7C1C1; }
+    .c-red > .ts, .c-red > text.ts { fill: #F09595; }
+  }
+
+  /* Physical shapes */
+  .trail { fill: none; stroke: var(--text-tertiary); stroke-width: 1px; stroke-dasharray: 5 3; }
+  .terrain-line { fill: none; stroke: var(--border); stroke-width: 0.5px; }
+  .signal-flash { fill: none; stroke: #EF9F27; stroke-width: 1px; }
+  .strobe-body { fill: #333; stroke: #854F0B; stroke-width: 0.5px; }
+  .timeline-bar { fill: none; stroke: var(--border); stroke-width: 1px; }
+  .timeline-dot { fill: var(--bg-primary); stroke: var(--text-secondary); stroke-width: 1px; }
+  .sight-line { fill: none; stroke: var(--text-tertiary); stroke-width: 0.5px; stroke-dasharray: 3 3; }
+  .atv-body { fill: var(--bg-secondary); stroke: #185FA5; stroke-width: 1px; }
+  .wheel { fill: none; stroke: var(--text-secondary); stroke-width: 1px; }
+  .bike-frame { fill: none; stroke: var(--text-secondary); stroke-width: 1.5px; stroke-linecap: round; stroke-linejoin: round; }
+  @media (prefers-color-scheme: dark) {
+    .signal-flash { stroke: #EF9F27; }
+    .strobe-body { fill: #555; stroke: #EF9F27; }
+    .atv-body { fill: var(--bg-tertiary); stroke: #85B7EB; }
+    .sight-line { stroke: var(--text-tertiary); }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Mountain bike crash rescue signal chain</h1>
+  <p class="subtitle">From singletrack crash to extraction — closing the discovery gap</p>
+  <svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+              stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </marker>
+    </defs>
+
+    <!-- === SCENE: Trail through terrain === -->
+    <!-- Terrain contour lines -->
+    <path class="terrain-line" d="M 20 160 Q 80 150 140 160 Q 200 170 270 165 Q 340 155 400 168 Q 470 178 540 162 Q 600 150 660 165"/>
+    <path class="terrain-line" d="M 20 175 Q 90 168 160 178 Q 230 185 310 175 Q 380 165 450 180 Q 520 190 600 172 Q 640 165 660 170"/>
+    <!-- Winding singletrack trail -->
+    <path class="trail" d="M 30 170 Q 70 160 110 170 Q 150 180 190 168 Q 230 155 270 165 Q 310 178 360 168 Q 410 158 460 170 Q 510 180 560 168 Q 600 158 650 168"/>
+
+    <!-- === REGION 1: Distress (x=20-160, coral) === -->
+    <g class="c-coral">
+      <rect x="20" y="30" width="140" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="90" y="50" text-anchor="middle">Distress</text>
+    </g>
+    <!-- Downed mountain bike: rear wheel -->
+    <circle cx="60" cy="158" r="12" class="wheel" transform="rotate(-30 60 158)"/>
+    <!-- Front wheel tilted -->
+    <circle cx="110" cy="165" r="12" class="wheel" transform="rotate(20 110 165)"/>
+    <!-- Bike frame (tilted triangle) -->
+    <path class="bike-frame" d="M 60 158 L 85 148 L 110 165 L 85 148 L 80 138"/>
+    <!-- Handlebars -->
+    <line x1="75" y1="136" x2="90" y2="132" stroke="var(--text-secondary)" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Injured rider lying on ground -->
+    <ellipse cx="95" cy="175" rx="12" ry="6" fill="none" stroke="#993C1D" stroke-width="1"/>
+    <circle cx="100" cy="168" r="6" fill="none" stroke="#993C1D" stroke-width="1.5"/>
+    <text class="ts" x="90" y="195" text-anchor="middle">Rider down</text>
+    <text class="ts" x="90" y="208" text-anchor="middle">Injured, no cell</text>
+
+    <!-- === REGION 2: Signal (x=160-310, amber) === -->
+    <g class="c-amber">
+      <rect x="160" y="30" width="150" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="235" y="50" text-anchor="middle">Signal emission</text>
+    </g>
+    <!-- Strobe device on handlebar (handlebar stub) -->
+    <line x1="215" y1="160" x2="225" y2="155" stroke="#854F0B" stroke-width="1.5" stroke-linecap="round"/>
+    <rect class="strobe-body" x="222" y="148" width="14" height="8" rx="2"/>
+    <rect x="224" y="149" width="10" height="6" rx="1" fill="#EF9F27" opacity="0.7"/>
+    <!-- Flash/strobe rays -->
+    <path class="signal-flash" d="M 210 140 L 218 148"/>
+    <path class="signal-flash" d="M 204 150 L 215 153"/>
+    <path class="signal-flash" d="M 205 160 L 216 158"/>
+    <path class="signal-flash" d="M 212 170 L 219 165"/>
+    <path class="signal-flash" d="M 240 140 L 232 148"/>
+    <path class="signal-flash" d="M 246 150 L 235 153"/>
+    <path class="signal-flash" d="M 245 160 L 234 158"/>
+    <path class="signal-flash" d="M 238 170 L 231 165"/>
+    <!-- Light burst arcs -->
+    <path class="signal-flash" d="M 205 130 Q 218 118 235 130" stroke-width="0.8"/>
+    <path class="signal-flash" d="M 215 120 Q 228 108 245 120" stroke-width="0.8"/>
+    <text class="ts" x="235" y="100" text-anchor="middle">Strobe activated</text>
+    <text class="ts" x="235" y="195" text-anchor="middle">Visible from trail &amp; air</text>
+
+    <!-- === REGION 3: Detection (x=310-460, blue) === -->
+    <g class="c-blue">
+      <rect x="310" y="30" width="150" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="385" y="50" text-anchor="middle">Detection</text>
+    </g>
+    <!-- Another trail user / rider spotting -->
+    <circle cx="365" cy="154" r="6" fill="none" stroke="#185FA5" stroke-width="1.5"/>
+    <path d="M 359 160 Q 365 170 371 160" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <!-- Arm pointing -->
+    <path d="M 365 158 L 348 148" fill="none" stroke="#185FA5" stroke-width="0.8"/>
+    <text class="ts" x="375" y="148" text-anchor="start">Rider spots</text>
+    <text class="ts" x="375" y="160" text-anchor="start">strobe flash</text>
+    <!-- Small aircraft (SAR plane/helicopter) looking down -->
+    <g class="c-blue">
+      <ellipse cx="385" cy="80" rx="8" ry="3" fill="none" stroke="#185FA5" stroke-width="0.5" opacity="0.5"/>
+      <path d="M 375 82 L 380 76 L 390 76 L 395 82 L 390 86 L 380 86 Z" fill="var(--bg-secondary)" stroke="#185FA5" stroke-width="0.5"/>
+    </g>
+    <!-- Line of sight from aircraft to strobe -->
+    <path class="sight-line" d="M 385 86 L 235 148"/>
+    <text class="ts" x="385" y="105" text-anchor="middle">Aerial search spots</text>
+    <text class="ts" x="385" y="118" text-anchor="middle">visual signal</text>
+    <text class="ts" x="385" y="195" text-anchor="middle">Coordinates relayed</text>
+
+    <!-- === REGION 4: Response (x=460-570, blue) === -->
+    <g class="c-blue">
+      <rect x="460" y="30" width="130" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="525" y="50" text-anchor="middle">Response</text>
+    </g>
+    <!-- ATV approaching on trail -->
+    <!-- ATV body -->
+    <path class="atv-body" d="M 500 155 L 510 145 L 535 145 L 545 155 L 540 162 L 505 162 Z"/>
+    <circle cx="510" cy="165" r="6" class="wheel"/>
+    <circle cx="535" cy="165" r="6" class="wheel"/>
+    <!-- ATV handlebars -->
+    <line x1="502" y1="145" x2="497" y2="140" stroke="#185FA5" stroke-width="0.8" stroke-linecap="round"/>
+    <!-- SAR rider figure -->
+    <circle cx="522" cy="140" r="5" fill="none" stroke="#185FA5" stroke-width="1"/>
+    <text class="ts" x="525" y="132" text-anchor="middle">SAR ground</text>
+    <text class="ts" x="525" y="144" text-anchor="middle">team</text>
+    <text class="ts" x="525" y="195" text-anchor="middle">ATV trail access</text>
+
+    <!-- === REGION 5: Recovery (x=570-660, teal) === -->
+    <g class="c-teal">
+      <rect x="550" y="30" width="110" height="140" rx="12" stroke-width="0.5"/>
+      <text class="th" x="605" y="50" text-anchor="middle">Recovery</text>
+    </g>
+    <!-- Stretcher -->
+    <rect x="585" y="148" width="40" height="14" rx="3" fill="none" stroke="#0F6E56" stroke-width="1"/>
+    <line x1="585" y1="148" x2="585" y2="140" stroke="#0F6E56" stroke-width="0.8"/>
+    <line x1="625" y1="148" x2="625" y2="140" stroke="#0F6E56" stroke-width="0.8"/>
+    <!-- Patient on stretcher -->
+    <ellipse cx="605" cy="153" rx="10" ry="5" fill="none" stroke="#0F6E56" stroke-width="0.8"/>
+    <circle cx="605" cy="146" r="4" fill="none" stroke="#0F6E56" stroke-width="1"/>
+    <text class="ts" x="605" y="180" text-anchor="middle">Extraction via</text>
+    <text class="ts" x="605" y="193" text-anchor="middle">stretcher</text>
+
+    <!-- === ARROWS connecting regions === -->
+    <line x1="160" y1="100" x2="214" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="310" y1="100" x2="359" y2="100" class="arr" marker-end="url(#arrow)"/>
+    <line x1="460" y1="100" x2="509" y2="100" class="arr" marker-end="url(#arrow)"/>
+
+    <!-- === SIGHT LINE from Region 2 strobe up to Region 3 aircraft === -->
+    <!-- (already drawn in region 3) -->
+
+    <!-- === TIMELINE === -->
+    <text class="th" x="340" y="270" text-anchor="middle">Elapsed time (minutes from crash)</text>
+    <g>
+      <line x1="40" y1="300" x2="640" y2="300" class="timeline-bar"/>
+      <!-- T+0 -->
+      <circle cx="90" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="90" y="320" text-anchor="middle">T+0</text>
+      <text class="ts" x="90" y="334" text-anchor="middle">Crash</text>
+      <!-- T+1 -->
+      <circle cx="235" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="235" y="320" text-anchor="middle">T+1</text>
+      <text class="ts" x="235" y="334" text-anchor="middle">Strobe on</text>
+      <!-- T+30 -->
+      <circle cx="385" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="385" y="320" text-anchor="middle">T+30</text>
+      <text class="ts" x="385" y="334" text-anchor="middle">Rider discovers</text>
+      <!-- T+60 -->
+      <circle cx="525" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="525" y="320" text-anchor="middle">T+60</text>
+      <text class="ts" x="525" y="334" text-anchor="middle">SAR dispatched</text>
+      <!-- T+120 -->
+      <circle cx="605" cy="300" r="5" class="timeline-dot"/>
+      <text class="ts" x="605" y="320" text-anchor="middle">T+120</text>
+      <text class="ts" x="605" y="334" text-anchor="middle">Extraction</text>
+    </g>
+
+    <!-- === KEY INSIGHT === -->
+    <g class="c-amber">
+      <rect x="100" y="360" width="480" height="44" rx="8" stroke-width="0.5"/>
+      <text class="th" x="340" y="376" text-anchor="middle" dominant-baseline="central">A rider down on singletrack is invisible from the air.</text>
+      <text class="ts" x="340" y="392" text-anchor="middle" dominant-baseline="central">A strobe on the trail makes the difference between found in hours and found the next day.</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>
