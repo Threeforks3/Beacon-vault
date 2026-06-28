@@ -24,6 +24,17 @@ Every scenario in this compendium is also your scenario. The difference is persp
 
 Each scenario page includes a "What to do immediately" section — written for the person in trouble, not the person responding.
 
+## Activity Guides
+
+Detailed breakdowns of when and how signaling applies to your activity:
+
+- [[Paddlesports]] — kayak, canoe, SUP, raft
+- [[Footsports]] — hiking and trail running
+- [[Fishing]] — shore, pier, kayak, boat
+- [[Bicycling]] — mountain, gravel, road
+- [[Snow Sports]] — ski, snowboard, snowshoe, snowmobile
+- [[Hunting]] — rifle, bow, waterfowl
+
 ## What to Carry
 
 The minimum signaling kit for any outdoor activity:
